@@ -1,21 +1,23 @@
+
 using Microsoft.Playwright;
 using System;
 using System.Threading.Tasks;
 using PlaywrightWDE.Global.Navigation;
 using PlaywrightWDE.Global.Selectors;
 using PlaywrightWDE.Global.Helpers;
+using PlaywrightWDE.Global.Logs;
 
-
-namespace PlaywrightWDE.Actions {
-
-        public static class FIGLActions {
-
-        public static async Task ExecuteFiglReportAsync( IPage page,
+namespace PlaywrightWDE.Actions
+{
+    public static class FIGLActions
+    {
+        public static async Task ExecuteFiglReportAsync(
+            IPage page,
             string parentArg,
             string childArg,
             NavNode leaf,
-            string[] reportPath) {
-
+            string[] reportPath)
+        {
             if (page == null) throw new ArgumentNullException(nameof(page));
             if (string.IsNullOrWhiteSpace(parentArg)) throw new ArgumentNullException(nameof(parentArg));
             if (string.IsNullOrWhiteSpace(childArg)) throw new ArgumentNullException(nameof(childArg));
@@ -23,23 +25,25 @@ namespace PlaywrightWDE.Actions {
 
             await ClickNavLinks.ClickNavLinksAsync(page, reportPath);
 
-            if (parentArg.Equals(FIGLNavLinkSelectors.Parents.RP.Key, StringComparison.OrdinalIgnoreCase))
+            if (parentArg.Equals(FIGLNavLinkSelectors.Parents["RP"].Key, StringComparison.OrdinalIgnoreCase) &&
+                childArg.Equals(FIGLNavLinkSelectors.Children["RP"]["Procurement"].Key, StringComparison.OrdinalIgnoreCase))
             {
-                switch (childArg.ToUpper())
+                if (leaf.Key.Equals(FIGLNavLinkSelectors.Leaves["RP"]["Procurement"]["GoodReceiptsReport"].Key, StringComparison.OrdinalIgnoreCase))
                 {
-                    case var c when c.Equals(FIGLNavLinkSelectors.Childrens.RP.Procurement.Key, StringComparison.OrdinalIgnoreCase):
-                        await GoodReceiptsReportHelper.ExecuteGoodReceiptsReportAsync(page);
-                        break;
-
-                    default:
-                        throw new Exception($"Unknown RP child report: {childArg}");
+                    await GoodReceiptsReportEntryHelper.ExecuteGoodReceiptsReportAsync(page);
+                }
+                else
+                {
+                    Logger.Log($"⚠️ Skipping unknown FIGL leaf: {leaf.Key} - {leaf.Display}");
+                    return;
                 }
             }
+            else
+            {
+                throw new Exception($"Unknown FIGL parent/child combination: {parentArg}/{childArg}");
+            }
+
+            Logger.Log($"✅ Completed execution of FIGL report: {leaf.Display}");
         }
     }
-
 }
-
-
-
-

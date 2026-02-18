@@ -38,12 +38,18 @@ namespace PlaywrightWDE.Global.Logs
 
         public static void Log(string message)
         {
-            LogToFile(message, FilePath.FilePath.LogsText);
+            var logFilePath = FilePath.FilePath.GetLogsFilePath(DateTime.Now);
+
+            LogToFile(message, logFilePath);
+
+            // LogToFile(message, FilePath.FilePath.LogsText);
         }
 
         public static void LogToFile(string message, string filePath)
         {
             var line = $"[{DateTime.Now:HH:mm:ss}] {message}";
+            
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(line);
 
             lock (_lock)

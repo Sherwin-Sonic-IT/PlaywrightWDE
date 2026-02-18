@@ -1,0 +1,3339 @@
+[07:00:16] Task started.
+[07:00:22] ➡️ First login submitted
+[07:00:31] ✅ Second password field found on main page
+[07:00:34] ✅ Second password filled
+[07:00:34] 🔹 Captcha detected: 7iYM7d5
+[07:00:35] ✅ Captcha filled
+[07:00:36] ✅ Login submitted
+[07:00:38] Login successful.
+[07:00:53] ✅ Field value entered
+[07:00:53] ✅ Clicked Execute button
+[07:00:55] ✅ Clicked More button
+[07:00:55] ✅ Clicked Choose Layout
+[07:01:06] ✅ Element visible after 83 scrolls
+[07:01:06] ✅ Clicked /SSDI ALL
+[07:01:06] ✅ Clicked Menu
+[07:01:07] ✅ Hovered List
+[07:01:07] ✅ Hovered Export
+[07:01:07] ✅ Clicked Spreadsheet
+[07:01:18] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4049'
+[07:01:19] ✅ Clicked OK
+[07:01:20] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\SALESMAN_MASTER_REPORT_4049.xlsx
+[07:01:31] ✅ Field value entered
+[07:01:31] ✅ Clicked Execute button
+[07:01:32] ✅ Clicked More button
+[07:01:32] ✅ Clicked Choose Layout
+[07:01:41] ✅ Element visible after 83 scrolls
+[07:01:42] ✅ Clicked /SSDI ALL
+[07:01:42] ✅ Clicked Menu
+[07:01:42] ✅ Hovered List
+[07:01:43] ✅ Hovered Export
+[07:01:43] ✅ Clicked Spreadsheet
+[07:01:44] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4A48'
+[07:01:44] ✅ Clicked OK
+[07:01:46] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\SALESMAN_MASTER_REPORT_4A48.xlsx
+[07:01:56] ✅ Field value entered
+[07:01:56] ✅ Clicked Execute button
+[07:01:57] ✅ Clicked More button
+[07:01:57] ✅ Clicked Choose Layout
+[07:02:07] ✅ Element visible after 83 scrolls
+[07:02:07] ✅ Clicked /SSDI ALL
+[07:02:07] ✅ Clicked Menu
+[07:02:08] ✅ Hovered List
+[07:02:08] ✅ Hovered Export
+[07:02:08] ✅ Clicked Spreadsheet
+[07:02:09] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4B48'
+[07:02:09] ✅ Clicked OK
+[07:02:11] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\SALESMAN_MASTER_REPORT_4B48.xlsx
+[07:02:21] ✅ Field value entered
+[07:02:21] ✅ Clicked Execute button
+[07:02:23] ✅ Clicked More button
+[07:02:23] ✅ Clicked Choose Layout
+[07:02:32] ✅ Element visible after 83 scrolls
+[07:02:33] ✅ Clicked /SSDI ALL
+[07:02:33] ✅ Clicked Menu
+[07:02:33] ✅ Hovered List
+[07:02:34] ✅ Hovered Export
+[07:02:34] ✅ Clicked Spreadsheet
+[07:02:35] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4C48'
+[07:02:35] ✅ Clicked OK
+[07:02:37] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\SALESMAN_MASTER_REPORT_4C48.xlsx
+[07:02:47] ✅ Field value entered
+[07:02:47] ✅ Clicked Execute button
+[07:02:48] ✅ Clicked More button
+[07:02:48] ✅ Clicked Choose Layout
+[07:02:58] ✅ Element visible after 83 scrolls
+[07:02:58] ✅ Clicked /SSDI ALL
+[07:02:59] ✅ Clicked Menu
+[07:02:59] ✅ Hovered List
+[07:03:00] ✅ Hovered Export
+[07:03:00] ✅ Clicked Spreadsheet
+[07:03:01] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4536'
+[07:03:01] ✅ Clicked OK
+[07:03:03] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\SALESMAN_MASTER_REPORT_4536.xlsx
+[07:03:14] ✅ Field value entered
+[07:03:14] ✅ Clicked Execute button
+[07:03:15] ✅ Clicked More button
+[07:03:15] ✅ Clicked Choose Layout
+[07:03:25] ✅ Element visible after 83 scrolls
+[07:03:25] ✅ Clicked /SSDI ALL
+[07:03:25] ✅ Clicked Menu
+[07:03:26] ✅ Hovered List
+[07:03:26] ✅ Hovered Export
+[07:03:26] ✅ Clicked Spreadsheet
+[07:03:27] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4537'
+[07:03:27] ✅ Clicked OK
+[07:03:29] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\SALESMAN_MASTER_REPORT_4537.xlsx
+[07:03:29] Completed execution of report: 7.4.1 Salesman Master Report (RPT22)
+[07:03:39] ✅ Field value entered
+[07:03:39] ✅ 'All' radio button selected
+[07:03:39] ✅ Clicked Execute button
+[07:03:46] ✅ Clicked More button
+[07:03:46] ✅ Clicked Choose Layout
+[07:03:48] ✅ Element visible after 8 scrolls
+[07:03:48] ✅ Clicked /SSDI MSTR
+[07:03:49] ✅ Clicked Menu
+[07:03:49] ✅ Hovered List
+[07:03:50] ✅ Hovered Export
+[07:03:50] ✅ Clicked Spreadsheet
+[07:03:51] ✅ File name changed to 'ARTICLEMASTER_REPORT_4049'
+[07:03:51] ✅ Clicked OK
+[07:03:53] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ARTICLEMASTER_REPORT_4049.xlsx
+[07:04:03] ✅ Field value entered
+[07:04:03] ✅ 'All' radio button selected
+[07:04:03] ✅ Clicked Execute button
+[07:08:24] ✅ Clicked More button
+[07:08:24] ✅ Clicked Choose Layout
+[07:08:26] ✅ Element visible after 8 scrolls
+[07:08:26] ✅ Clicked /SSDI MSTR
+[07:08:27] ✅ Clicked Menu
+[07:08:27] ✅ Hovered List
+[07:08:27] ✅ Hovered Export
+[07:08:28] ✅ Clicked Spreadsheet
+[07:08:30] ✅ File name changed to 'ARTICLEMASTER_REPORT_4A48'
+[07:08:30] ✅ Clicked OK
+[07:08:33] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ARTICLEMASTER_REPORT_4A48.xlsx
+[07:08:44] ✅ Field value entered
+[07:08:44] ✅ 'All' radio button selected
+[07:08:44] ✅ Clicked Execute button
+[07:12:55] ✅ Clicked More button
+[07:12:55] ✅ Clicked Choose Layout
+[07:12:57] ✅ Element visible after 8 scrolls
+[07:12:57] ✅ Clicked /SSDI MSTR
+[07:12:58] ✅ Clicked Menu
+[07:12:58] ✅ Hovered List
+[07:12:58] ✅ Hovered Export
+[07:12:58] ✅ Clicked Spreadsheet
+[07:13:00] ✅ File name changed to 'ARTICLEMASTER_REPORT_4B48'
+[07:13:00] ✅ Clicked OK
+[07:13:02] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ARTICLEMASTER_REPORT_4B48.xlsx
+[07:13:13] ✅ Field value entered
+[07:13:13] ✅ 'All' radio button selected
+[07:13:13] ✅ Clicked Execute button
+[07:16:04] ✅ Clicked More button
+[07:16:04] ✅ Clicked Choose Layout
+[07:16:06] ✅ Element visible after 8 scrolls
+[07:16:06] ✅ Clicked /SSDI MSTR
+[07:16:07] ✅ Clicked Menu
+[07:16:07] ✅ Hovered List
+[07:16:07] ✅ Hovered Export
+[07:16:08] ✅ Clicked Spreadsheet
+[07:16:10] ✅ File name changed to 'ARTICLEMASTER_REPORT_4C48'
+[07:16:10] ✅ Clicked OK
+[07:16:13] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ARTICLEMASTER_REPORT_4C48.xlsx
+[07:16:23] ✅ Field value entered
+[07:16:23] ✅ 'All' radio button selected
+[07:16:23] ✅ Clicked Execute button
+[07:16:44] ✅ Clicked More button
+[07:16:44] ✅ Clicked Choose Layout
+[07:16:46] ✅ Element visible after 8 scrolls
+[07:16:46] ✅ Clicked /SSDI MSTR
+[07:16:47] ✅ Clicked Menu
+[07:16:47] ✅ Hovered List
+[07:16:47] ✅ Hovered Export
+[07:16:48] ✅ Clicked Spreadsheet
+[07:16:49] ✅ File name changed to 'ARTICLEMASTER_REPORT_4536'
+[07:16:49] ✅ Clicked OK
+[07:16:51] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ARTICLEMASTER_REPORT_4536.xlsx
+[07:17:01] ✅ Field value entered
+[07:17:01] ✅ 'All' radio button selected
+[07:17:01] ✅ Clicked Execute button
+[07:17:21] ✅ Clicked More button
+[07:17:21] ✅ Clicked Choose Layout
+[07:17:23] ✅ Element visible after 8 scrolls
+[07:17:23] ✅ Clicked /SSDI MSTR
+[07:17:24] ✅ Clicked Menu
+[07:17:24] ✅ Hovered List
+[07:17:24] ✅ Hovered Export
+[07:17:25] ✅ Clicked Spreadsheet
+[07:17:26] ✅ File name changed to 'ARTICLEMASTER_REPORT_4537'
+[07:17:26] ✅ Clicked OK
+[07:17:27] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ARTICLEMASTER_REPORT_4537.xlsx
+[07:17:28] Completed execution of report: 7.4.2 Article Master Report (RPT23)
+[07:17:38] ✅ Field value entered
+[07:17:38] ✅ Field value entered
+[07:17:38] ✅ Clicked Execute button
+[07:17:42] ✅ Clicked More button
+[07:17:42] ✅ Clicked Choose Layout
+[07:18:23] ✅ Element visible after 353 scrolls
+[07:18:23] ✅ Clicked /SSDI ALL
+[07:18:31] ✅ Clicked Menu
+[07:18:31] ✅ Hovered List
+[07:18:31] ✅ Hovered Export
+[07:18:31] ✅ Clicked Spreadsheet
+[07:18:35] ✅ File name changed to 'OUTLETMASTER_REPORT_4049'
+[07:18:35] ✅ Clicked OK
+[07:18:43] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\OUTLETMASTER_REPORT_4049.xlsx
+[07:18:54] ✅ Field value entered
+[07:18:54] ✅ Field value entered
+[07:18:54] ✅ Clicked Execute button
+[07:18:58] ✅ Clicked More button
+[07:18:58] ✅ Clicked Choose Layout
+[07:19:39] ✅ Element visible after 353 scrolls
+[07:19:39] ✅ Clicked /SSDI ALL
+[07:19:40] ✅ Clicked Menu
+[07:19:41] ✅ Hovered List
+[07:19:41] ✅ Hovered Export
+[07:19:41] ✅ Clicked Spreadsheet
+[07:19:45] ✅ File name changed to 'OUTLETMASTER_REPORT_4A48'
+[07:19:45] ✅ Clicked OK
+[07:19:50] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\OUTLETMASTER_REPORT_4A48.xlsx
+[07:20:01] ✅ Field value entered
+[07:20:01] ✅ Field value entered
+[07:20:01] ✅ Clicked Execute button
+[07:20:08] ✅ Clicked More button
+[07:20:08] ✅ Clicked Choose Layout
+[07:20:49] ✅ Element visible after 353 scrolls
+[07:20:49] ✅ Clicked /SSDI ALL
+[07:20:50] ✅ Clicked Menu
+[07:20:50] ✅ Hovered List
+[07:20:51] ✅ Hovered Export
+[07:20:51] ✅ Clicked Spreadsheet
+[07:21:01] ✅ File name changed to 'OUTLETMASTER_REPORT_4B48'
+[07:21:01] ✅ Clicked OK
+[07:21:11] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\OUTLETMASTER_REPORT_4B48.xlsx
+[07:21:22] ✅ Field value entered
+[07:21:22] ✅ Field value entered
+[07:21:22] ✅ Clicked Execute button
+[07:21:33] ✅ Clicked More button
+[07:21:33] ✅ Clicked Choose Layout
+[07:22:13] ✅ Element visible after 353 scrolls
+[07:22:14] ✅ Clicked /SSDI ALL
+[07:22:15] ✅ Clicked Menu
+[07:22:15] ✅ Hovered List
+[07:22:15] ✅ Hovered Export
+[07:22:16] ✅ Clicked Spreadsheet
+[07:22:34] ✅ File name changed to 'OUTLETMASTER_REPORT_4C48'
+[07:22:34] ✅ Clicked OK
+[07:22:50] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\OUTLETMASTER_REPORT_4C48.xlsx
+[07:23:00] ✅ Field value entered
+[07:23:00] ✅ Field value entered
+[07:23:00] ✅ Clicked Execute button
+[07:23:04] ✅ Clicked More button
+[07:23:04] ✅ Clicked Choose Layout
+[07:23:46] ✅ Element visible after 353 scrolls
+[07:23:46] ✅ Clicked /SSDI ALL
+[07:23:47] ✅ Clicked Menu
+[07:23:47] ✅ Hovered List
+[07:23:47] ✅ Hovered Export
+[07:23:48] ✅ Clicked Spreadsheet
+[07:23:50] ✅ File name changed to 'OUTLETMASTER_REPORT_4536'
+[07:23:50] ✅ Clicked OK
+[07:23:54] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\OUTLETMASTER_REPORT_4536.xlsx
+[07:24:04] ✅ Field value entered
+[07:24:04] ✅ Field value entered
+[07:24:04] ✅ Clicked Execute button
+[07:24:05] ✅ Clicked More button
+[07:24:05] ✅ Clicked Choose Layout
+[07:24:46] ✅ Element visible after 353 scrolls
+[07:24:46] ✅ Clicked /SSDI ALL
+[07:24:47] ✅ Clicked Menu
+[07:24:47] ✅ Hovered List
+[07:24:48] ✅ Hovered Export
+[07:24:48] ✅ Clicked Spreadsheet
+[07:24:49] ✅ File name changed to 'OUTLETMASTER_REPORT_4537'
+[07:24:49] ✅ Clicked OK
+[07:24:51] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\OUTLETMASTER_REPORT_4537.xlsx
+[07:24:51] Completed execution of report: 7.4.3 Outlet Master Report (RPT24)
+[07:24:51] ⚠️ Skipping unknown RP Master leaf: 7.4.9 - 7.4.9 Outlet Master Status Track Report
+[07:24:51] Task completed.
+[08:35:33] Task started.
+[08:35:39] ➡️ First login submitted
+[08:35:45] ✅ Second password field found on main page
+[08:35:48] ✅ Second password filled
+[08:35:48] 🔹 Captcha detected: 3rOkf9F
+[08:35:49] ✅ Captcha filled
+[08:35:50] ✅ Login submitted
+[08:35:52] Login successful.
+[08:36:00] ✅ Field value entered
+[08:36:00] ✅ Field value entered
+[08:36:00] ✅ Distributor sites entered
+[08:36:00] ✅ Field value entered
+[08:36:00] ✅ Clicked OK
+[08:36:09] ✅ Right-clicked Calendar Day
+[08:36:10] ✅ Clicked Change Drilldown
+[08:36:10] ✅ Clicked Drilldown by
+[08:36:10] ✅ Clicked Vertical
+[08:36:22] ✅ Right-clicked Invoice Due Date
+[08:36:23] ✅ Clicked Change Drilldown
+[08:36:23] ✅ Clicked Drilldown by
+[08:36:23] ✅ Clicked Vertical
+[08:36:36] ✅ Right-clicked Invoice No
+[08:36:36] ✅ Clicked Change Drilldown
+[08:36:37] ✅ Clicked Drilldown by
+[08:36:37] ✅ Clicked Vertical
+[08:36:50] ✅ Clicked Export to Excel
+[08:36:56] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:36:56] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:36:56] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:36:56] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[08:36:56] Task completed.
+[08:39:45] Task started.
+[08:39:59] ➡️ First login submitted
+[08:40:22] ✅ Second password field found on main page
+[08:40:25] ✅ Second password filled
+[08:40:25] 🔹 Captcha detected: 9xye0fH
+[08:40:27] ✅ Captcha filled
+[08:40:28] ✅ Login submitted
+[08:40:30] Login successful.
+[08:40:39] ✅ Field value entered
+[08:40:39] ✅ Field value entered
+[08:40:39] ✅ Distributor sites entered
+[08:40:39] ✅ Field value entered
+[08:40:39] ✅ Clicked OK
+[08:40:45] ✅ Right-clicked Calendar Day
+[08:40:45] ✅ Clicked Change Drilldown
+[08:40:46] ✅ Clicked Drilldown by
+[08:40:46] ✅ Clicked Vertical
+[08:40:50] ✅ Right-clicked Invoice Due Date
+[08:40:51] ✅ Clicked Change Drilldown
+[08:40:51] ✅ Clicked Drilldown by
+[08:40:51] ✅ Clicked Vertical
+[08:40:55] ✅ Right-clicked Invoice No
+[08:40:56] ✅ Clicked Change Drilldown
+[08:40:56] ✅ Clicked Drilldown by
+[08:40:56] ✅ Clicked Vertical
+[08:41:01] ✅ Clicked Export to Excel
+[08:41:06] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:41:06] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:41:06] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:41:06] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[08:41:06] Task completed.
+[08:42:57] Task started.
+[08:43:10] ➡️ First login submitted
+[08:43:47] ✅ Second password field found on main page
+[08:43:57] ✅ Second password filled
+[08:44:02] 🔹 Captcha detected: M4h1dHE
+[08:44:06] ✅ Captcha filled
+[08:44:09] ✅ Login submitted
+[08:44:11] Login successful.
+[08:44:34] ✅ Field value entered
+[08:44:34] ✅ Field value entered
+[08:44:34] ✅ Distributor sites entered
+[08:44:34] ✅ Field value entered
+[08:44:34] ✅ Clicked OK
+[08:44:39] ✅ Right-clicked Calendar Day
+[08:44:40] ✅ Clicked Change Drilldown
+[08:44:40] ✅ Clicked Drilldown by
+[08:44:40] ✅ Clicked Vertical
+[08:44:45] ✅ Right-clicked Invoice Due Date
+[08:44:45] ✅ Clicked Change Drilldown
+[08:44:45] ✅ Clicked Drilldown by
+[08:44:45] ✅ Clicked Vertical
+[08:44:50] ✅ Right-clicked Invoice No
+[08:44:50] ✅ Clicked Change Drilldown
+[08:44:51] ✅ Clicked Drilldown by
+[08:44:51] ✅ Clicked Vertical
+[08:44:56] ✅ Clicked Export to Excel
+[08:45:03] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:45:03] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:45:03] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:45:03] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[08:45:03] Task completed.
+[08:46:42] Task started.
+[08:46:53] ➡️ First login submitted
+[08:47:01] ✅ Second password field found on main page
+[08:47:06] ✅ Second password filled
+[08:47:09] 🔹 Captcha detected: 9mEOSGb
+[08:47:10] ✅ Captcha filled
+[08:47:11] ✅ Login submitted
+[08:47:13] Login successful.
+[08:47:22] ✅ Field value entered
+[08:47:22] ✅ Field value entered
+[08:47:22] ✅ Distributor sites entered
+[08:47:22] ✅ Field value entered
+[08:47:22] ✅ Clicked OK
+[08:47:29] ✅ Right-clicked Calendar Day
+[08:47:30] ✅ Clicked Change Drilldown
+[08:47:30] ✅ Clicked Drilldown by
+[08:47:30] ✅ Clicked Vertical
+[08:47:35] ✅ Right-clicked Invoice Due Date
+[08:47:35] ✅ Clicked Change Drilldown
+[08:47:35] ✅ Clicked Drilldown by
+[08:47:35] ✅ Clicked Vertical
+[08:47:40] ✅ Right-clicked Invoice No
+[08:47:40] ✅ Clicked Change Drilldown
+[08:47:41] ✅ Clicked Drilldown by
+[08:47:41] ✅ Clicked Vertical
+[08:47:46] ✅ Clicked Export to Excel
+[08:47:49] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:47:49] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:47:49] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:47:49] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[08:47:49] Task completed.
+[08:49:28] Task started.
+[08:49:35] ➡️ First login submitted
+[08:50:01] ✅ Second password field found on main page
+[08:50:07] ✅ Second password filled
+[08:50:10] 🔹 Captcha detected: PFlhDmp
+[08:50:15] ✅ Captcha filled
+[08:50:19] ✅ Login submitted
+[08:50:21] Login successful.
+[08:51:10] ✅ Field value entered
+[08:51:10] ✅ Field value entered
+[08:51:10] ✅ Distributor sites entered
+[08:51:10] ✅ Field value entered
+[08:51:10] ✅ Clicked OK
+[08:51:19] ✅ Right-clicked Calendar Day
+[08:51:21] ✅ Clicked Change Drilldown
+[08:51:21] ✅ Clicked Drilldown by
+[08:51:21] ✅ Clicked Vertical
+[08:51:28] ✅ Right-clicked Invoice Due Date
+[08:51:28] ✅ Clicked Change Drilldown
+[08:51:29] ✅ Clicked Drilldown by
+[08:51:29] ✅ Clicked Vertical
+[08:51:37] ✅ Right-clicked Invoice No
+[08:51:37] ✅ Clicked Change Drilldown
+[08:51:37] ✅ Clicked Drilldown by
+[08:51:37] ✅ Clicked Vertical
+[08:51:43] ✅ Clicked Export to Excel
+[08:52:00] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:52:00] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:52:00] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[08:52:00] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[08:52:00] Task completed.
+[08:57:48] Task started.
+[08:58:00] ➡️ First login submitted
+[08:58:21] ✅ Second password field found on main page
+[08:58:27] ✅ Second password filled
+[08:58:28] 🔹 Captcha detected: 0nUQeT4
+[08:58:29] ✅ Captcha filled
+[08:58:30] ✅ Login submitted
+[08:58:32] Login successful.
+[08:58:44] ✅ Field value entered
+[08:58:44] ✅ Field value entered
+[08:58:44] ✅ Distributor sites entered
+[08:58:44] ✅ Field value entered
+[08:58:44] ✅ Clicked OK
+[08:58:51] ✅ Right-clicked Calendar Day
+[08:58:53] ✅ Clicked Change Drilldown
+[08:58:53] ✅ Clicked Drilldown by
+[08:58:53] ✅ Clicked Vertical
+[08:58:58] ✅ Right-clicked Invoice Due Date
+[08:58:59] ✅ Clicked Change Drilldown
+[08:58:59] ✅ Clicked Drilldown by
+[08:58:59] ✅ Clicked Vertical
+[08:59:04] ✅ Right-clicked Invoice No
+[08:59:05] ✅ Clicked Change Drilldown
+[08:59:05] ✅ Clicked Drilldown by
+[08:59:05] ✅ Clicked Vertical
+[08:59:11] ✅ Clicked Export to Excel
+[08:59:18] ERROR:
+[08:59:18] System.NotSupportedException: No data is available for encoding 1252. For information on defining a custom encoding, see the documentation for the Encoding.RegisterProvider method.
+   at System.Text.Encoding.GetEncoding(Int32 codepage)
+   at ExcelDataReader.ExcelReaderConfiguration..ctor()
+   at ExcelDataReader.ExcelReaderFactory.CreateReader(Stream fileStream, ExcelReaderConfiguration configuration)
+   at ConvertXlsToXlsx.ConvertToXlsx(String xlsPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertXlstoXlsx.cs:line 11
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 232
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[09:00:23] Task started.
+[09:00:33] ➡️ First login submitted
+[09:00:50] ✅ Second password field found on main page
+[09:00:56] ✅ Second password filled
+[09:01:00] 🔹 Captcha detected: 4yEij8N
+[09:01:01] ✅ Captcha filled
+[09:01:55] ✅ Login submitted
+[09:01:57] Login successful.
+[09:02:24] ✅ Field value entered
+[09:02:24] ✅ Field value entered
+[09:02:24] ✅ Distributor sites entered
+[09:02:24] ✅ Field value entered
+[09:02:24] ✅ Clicked OK
+[09:02:29] ✅ Right-clicked Calendar Day
+[09:02:30] ✅ Clicked Change Drilldown
+[09:02:30] ✅ Clicked Drilldown by
+[09:02:30] ✅ Clicked Vertical
+[09:02:39] ✅ Right-clicked Invoice Due Date
+[09:02:39] ✅ Clicked Change Drilldown
+[09:02:39] ✅ Clicked Drilldown by
+[09:02:39] ✅ Clicked Vertical
+[09:02:48] ✅ Right-clicked Invoice No
+[09:02:48] ✅ Clicked Change Drilldown
+[09:02:48] ✅ Clicked Drilldown by
+[09:02:49] ✅ Clicked Vertical
+[09:02:54] ✅ Clicked Export to Excel
+[09:02:56] ERROR:
+[09:02:56] ExcelDataReader.Exceptions.HeaderException: Invalid file signature.
+   at ExcelDataReader.ExcelReaderFactory.CreateReader(Stream fileStream, ExcelReaderConfiguration configuration)
+   at ConvertXlsToXlsx.ConvertToXlsx(String xlsPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertXlstoXlsx.cs:line 11
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 232
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 92
+[09:06:20] Task started.
+[09:07:48] Task started.
+[09:07:52] ➡️ First login submitted
+[09:08:00] ✅ Second password field found on main page
+[09:08:03] ✅ Second password filled
+[09:08:03] 🔹 Captcha detected: 8eMmH6S
+[09:08:05] ✅ Captcha filled
+[09:08:06] ✅ Login submitted
+[09:08:08] Login successful.
+[09:08:17] ✅ Field value entered
+[09:08:17] ✅ Field value entered
+[09:08:17] ✅ Distributor sites entered
+[09:08:17] ✅ Field value entered
+[09:08:17] ✅ Clicked OK
+[09:08:23] ✅ Right-clicked Calendar Day
+[09:08:24] ✅ Clicked Change Drilldown
+[09:08:24] ✅ Clicked Drilldown by
+[09:08:25] ✅ Clicked Vertical
+[09:08:30] ✅ Right-clicked Invoice Due Date
+[09:08:31] ✅ Clicked Change Drilldown
+[09:08:31] ✅ Clicked Drilldown by
+[09:08:31] ✅ Clicked Vertical
+[09:08:36] ✅ Right-clicked Invoice No
+[09:08:37] ✅ Clicked Change Drilldown
+[09:08:37] ✅ Clicked Drilldown by
+[09:08:37] ✅ Clicked Vertical
+[09:08:42] ✅ Clicked Export to Excel
+[09:08:46] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:08:46] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:08:46] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:08:46] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[09:08:46] Task completed.
+[09:11:52] Task started.
+[09:12:07] ➡️ First login submitted
+[09:12:23] ✅ Second password field found on main page
+[09:12:31] ✅ Second password filled
+[09:12:32] 🔹 Captcha detected: 62h5MoM
+[09:12:35] ✅ Captcha filled
+[09:12:36] ✅ Login submitted
+[09:12:38] Login successful.
+[09:12:51] ✅ Field value entered
+[09:12:51] ✅ Field value entered
+[09:12:51] ✅ Distributor sites entered
+[09:12:51] ✅ Field value entered
+[09:12:51] ✅ Clicked OK
+[09:12:57] ✅ Right-clicked Calendar Day
+[09:12:58] ✅ Clicked Change Drilldown
+[09:12:58] ✅ Clicked Drilldown by
+[09:12:58] ✅ Clicked Vertical
+[09:13:03] ✅ Right-clicked Invoice Due Date
+[09:13:04] ✅ Clicked Change Drilldown
+[09:13:04] ✅ Clicked Drilldown by
+[09:13:04] ✅ Clicked Vertical
+[09:13:09] ✅ Right-clicked Invoice No
+[09:13:10] ✅ Clicked Change Drilldown
+[09:13:10] ✅ Clicked Drilldown by
+[09:13:10] ✅ Clicked Vertical
+[09:13:15] ✅ Clicked Export to Excel
+[09:13:19] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:13:19] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:13:19] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:13:19] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[09:13:19] Task completed.
+[09:17:11] Task started.
+[09:17:24] ➡️ First login submitted
+[09:18:18] ✅ Second password field found on main page
+[09:18:23] ✅ Second password filled
+[09:18:25] 🔹 Captcha detected: gsk2IeB
+[09:18:28] ✅ Captcha filled
+[09:18:30] ✅ Login submitted
+[09:18:32] Login successful.
+[09:19:00] ✅ Field value entered
+[09:19:00] ✅ Field value entered
+[09:19:00] ✅ Distributor sites entered
+[09:19:00] ✅ Field value entered
+[09:19:00] ✅ Clicked OK
+[09:19:06] ✅ Right-clicked Calendar Day
+[09:19:07] ✅ Clicked Change Drilldown
+[09:19:07] ✅ Clicked Drilldown by
+[09:19:07] ✅ Clicked Vertical
+[09:19:12] ✅ Right-clicked Invoice Due Date
+[09:19:12] ✅ Clicked Change Drilldown
+[09:19:13] ✅ Clicked Drilldown by
+[09:19:13] ✅ Clicked Vertical
+[09:19:18] ✅ Right-clicked Invoice No
+[09:19:18] ✅ Clicked Change Drilldown
+[09:19:18] ✅ Clicked Drilldown by
+[09:19:18] ✅ Clicked Vertical
+[09:19:24] ✅ Clicked Export to Excel
+[09:19:29] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:19:29] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:19:29] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:19:29] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[09:19:29] Task completed.
+[09:27:33] Task started.
+[09:27:36] ➡️ First login submitted
+[09:27:42] ✅ Second password field found on main page
+[09:27:45] ✅ Second password filled
+[09:27:45] 🔹 Captcha detected: SSJzPS4
+[09:27:46] ✅ Captcha filled
+[09:27:47] ✅ Login submitted
+[09:27:49] Login successful.
+[09:27:57] ✅ Field value entered
+[09:27:57] ✅ Field value entered
+[09:27:57] ✅ Distributor sites entered
+[09:27:57] ✅ Field value entered
+[09:27:57] ✅ Clicked OK
+[09:28:03] ✅ Right-clicked Calendar Day
+[09:28:03] ✅ Clicked Change Drilldown
+[09:28:04] ✅ Clicked Drilldown by
+[09:28:04] ✅ Clicked Vertical
+[09:28:08] ✅ Right-clicked Invoice Due Date
+[09:28:09] ✅ Clicked Change Drilldown
+[09:28:09] ✅ Clicked Drilldown by
+[09:28:10] ✅ Clicked Vertical
+[09:28:14] ✅ Right-clicked Invoice No
+[09:28:15] ✅ Clicked Change Drilldown
+[09:28:15] ✅ Clicked Drilldown by
+[09:28:15] ✅ Clicked Vertical
+[09:28:27] ✅ Clicked Export to Excel
+[09:28:41] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:28:41] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:28:41] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:28:41] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[09:28:41] Task completed.
+[09:29:50] Task started.
+[09:29:54] ➡️ First login submitted
+[09:29:59] ✅ Second password field found on main page
+[09:30:02] ✅ Second password filled
+[09:30:03] 🔹 Captcha detected: Nu77EJA
+[09:30:05] ✅ Captcha filled
+[09:30:07] ✅ Login submitted
+[09:30:09] Login successful.
+[09:30:33] ✅ Field value entered
+[09:30:33] ✅ Field value entered
+[09:30:33] ✅ Distributor sites entered
+[09:30:33] ✅ Field value entered
+[09:30:33] ✅ Clicked OK
+[09:30:38] ✅ Right-clicked Calendar Day
+[09:30:39] ✅ Clicked Change Drilldown
+[09:30:39] ✅ Clicked Drilldown by
+[09:30:40] ✅ Clicked Vertical
+[09:30:44] ✅ Right-clicked Invoice Due Date
+[09:30:45] ✅ Clicked Change Drilldown
+[09:30:45] ✅ Clicked Drilldown by
+[09:30:45] ✅ Clicked Vertical
+[09:30:50] ✅ Right-clicked Invoice No
+[09:30:51] ✅ Clicked Change Drilldown
+[09:30:51] ✅ Clicked Drilldown by
+[09:30:51] ✅ Clicked Vertical
+[09:30:56] ✅ Clicked Export to Excel
+[09:31:00] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:31:00] 📝 Renamed XLSX to: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:31:00] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\TESTINVOICE.xlsx
+[09:31:00] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[09:31:00] Task completed.
+[09:47:42] Task started.
+[09:47:48] ➡️ First login submitted
+[09:47:53] ✅ Second password field found on main page
+[09:47:57] ✅ Second password filled
+[09:47:57] 🔹 Captcha detected: rHjPloX
+[09:47:58] ✅ Captcha filled
+[09:47:59] ✅ Login submitted
+[09:48:01] Login successful.
+[09:48:09] ✅ Field value entered
+[09:48:09] ✅ Field value entered
+[09:48:09] ✅ Distributor sites entered
+[09:48:09] ✅ Field value entered
+[09:48:09] ✅ Clicked OK
+[09:48:15] ✅ Right-clicked Calendar Day
+[09:48:16] ✅ Clicked Change Drilldown
+[09:48:16] ✅ Clicked Drilldown by
+[09:48:16] ✅ Clicked Vertical
+[09:48:21] ✅ Right-clicked Invoice Due Date
+[09:48:21] ✅ Clicked Change Drilldown
+[09:48:22] ✅ Clicked Drilldown by
+[09:48:22] ✅ Clicked Vertical
+[09:48:27] ✅ Right-clicked Invoice No
+[09:48:28] ✅ Clicked Change Drilldown
+[09:48:28] ✅ Clicked Drilldown by
+[09:48:28] ✅ Clicked Vertical
+[09:48:33] ✅ Clicked Export to Excel
+[09:48:35] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[09:48:36] ERROR:
+[09:48:36] NPOI.POIFS.FileSystem.NotOLE2FileException: Invalid header signature; read 0x7265562D454D494D, expected 0xE11AB1A1E011CFD0 - Your file appears not to be a valid OLE2 document
+   at NPOI.POIFS.Storage.HeaderBlock.PrivateHeaderBlock(Byte[] data)
+   at NPOI.POIFS.Storage.HeaderBlock..ctor(Byte[] buffer)
+   at NPOI.POIFS.Storage.HeaderBlock..ctor(ByteBuffer buffer)
+   at NPOI.POIFS.FileSystem.NPOIFSFileSystem..ctor(Stream stream)
+   at NPOI.POIFS.FileSystem.POIFSFileSystem..ctor(Stream stream)
+   at NPOI.HSSF.UserModel.HSSFWorkbook..ctor(Stream s, Boolean preserveNodes)
+   at NPOI.HSSF.UserModel.HSSFWorkbook..ctor(Stream s)
+   at ExcelConverter.ConvertToXlsxAsync(String inputFilePath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ExcelConverter.cs:line 51
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[09:50:01] Task started.
+[09:50:09] ➡️ First login submitted
+[09:50:26] ✅ Second password field found on main page
+[09:50:32] ✅ Second password filled
+[09:50:32] 🔹 Captcha detected: jU8I8pW
+[09:50:33] ✅ Captcha filled
+[09:50:34] ✅ Login submitted
+[09:50:36] Login successful.
+[09:51:04] ✅ Field value entered
+[09:51:04] ✅ Field value entered
+[09:51:04] ✅ Distributor sites entered
+[09:51:04] ✅ Field value entered
+[09:51:04] ✅ Clicked OK
+[09:51:09] ✅ Right-clicked Calendar Day
+[09:51:10] ✅ Clicked Change Drilldown
+[09:51:11] ✅ Clicked Drilldown by
+[09:51:11] ✅ Clicked Vertical
+[09:51:16] ✅ Right-clicked Invoice Due Date
+[09:51:16] ✅ Clicked Change Drilldown
+[09:51:16] ✅ Clicked Drilldown by
+[09:51:17] ✅ Clicked Vertical
+[09:51:24] ✅ Right-clicked Invoice No
+[09:51:24] ✅ Clicked Change Drilldown
+[09:51:24] ✅ Clicked Drilldown by
+[09:51:24] ✅ Clicked Vertical
+[09:51:29] ✅ Clicked Export to Excel
+[09:51:33] ✅ Converted file path: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:51:33] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:51:33] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[09:51:33] Task completed.
+[09:54:27] Task started.
+[09:54:30] ➡️ First login submitted
+[09:54:36] ✅ Second password field found on main page
+[09:54:38] ✅ Second password filled
+[09:54:39] 🔹 Captcha detected: M1H728K
+[09:54:40] ✅ Captcha filled
+[09:54:41] ✅ Login submitted
+[09:54:43] Login successful.
+[09:54:54] ✅ Field value entered
+[09:54:54] ✅ Field value entered
+[09:54:54] ✅ Distributor sites entered
+[09:54:54] ✅ Field value entered
+[09:54:54] ✅ Clicked OK
+[09:55:00] ✅ Right-clicked Calendar Day
+[09:55:00] ✅ Clicked Change Drilldown
+[09:55:01] ✅ Clicked Drilldown by
+[09:55:01] ✅ Clicked Vertical
+[09:55:05] ✅ Right-clicked Invoice Due Date
+[09:55:06] ✅ Clicked Change Drilldown
+[09:55:06] ✅ Clicked Drilldown by
+[09:55:06] ✅ Clicked Vertical
+[09:55:12] ✅ Right-clicked Invoice No
+[09:55:12] ✅ Clicked Change Drilldown
+[09:55:12] ✅ Clicked Drilldown by
+[09:55:13] ✅ Clicked Vertical
+[09:55:18] ✅ Clicked Export to Excel
+[09:55:21] ✅ Converted file path: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:55:21] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[09:55:21] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[09:55:21] Task completed.
+[09:58:27] Task started.
+[09:58:35] ➡️ First login submitted
+[09:59:06] ✅ Second password field found on main page
+[09:59:09] ✅ Second password filled
+[09:59:14] 🔹 Captcha detected: ifyvMDw
+[09:59:17] ✅ Captcha filled
+[09:59:22] ✅ Login submitted
+[09:59:24] Login successful.
+[10:00:16] ✅ Field value entered
+[10:00:16] ✅ Field value entered
+[10:00:16] ✅ Distributor sites entered
+[10:00:16] ✅ Field value entered
+[10:00:16] ✅ Clicked OK
+[10:00:26] ✅ Right-clicked Calendar Day
+[10:00:27] ✅ Clicked Change Drilldown
+[10:00:28] ✅ Clicked Drilldown by
+[10:00:28] ✅ Clicked Vertical
+[10:00:40] ✅ Right-clicked Invoice Due Date
+[10:00:40] ✅ Clicked Change Drilldown
+[10:00:40] ✅ Clicked Drilldown by
+[10:00:41] ✅ Clicked Vertical
+[10:00:54] ✅ Right-clicked Invoice No
+[10:00:55] ✅ Clicked Change Drilldown
+[10:00:56] ✅ Clicked Drilldown by
+[10:00:56] ✅ Clicked Vertical
+[10:01:09] ✅ Clicked Export to Excel
+[10:01:31] ✅ Converted file path: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:01:31] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:01:31] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[10:01:31] Task completed.
+[10:03:21] Task started.
+[10:03:32] ➡️ First login submitted
+[10:03:48] ✅ Second password field found on main page
+[10:03:54] ✅ Second password filled
+[10:03:55] 🔹 Captcha detected: RRi53Ik
+[10:03:55] ✅ Captcha filled
+[10:03:57] ✅ Login submitted
+[10:03:59] Login successful.
+[10:04:14] ✅ Field value entered
+[10:04:14] ✅ Field value entered
+[10:04:14] ✅ Distributor sites entered
+[10:04:14] ✅ Field value entered
+[10:04:14] ✅ Clicked OK
+[10:04:20] ✅ Right-clicked Calendar Day
+[10:04:20] ✅ Clicked Change Drilldown
+[10:04:21] ✅ Clicked Drilldown by
+[10:04:21] ✅ Clicked Vertical
+[10:04:28] ✅ Right-clicked Invoice Due Date
+[10:04:29] ✅ Clicked Change Drilldown
+[10:04:29] ✅ Clicked Drilldown by
+[10:04:30] ✅ Clicked Vertical
+[10:04:38] ✅ Right-clicked Invoice No
+[10:04:39] ✅ Clicked Change Drilldown
+[10:04:39] ✅ Clicked Drilldown by
+[10:04:39] ✅ Clicked Vertical
+[10:04:47] ✅ Clicked Export to Excel
+[10:04:51] ✅ Converted file path: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:04:51] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:04:51] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[10:04:51] Task completed.
+[10:08:57] Task started.
+[10:09:09] ➡️ First login submitted
+[10:09:32] ✅ Second password field found on main page
+[10:09:36] ✅ Second password filled
+[10:09:36] 🔹 Captcha detected: 514L9xW
+[10:09:37] ✅ Captcha filled
+[10:09:42] ✅ Login submitted
+[10:09:44] Login successful.
+[10:10:20] ✅ Field value entered
+[10:10:20] ✅ Field value entered
+[10:10:20] ✅ Distributor sites entered
+[10:10:20] ✅ Field value entered
+[10:10:20] ✅ Clicked OK
+[10:10:26] ✅ Right-clicked Calendar Day
+[10:10:26] ✅ Clicked Change Drilldown
+[10:10:27] ✅ Clicked Drilldown by
+[10:10:27] ✅ Clicked Vertical
+[10:10:32] ✅ Right-clicked Invoice Due Date
+[10:10:33] ✅ Clicked Change Drilldown
+[10:10:34] ✅ Clicked Drilldown by
+[10:10:34] ✅ Clicked Vertical
+[10:10:42] ✅ Right-clicked Invoice No
+[10:10:43] ✅ Clicked Change Drilldown
+[10:10:43] ✅ Clicked Drilldown by
+[10:10:43] ✅ Clicked Vertical
+[10:10:50] ✅ Clicked Export to Excel
+[10:11:14] ✅ Downloaded & converted file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:11:14] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[10:11:14] Task completed.
+[10:13:04] Task started.
+[10:13:12] ➡️ First login submitted
+[10:13:26] ✅ Second password field found on main page
+[10:13:30] ✅ Second password filled
+[10:13:33] 🔹 Captcha detected: 2p3k9it
+[10:13:35] ✅ Captcha filled
+[10:13:36] ✅ Login submitted
+[10:13:38] Login successful.
+[10:13:52] ✅ Field value entered
+[10:13:52] ✅ Field value entered
+[10:13:52] ✅ Distributor sites entered
+[10:13:52] ✅ Field value entered
+[10:13:53] ✅ Clicked OK
+[10:13:58] ✅ Right-clicked Calendar Day
+[10:13:59] ✅ Clicked Change Drilldown
+[10:13:59] ✅ Clicked Drilldown by
+[10:13:59] ✅ Clicked Vertical
+[10:14:04] ✅ Right-clicked Invoice Due Date
+[10:14:04] ✅ Clicked Change Drilldown
+[10:14:04] ✅ Clicked Drilldown by
+[10:14:05] ✅ Clicked Vertical
+[10:14:14] ✅ Right-clicked Invoice No
+[10:14:16] ✅ Clicked Change Drilldown
+[10:14:16] ✅ Clicked Drilldown by
+[10:14:16] ✅ Clicked Vertical
+[10:14:28] ✅ Clicked Export to Excel
+[10:14:39] ✅ Downloaded & converted file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:14:39] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[10:14:39] Task completed.
+[10:18:50] Task started.
+[10:18:55] ➡️ First login submitted
+[10:19:03] ✅ Second password field found on main page
+[10:19:08] ✅ Second password filled
+[10:19:09] 🔹 Captcha detected: qgaC27F
+[10:19:09] ✅ Captcha filled
+[10:19:11] ✅ Login submitted
+[10:19:13] Login successful.
+[10:20:01] ✅ Field value entered
+[10:20:01] ✅ Field value entered
+[10:20:01] ✅ Distributor sites entered
+[10:20:01] ✅ Field value entered
+[10:20:02] ✅ Clicked OK
+[10:20:09] ✅ Right-clicked Calendar Day
+[10:20:10] ✅ Clicked Change Drilldown
+[10:20:10] ✅ Clicked Drilldown by
+[10:20:10] ✅ Clicked Vertical
+[10:20:15] ✅ Right-clicked Invoice Due Date
+[10:20:15] ✅ Clicked Change Drilldown
+[10:20:16] ✅ Clicked Drilldown by
+[10:20:16] ✅ Clicked Vertical
+[10:20:21] ✅ Right-clicked Invoice No
+[10:20:21] ✅ Clicked Change Drilldown
+[10:20:21] ✅ Clicked Drilldown by
+[10:20:22] ✅ Clicked Vertical
+[10:20:29] ✅ Clicked Export to Excel
+[10:20:42] ✅ Downloaded & converted file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:20:42] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[10:20:42] Task completed.
+[10:25:10] Task started.
+[10:25:14] ➡️ First login submitted
+[10:25:19] ✅ Second password field found on main page
+[10:25:24] ✅ Second password filled
+[10:25:24] 🔹 Captcha detected: V16UHSe
+[10:25:25] ✅ Captcha filled
+[10:25:27] ✅ Login submitted
+[10:25:29] Login successful.
+[10:25:42] ✅ Field value entered
+[10:25:42] ✅ Field value entered
+[10:25:42] ✅ Distributor sites entered
+[10:25:42] ✅ Field value entered
+[10:25:42] ✅ Clicked OK
+[10:25:48] ✅ Right-clicked Calendar Day
+[10:25:49] ✅ Clicked Change Drilldown
+[10:25:49] ✅ Clicked Drilldown by
+[10:25:49] ✅ Clicked Vertical
+[10:25:54] ✅ Right-clicked Invoice Due Date
+[10:25:55] ✅ Clicked Change Drilldown
+[10:25:55] ✅ Clicked Drilldown by
+[10:25:55] ✅ Clicked Vertical
+[10:25:59] ✅ Right-clicked Invoice No
+[10:26:00] ✅ Clicked Change Drilldown
+[10:26:00] ✅ Clicked Drilldown by
+[10:26:00] ✅ Clicked Vertical
+[10:26:05] ✅ Clicked Export to Excel
+[10:26:09] ✅ Downloaded & converted file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:26:09] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[10:26:09] Task completed.
+[10:27:10] Task started.
+[10:27:14] ➡️ First login submitted
+[10:27:26] ✅ Second password field found on main page
+[10:27:30] ✅ Second password filled
+[10:27:31] 🔹 Captcha detected: j7335E4
+[10:27:32] ✅ Captcha filled
+[10:27:33] ✅ Login submitted
+[10:27:35] Login successful.
+[10:27:49] ✅ Field value entered
+[10:27:49] ✅ Field value entered
+[10:27:49] ✅ Distributor sites entered
+[10:27:49] ✅ Field value entered
+[10:27:49] ✅ Clicked OK
+[10:27:56] ✅ Right-clicked Calendar Day
+[10:27:57] ✅ Clicked Change Drilldown
+[10:27:57] ✅ Clicked Drilldown by
+[10:27:57] ✅ Clicked Vertical
+[10:28:02] ✅ Right-clicked Invoice Due Date
+[10:28:03] ✅ Clicked Change Drilldown
+[10:28:03] ✅ Clicked Drilldown by
+[10:28:03] ✅ Clicked Vertical
+[10:28:12] ✅ Right-clicked Invoice No
+[10:28:12] ✅ Clicked Change Drilldown
+[10:28:12] ✅ Clicked Drilldown by
+[10:28:13] ✅ Clicked Vertical
+[10:28:19] ✅ Clicked Export to Excel
+[10:28:36] ✅ Downloaded & converted file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:28:36] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[10:28:36] Task completed.
+[10:29:51] Task started.
+[10:29:56] ➡️ First login submitted
+[10:30:02] ✅ Second password field found on main page
+[10:30:06] ✅ Second password filled
+[10:30:06] 🔹 Captcha detected: GBJKWnS
+[10:30:07] ✅ Captcha filled
+[10:30:08] ✅ Login submitted
+[10:30:10] Login successful.
+[10:30:20] ✅ Field value entered
+[10:30:20] ✅ Field value entered
+[10:30:20] ✅ Distributor sites entered
+[10:30:20] ✅ Field value entered
+[10:30:20] ✅ Clicked OK
+[10:30:26] ✅ Right-clicked Calendar Day
+[10:30:26] ✅ Clicked Change Drilldown
+[10:30:27] ✅ Clicked Drilldown by
+[10:30:27] ✅ Clicked Vertical
+[10:30:31] ✅ Right-clicked Invoice Due Date
+[10:30:32] ✅ Clicked Change Drilldown
+[10:30:32] ✅ Clicked Drilldown by
+[10:30:32] ✅ Clicked Vertical
+[10:30:40] ✅ Right-clicked Invoice No
+[10:30:40] ✅ Clicked Change Drilldown
+[10:30:41] ✅ Clicked Drilldown by
+[10:30:41] ✅ Clicked Vertical
+[10:30:46] ✅ Clicked Export to Excel
+[10:30:50] ✅ Downloaded & converted file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[10:30:50] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[10:30:50] Task completed.
+[10:36:17] Task started.
+[10:36:20] ➡️ First login submitted
+[10:36:26] ✅ Second password field found on main page
+[10:36:29] ✅ Second password filled
+[10:36:29] 🔹 Captcha detected: 5k6N9NG
+[10:36:30] ✅ Captcha filled
+[10:36:31] ✅ Login submitted
+[10:36:33] Login successful.
+[10:36:42] ✅ Field value entered
+[10:36:42] ✅ Field value entered
+[10:36:42] ✅ Distributor sites entered
+[10:36:42] ✅ Field value entered
+[10:36:42] ✅ Clicked OK
+[10:36:47] ✅ Right-clicked Calendar Day
+[10:36:48] ✅ Clicked Change Drilldown
+[10:36:48] ✅ Clicked Drilldown by
+[10:36:48] ✅ Clicked Vertical
+[10:36:53] ✅ Right-clicked Invoice Due Date
+[10:36:54] ✅ Clicked Change Drilldown
+[10:36:54] ✅ Clicked Drilldown by
+[10:36:54] ✅ Clicked Vertical
+[10:36:58] ✅ Right-clicked Invoice No
+[10:36:59] ✅ Clicked Change Drilldown
+[10:36:59] ✅ Clicked Drilldown by
+[10:36:59] ✅ Clicked Vertical
+[10:37:06] ✅ Clicked Export to Excel
+[10:37:09] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[10:37:09] ERROR:
+[10:37:09] NPOI.POIFS.FileSystem.NotOLE2FileException: Invalid header signature; read 0x7265562D454D494D, expected 0xE11AB1A1E011CFD0 - Your file appears not to be a valid OLE2 document
+   at NPOI.POIFS.Storage.HeaderBlock.PrivateHeaderBlock(Byte[] data)
+   at NPOI.POIFS.Storage.HeaderBlock..ctor(Byte[] buffer)
+   at NPOI.POIFS.Storage.HeaderBlock..ctor(ByteBuffer buffer)
+   at NPOI.POIFS.FileSystem.NPOIFSFileSystem..ctor(Stream stream)
+   at NPOI.POIFS.FileSystem.POIFSFileSystem..ctor(Stream stream)
+   at NPOI.HSSF.UserModel.HSSFWorkbook..ctor(Stream s, Boolean preserveNodes)
+   at NPOI.HSSF.UserModel.HSSFWorkbook..ctor(Stream s)
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ConvertXlsToXlsx(String xlsPath, String xlsxPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 287
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 254
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[10:40:27] Task started.
+[10:40:37] ➡️ First login submitted
+[10:40:56] ✅ Second password field found on main page
+[10:40:59] ✅ Second password filled
+[10:41:04] 🔹 Captcha detected: 5wfT15o
+[10:41:05] ✅ Captcha filled
+[10:41:08] ✅ Login submitted
+[10:41:10] Login successful.
+[10:41:20] ✅ Field value entered
+[10:41:20] ✅ Field value entered
+[10:41:20] ✅ Distributor sites entered
+[10:41:20] ✅ Field value entered
+[10:41:20] ✅ Clicked OK
+[10:41:27] ✅ Right-clicked Calendar Day
+[10:41:28] ✅ Clicked Change Drilldown
+[10:41:29] ✅ Clicked Drilldown by
+[10:41:29] ✅ Clicked Vertical
+[10:41:34] ✅ Right-clicked Invoice Due Date
+[10:41:34] ✅ Clicked Change Drilldown
+[10:41:35] ✅ Clicked Drilldown by
+[10:41:35] ✅ Clicked Vertical
+[10:41:39] ✅ Right-clicked Invoice No
+[10:41:40] ✅ Clicked Change Drilldown
+[10:41:40] ✅ Clicked Drilldown by
+[10:41:40] ✅ Clicked Vertical
+[10:41:45] ✅ Clicked Export to Excel
+[10:41:53] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[10:41:53] ERROR:
+[10:41:53] OfficeOpenXml.LicenseNotSetException: Please set the license using one of the methods on the static property ExcelPackage.License. See https://epplussoftware.com/developers/licensenotsetexception for more information
+   at OfficeOpenXml.ExcelPackage.get_Workbook()
+   at OfficeOpenXml.ExcelPackage.CreateBlankWb()
+   at OfficeOpenXml.ExcelPackage.ConstructNewFile(String password)
+   at OfficeOpenXml.ExcelPackage..ctor()
+   at ConvertToRealXlsx.ConvertFakeXlsToXlsx(String fakeXlsPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertToRealXlsx.cs:line 12
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 248
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[10:48:03] Task started.
+[10:48:09] ➡️ First login submitted
+[10:48:15] ✅ Second password field found on main page
+[10:48:20] ✅ Second password filled
+[10:48:21] 🔹 Captcha detected: wI9eUpM
+[10:48:21] ✅ Captcha filled
+[10:48:23] ✅ Login submitted
+[10:48:25] Login successful.
+[10:48:50] ✅ Field value entered
+[10:48:50] ✅ Field value entered
+[10:48:51] ✅ Distributor sites entered
+[10:48:51] ✅ Field value entered
+[10:48:51] ✅ Clicked OK
+[10:48:57] ✅ Right-clicked Calendar Day
+[10:48:58] ✅ Clicked Change Drilldown
+[10:48:58] ✅ Clicked Drilldown by
+[10:48:58] ✅ Clicked Vertical
+[10:49:03] ✅ Right-clicked Invoice Due Date
+[10:49:04] ✅ Clicked Change Drilldown
+[10:49:04] ✅ Clicked Drilldown by
+[10:49:04] ✅ Clicked Vertical
+[10:49:09] ✅ Right-clicked Invoice No
+[10:49:10] ✅ Clicked Change Drilldown
+[10:49:10] ✅ Clicked Drilldown by
+[10:49:10] ✅ Clicked Vertical
+[10:49:11] ERROR:
+[10:49:11] System.Exception: Table not found in HTML!
+   at ConvertToXlsx.ExportHtmlTableToExcelAsync(String htmlContent, String exportFolder, String fileName) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertToXlsx.cs:line 17
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 232
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[10:51:17] Task started.
+[10:51:22] ➡️ First login submitted
+[10:51:31] ✅ Second password field found on main page
+[10:51:34] ✅ Second password filled
+[10:51:35] 🔹 Captcha detected: 26Z14kX
+[10:51:36] ✅ Captcha filled
+[10:51:38] ✅ Login submitted
+[10:51:40] Login successful.
+[10:52:12] ✅ Field value entered
+[10:52:12] ✅ Field value entered
+[10:52:12] ✅ Distributor sites entered
+[10:52:12] ✅ Field value entered
+[10:52:12] ✅ Clicked OK
+[10:52:19] ✅ Right-clicked Calendar Day
+[10:52:20] ✅ Clicked Change Drilldown
+[10:52:21] ✅ Clicked Drilldown by
+[10:52:21] ✅ Clicked Vertical
+[10:52:30] ✅ Right-clicked Invoice Due Date
+[10:52:31] ✅ Clicked Change Drilldown
+[10:52:31] ✅ Clicked Drilldown by
+[10:52:32] ✅ Clicked Vertical
+[10:52:38] ✅ Right-clicked Invoice No
+[10:52:38] ✅ Clicked Change Drilldown
+[10:52:38] ✅ Clicked Drilldown by
+[10:52:39] ✅ Clicked Vertical
+[10:52:39] ERROR:
+[10:52:39] System.Exception: No rows found in table!
+   at ConvertToXlsx.ExportHtmlTableToExcelAsync(String htmlContent, String exportFolder, String fileName) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertToXlsx.cs:line 42
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 234
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[10:55:44] Task started.
+[10:55:48] ➡️ First login submitted
+[10:56:00] ✅ Second password field found on main page
+[10:56:03] ✅ Second password filled
+[10:56:03] 🔹 Captcha detected: 6yV3dS7
+[10:56:04] ✅ Captcha filled
+[10:56:05] ✅ Login submitted
+[10:56:07] Login successful.
+[10:56:17] ✅ Field value entered
+[10:56:17] ✅ Field value entered
+[10:56:17] ✅ Distributor sites entered
+[10:56:17] ✅ Field value entered
+[10:56:17] ✅ Clicked OK
+[10:56:23] ✅ Right-clicked Calendar Day
+[10:56:23] ✅ Clicked Change Drilldown
+[10:56:24] ✅ Clicked Drilldown by
+[10:56:24] ✅ Clicked Vertical
+[10:56:34] ✅ Right-clicked Invoice Due Date
+[10:56:34] ✅ Clicked Change Drilldown
+[10:56:34] ✅ Clicked Drilldown by
+[10:56:34] ✅ Clicked Vertical
+[10:56:39] ✅ Right-clicked Invoice No
+[10:56:40] ✅ Clicked Change Drilldown
+[10:56:40] ✅ Clicked Drilldown by
+[10:56:40] ✅ Clicked Vertical
+[10:56:41] ERROR:
+[10:56:41] System.Exception: No rows found in table!
+   at ConvertToXlsx.ExportHtmlTableToExcelAsync(String htmlContent, String exportFolder, String fileName) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertToXlsx.cs:line 28
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 228
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[10:59:54] Task started.
+[10:59:59] ➡️ First login submitted
+[11:00:05] ✅ Second password field found on main page
+[11:00:07] ✅ Second password filled
+[11:00:08] 🔹 Captcha detected: 76qP4Hk
+[11:00:10] ✅ Captcha filled
+[11:00:11] ✅ Login submitted
+[11:00:13] Login successful.
+[11:00:24] ✅ Field value entered
+[11:00:24] ✅ Field value entered
+[11:00:24] ✅ Distributor sites entered
+[11:00:24] ✅ Field value entered
+[11:00:24] ✅ Clicked OK
+[11:00:30] ✅ Right-clicked Calendar Day
+[11:00:31] ✅ Clicked Change Drilldown
+[11:00:31] ✅ Clicked Drilldown by
+[11:00:31] ✅ Clicked Vertical
+[11:00:37] ✅ Right-clicked Invoice Due Date
+[11:00:37] ✅ Clicked Change Drilldown
+[11:00:37] ✅ Clicked Drilldown by
+[11:00:38] ✅ Clicked Vertical
+[11:00:43] ✅ Right-clicked Invoice No
+[11:00:43] ✅ Clicked Change Drilldown
+[11:00:43] ✅ Clicked Drilldown by
+[11:00:44] ✅ Clicked Vertical
+[11:00:45] ✅ Exported Daily Sales Report to Excel: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DailySales_20260206.xlsx
+[11:00:45] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:00:45] Task completed.
+[11:07:44] Task started.
+[11:07:48] ➡️ First login submitted
+[11:07:53] ✅ Second password field found on main page
+[11:07:56] ✅ Second password filled
+[11:07:57] 🔹 Captcha detected: i18G6ik
+[11:07:57] ✅ Captcha filled
+[11:07:58] ✅ Login submitted
+[11:08:00] Login successful.
+[11:08:08] ✅ Field value entered
+[11:08:08] ✅ Field value entered
+[11:08:08] ✅ Distributor sites entered
+[11:08:09] ✅ Field value entered
+[11:08:09] ✅ Clicked OK
+[11:08:14] ✅ Right-clicked Calendar Day
+[11:08:15] ✅ Clicked Change Drilldown
+[11:08:15] ✅ Clicked Drilldown by
+[11:08:15] ✅ Clicked Vertical
+[11:08:20] ✅ Right-clicked Invoice Due Date
+[11:08:20] ✅ Clicked Change Drilldown
+[11:08:21] ✅ Clicked Drilldown by
+[11:08:21] ✅ Clicked Vertical
+[11:08:26] ✅ Right-clicked Invoice No
+[11:08:26] ✅ Clicked Change Drilldown
+[11:08:27] ✅ Clicked Drilldown by
+[11:08:27] ✅ Clicked Vertical
+[11:08:27] ERROR:
+[11:08:27] System.Exception: No rows found in table!
+   at ConvertToXlsx.ExportHtmlTableToExcelAsync(String htmlContent, String exportFolder, String fileName) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertToXlsx.cs:line 26
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[11:08:56] Task started.
+[11:09:00] ➡️ First login submitted
+[11:09:07] ✅ Second password field found on main page
+[11:09:10] ✅ Second password filled
+[11:09:13] 🔹 Captcha detected: H0TNq5P
+[11:09:14] ✅ Captcha filled
+[11:09:15] ✅ Login submitted
+[11:09:17] Login successful.
+[11:09:27] ✅ Field value entered
+[11:09:27] ✅ Field value entered
+[11:09:28] ✅ Distributor sites entered
+[11:09:28] ✅ Field value entered
+[11:09:28] ✅ Clicked OK
+[11:09:33] ✅ Right-clicked Calendar Day
+[11:09:34] ✅ Clicked Change Drilldown
+[11:09:35] ✅ Clicked Drilldown by
+[11:09:35] ✅ Clicked Vertical
+[11:09:42] ✅ Right-clicked Invoice Due Date
+[11:09:43] ✅ Clicked Change Drilldown
+[11:09:43] ✅ Clicked Drilldown by
+[11:09:44] ✅ Clicked Vertical
+[11:09:48] ✅ Right-clicked Invoice No
+[11:09:49] ✅ Clicked Change Drilldown
+[11:09:49] ✅ Clicked Drilldown by
+[11:09:49] ✅ Clicked Vertical
+[11:09:50] ERROR:
+[11:09:50] System.Exception: No rows found in table!
+   at ConvertToXlsx.ExportHtmlTableToExcelAsync(String htmlContent, String exportFolder, String fileName) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertToXlsx.cs:line 26
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[11:12:33] Task started.
+[11:12:37] ➡️ First login submitted
+[11:12:43] ✅ Second password field found on main page
+[11:12:48] ✅ Second password filled
+[11:12:48] 🔹 Captcha detected: C5PqKGh
+[11:12:49] ✅ Captcha filled
+[11:12:50] ✅ Login submitted
+[11:12:52] Login successful.
+[11:13:21] ✅ Field value entered
+[11:13:21] ✅ Field value entered
+[11:13:21] ✅ Distributor sites entered
+[11:13:21] ✅ Field value entered
+[11:13:22] ✅ Clicked OK
+[11:13:27] ✅ Right-clicked Calendar Day
+[11:13:28] ✅ Clicked Change Drilldown
+[11:13:28] ✅ Clicked Drilldown by
+[11:13:28] ✅ Clicked Vertical
+[11:13:33] ✅ Right-clicked Invoice Due Date
+[11:13:34] ✅ Clicked Change Drilldown
+[11:13:34] ✅ Clicked Drilldown by
+[11:13:34] ✅ Clicked Vertical
+[11:13:39] ✅ Right-clicked Invoice No
+[11:14:09] ERROR:
+[11:14:09] System.TimeoutException: Timeout 30000ms exceeded.
+Call log:
+  - waiting for Locator("tr:has-text('Change Drilldown')")
+    - locator resolved to <tr st="" att="" ocl="" olc="" idx="2" id="biid9" class="urMnuRowOn" t="Change Drilldown" smnu="sapbi_contextmenutemplate4">…</tr>
+  - attempting hover action
+    - waiting for element to be visible and stable
+   at Microsoft.Playwright.Transport.Connection.InnerSendMessageToServerAsync[T](ChannelOwner object, String method, Dictionary`2 dictionary, Boolean keepNulls) in /_/src/Playwright/Transport/Connection.cs:line 201
+   at Microsoft.Playwright.Transport.Connection.WrapApiCallAsync[T](Func`1 action, Boolean isInternal, String title) in /_/src/Playwright/Transport/Connection.cs:line 499
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.HoverAndClickAsync(IFrame frame, String text) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 333
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.SortByVerticalAsync(IFrame frame, String navSelector, String label) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 179
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 123
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[11:14:22] Task started.
+[11:14:27] ➡️ First login submitted
+[11:14:33] ✅ Second password field found on main page
+[11:14:36] ✅ Second password filled
+[11:14:37] 🔹 Captcha detected: 0p5XP92
+[11:14:38] ✅ Captcha filled
+[11:14:39] ✅ Login submitted
+[11:14:41] Login successful.
+[11:14:54] ✅ Field value entered
+[11:14:54] ✅ Field value entered
+[11:14:54] ✅ Distributor sites entered
+[11:14:54] ✅ Field value entered
+[11:14:54] ✅ Clicked OK
+[11:15:00] ✅ Right-clicked Calendar Day
+[11:15:01] ✅ Clicked Change Drilldown
+[11:15:02] ✅ Clicked Drilldown by
+[11:15:02] ✅ Clicked Vertical
+[11:15:08] ✅ Right-clicked Invoice Due Date
+[11:15:08] ✅ Clicked Change Drilldown
+[11:15:09] ✅ Clicked Drilldown by
+[11:15:09] ✅ Clicked Vertical
+[11:15:14] ✅ Right-clicked Invoice No
+[11:15:14] ✅ Clicked Change Drilldown
+[11:15:14] ✅ Clicked Drilldown by
+[11:15:15] ✅ Clicked Vertical
+[11:15:23] ✅ Clicked Export to Excel
+[11:15:25] ✅ Downloaded raw file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:15:29] ✅ Exported formatted Excel: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001_Formatted.xlsx
+[11:15:29] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:15:29] Task completed.
+[11:17:40] Task started.
+[11:17:45] ➡️ First login submitted
+[11:17:53] ✅ Second password field found on main page
+[11:17:57] ✅ Second password filled
+[11:17:57] 🔹 Captcha detected: Z37qUd4
+[11:17:58] ✅ Captcha filled
+[11:17:59] ✅ Login submitted
+[11:18:01] Login successful.
+[11:18:13] ✅ Field value entered
+[11:18:13] ✅ Field value entered
+[11:18:13] ✅ Distributor sites entered
+[11:18:13] ✅ Field value entered
+[11:18:14] ✅ Clicked OK
+[11:18:19] ✅ Right-clicked Calendar Day
+[11:18:20] ✅ Clicked Change Drilldown
+[11:18:20] ✅ Clicked Drilldown by
+[11:18:20] ✅ Clicked Vertical
+[11:18:24] ✅ Right-clicked Invoice Due Date
+[11:18:25] ✅ Clicked Change Drilldown
+[11:18:25] ✅ Clicked Drilldown by
+[11:18:25] ✅ Clicked Vertical
+[11:18:30] ✅ Right-clicked Invoice No
+[11:18:30] ✅ Clicked Change Drilldown
+[11:18:30] ✅ Clicked Drilldown by
+[11:18:30] ✅ Clicked Vertical
+[11:18:35] ✅ Clicked Export to Excel
+[11:18:37] ✅ Downloaded raw file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:18:40] ✅ Exported formatted Excel: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001_Formatted.xlsx
+[11:18:40] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:18:40] Task completed.
+[11:23:22] Task started.
+[11:23:26] ➡️ First login submitted
+[11:23:31] ✅ Second password field found on main page
+[11:23:34] ✅ Second password filled
+[11:23:34] 🔹 Captcha detected: 6g1v3C0
+[11:26:43] Task started.
+[11:26:46] ➡️ First login submitted
+[11:26:56] ✅ Second password field found on main page
+[11:26:58] ✅ Second password filled
+[11:26:59] 🔹 Captcha detected: 0oVE3dm
+[11:27:01] ✅ Captcha filled
+[11:27:02] ✅ Login submitted
+[11:27:04] Login successful.
+[11:27:12] ✅ Field value entered
+[11:27:12] ✅ Field value entered
+[11:27:12] ✅ Distributor sites entered
+[11:27:12] ✅ Field value entered
+[11:27:12] ✅ Clicked OK
+[11:27:18] ✅ Right-clicked Calendar Day
+[11:27:20] ✅ Clicked Change Drilldown
+[11:27:20] ✅ Clicked Drilldown by
+[11:27:20] ✅ Clicked Vertical
+[11:27:25] ✅ Right-clicked Invoice Due Date
+[11:27:26] ✅ Clicked Change Drilldown
+[11:27:26] ✅ Clicked Drilldown by
+[11:27:26] ✅ Clicked Vertical
+[11:27:30] ✅ Right-clicked Invoice No
+[11:27:31] ✅ Clicked Change Drilldown
+[11:27:31] ✅ Clicked Drilldown by
+[11:27:31] ✅ Clicked Vertical
+[11:27:36] ✅ Clicked Export to Excel
+[11:27:38] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:27:40] ✅ Converted to real XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[11:27:40] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:27:40] Task completed.
+[11:29:55] Task started.
+[11:30:03] ➡️ First login submitted
+[11:30:14] ✅ Second password field found on main page
+[11:30:17] ✅ Second password filled
+[11:30:17] 🔹 Captcha detected: ct5ooJ0
+[11:30:18] ✅ Captcha filled
+[11:30:19] ✅ Login submitted
+[11:30:21] Login successful.
+[11:30:30] ✅ Field value entered
+[11:30:30] ✅ Field value entered
+[11:30:31] ✅ Distributor sites entered
+[11:30:31] ✅ Field value entered
+[11:30:31] ✅ Clicked OK
+[11:30:36] ✅ Right-clicked Calendar Day
+[11:30:37] ✅ Clicked Change Drilldown
+[11:30:37] ✅ Clicked Drilldown by
+[11:30:37] ✅ Clicked Vertical
+[11:30:42] ✅ Right-clicked Invoice Due Date
+[11:30:43] ✅ Clicked Change Drilldown
+[11:30:43] ✅ Clicked Drilldown by
+[11:30:43] ✅ Clicked Vertical
+[11:30:49] ✅ Right-clicked Invoice No
+[11:30:50] ✅ Clicked Change Drilldown
+[11:30:50] ✅ Clicked Drilldown by
+[11:30:50] ✅ Clicked Vertical
+[11:30:55] ✅ Clicked Export to Excel
+[11:30:57] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:30:59] ✅ Converted to real XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[11:30:59] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:30:59] Task completed.
+[11:32:31] Task started.
+[11:32:34] ➡️ First login submitted
+[11:32:40] ✅ Second password field found on main page
+[11:32:46] ✅ Second password filled
+[11:32:46] 🔹 Captcha detected: 7Rct49U
+[11:32:47] ✅ Captcha filled
+[11:32:48] ✅ Login submitted
+[11:32:50] Login successful.
+[11:33:10] ✅ Field value entered
+[11:33:10] ✅ Field value entered
+[11:33:10] ✅ Distributor sites entered
+[11:33:10] ✅ Field value entered
+[11:33:10] ✅ Clicked OK
+[11:33:15] ✅ Right-clicked Calendar Day
+[11:33:17] ✅ Clicked Change Drilldown
+[11:33:17] ✅ Clicked Drilldown by
+[11:33:17] ✅ Clicked Vertical
+[11:33:22] ✅ Right-clicked Invoice Due Date
+[11:33:23] ✅ Clicked Change Drilldown
+[11:33:23] ✅ Clicked Drilldown by
+[11:33:23] ✅ Clicked Vertical
+[11:33:28] ✅ Right-clicked Invoice No
+[11:33:28] ✅ Clicked Change Drilldown
+[11:33:29] ✅ Clicked Drilldown by
+[11:33:29] ✅ Clicked Vertical
+[11:33:34] ✅ Clicked Export to Excel
+[11:33:36] ✅ Downloaded Excel file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[11:33:36] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:33:36] Task completed.
+[11:35:59] Task started.
+[11:36:03] ➡️ First login submitted
+[11:36:08] ✅ Second password field found on main page
+[11:36:11] ✅ Second password filled
+[11:36:12] 🔹 Captcha detected: iWsf49J
+[11:36:12] ✅ Captcha filled
+[11:36:13] ✅ Login submitted
+[11:36:15] Login successful.
+[11:36:24] ✅ Field value entered
+[11:36:24] ✅ Field value entered
+[11:36:24] ✅ Distributor sites entered
+[11:36:24] ✅ Field value entered
+[11:36:24] ✅ Clicked OK
+[11:36:30] ✅ Right-clicked Calendar Day
+[11:36:31] ✅ Clicked Change Drilldown
+[11:36:31] ✅ Clicked Drilldown by
+[11:36:31] ✅ Clicked Vertical
+[11:36:36] ✅ Right-clicked Invoice Due Date
+[11:36:36] ✅ Clicked Change Drilldown
+[11:36:37] ✅ Clicked Drilldown by
+[11:36:37] ✅ Clicked Vertical
+[11:36:42] ✅ Right-clicked Invoice No
+[11:36:42] ✅ Clicked Change Drilldown
+[11:36:42] ✅ Clicked Drilldown by
+[11:36:43] ✅ Clicked Vertical
+[11:36:48] ✅ Clicked Export to Excel
+[11:36:53] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:36:54] ✅ Converted to real XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[11:36:54] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:36:54] Task completed.
+[11:39:01] Task started.
+[11:39:07] ➡️ First login submitted
+[11:39:13] ✅ Second password field found on main page
+[11:39:16] ✅ Second password filled
+[11:39:17] 🔹 Captcha detected: p9MdSaH
+[11:39:17] ✅ Captcha filled
+[11:39:18] ✅ Login submitted
+[11:39:20] Login successful.
+[11:39:29] ✅ Field value entered
+[11:39:29] ✅ Field value entered
+[11:39:29] ✅ Distributor sites entered
+[11:39:29] ✅ Field value entered
+[11:39:29] ✅ Clicked OK
+[11:39:37] ✅ Right-clicked Calendar Day
+[11:39:38] ✅ Clicked Change Drilldown
+[11:39:38] ✅ Clicked Drilldown by
+[11:39:38] ✅ Clicked Vertical
+[11:39:43] ✅ Right-clicked Invoice Due Date
+[11:39:43] ✅ Clicked Change Drilldown
+[11:39:44] ✅ Clicked Drilldown by
+[11:39:44] ✅ Clicked Vertical
+[11:39:49] ✅ Right-clicked Invoice No
+[11:39:50] ✅ Clicked Change Drilldown
+[11:39:50] ✅ Clicked Drilldown by
+[11:39:50] ✅ Clicked Vertical
+[11:39:55] ✅ Clicked Export to Excel
+[11:40:00] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:40:02] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[11:40:02] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:40:02] Task completed.
+[11:42:11] Task started.
+[11:42:15] ➡️ First login submitted
+[11:42:23] ✅ Second password field found on main page
+[11:42:27] ✅ Second password filled
+[11:42:30] 🔹 Captcha detected: eyB091c
+[11:42:30] ✅ Captcha filled
+[11:42:31] ✅ Login submitted
+[11:42:33] Login successful.
+[11:42:43] ✅ Field value entered
+[11:42:43] ✅ Field value entered
+[11:42:43] ✅ Distributor sites entered
+[11:42:43] ✅ Field value entered
+[11:42:43] ✅ Clicked OK
+[11:42:48] ✅ Right-clicked Calendar Day
+[11:42:49] ✅ Clicked Change Drilldown
+[11:42:49] ✅ Clicked Drilldown by
+[11:42:49] ✅ Clicked Vertical
+[11:42:54] ✅ Right-clicked Invoice Due Date
+[11:42:55] ✅ Clicked Change Drilldown
+[11:42:55] ✅ Clicked Drilldown by
+[11:42:55] ✅ Clicked Vertical
+[11:43:00] ✅ Right-clicked Invoice No
+[11:43:00] ✅ Clicked Change Drilldown
+[11:43:01] ✅ Clicked Drilldown by
+[11:43:01] ✅ Clicked Vertical
+[11:43:09] ✅ Clicked Export to Excel
+[11:43:10] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:43:12] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[11:43:12] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:43:12] Task completed.
+[11:49:23] Task started.
+[11:49:32] ➡️ First login submitted
+[11:49:40] ✅ Second password field found on main page
+[11:49:43] ✅ Second password filled
+[11:49:43] 🔹 Captcha detected: 0MoNTVq
+[11:49:44] ✅ Captcha filled
+[11:49:45] ✅ Login submitted
+[11:49:47] Login successful.
+[11:49:55] ✅ Field value entered
+[11:49:56] ✅ Field value entered
+[11:49:56] ✅ Distributor sites entered
+[11:49:56] ✅ Field value entered
+[11:49:56] ✅ Clicked OK
+[11:50:02] ✅ Right-clicked Calendar Day
+[11:50:02] ✅ Clicked Change Drilldown
+[11:50:03] ✅ Clicked Drilldown by
+[11:50:03] ✅ Clicked Vertical
+[11:50:08] ✅ Right-clicked Invoice Due Date
+[11:50:08] ✅ Clicked Change Drilldown
+[11:50:08] ✅ Clicked Drilldown by
+[11:50:09] ✅ Clicked Vertical
+[11:50:13] ✅ Right-clicked Invoice No
+[11:50:14] ✅ Clicked Change Drilldown
+[11:50:14] ✅ Clicked Drilldown by
+[11:50:14] ✅ Clicked Vertical
+[11:50:20] ✅ Clicked Export to Excel
+[11:50:22] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:50:24] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[11:50:24] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:50:24] Task completed.
+[11:54:22] Task started.
+[11:54:28] ➡️ First login submitted
+[11:54:34] ✅ Second password field found on main page
+[11:54:37] ✅ Second password filled
+[11:54:38] 🔹 Captcha detected: m1gHSGi
+[11:54:39] ✅ Captcha filled
+[11:54:41] ✅ Login submitted
+[11:54:43] Login successful.
+[11:55:33] ✅ Field value entered
+[11:55:33] ✅ Field value entered
+[11:55:33] ✅ Distributor sites entered
+[11:55:33] ✅ Field value entered
+[11:55:34] ✅ Clicked OK
+[11:55:41] ✅ Right-clicked Calendar Day
+[11:55:42] ✅ Clicked Change Drilldown
+[11:55:42] ✅ Clicked Drilldown by
+[11:55:43] ✅ Clicked Vertical
+[11:55:51] ✅ Right-clicked Invoice Due Date
+[11:55:51] ✅ Clicked Change Drilldown
+[11:55:51] ✅ Clicked Drilldown by
+[11:55:52] ✅ Clicked Vertical
+[11:55:56] ✅ Right-clicked Invoice No
+[11:55:57] ✅ Clicked Change Drilldown
+[11:55:57] ✅ Clicked Drilldown by
+[11:55:57] ✅ Clicked Vertical
+[11:56:02] ✅ Clicked Export to Excel
+[11:56:08] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[11:56:10] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[11:56:10] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[11:56:10] Task completed.
+[13:03:24] Task started.
+[13:03:31] ➡️ First login submitted
+[13:03:41] ✅ Second password field found on main page
+[13:03:44] ✅ Second password filled
+[13:03:45] 🔹 Captcha detected: GDKbAPo
+[13:03:46] ✅ Captcha filled
+[13:03:47] ✅ Login submitted
+[13:03:49] Login successful.
+[13:04:02] ✅ Field value entered
+[13:04:03] ✅ Field value entered
+[13:04:03] ✅ Distributor sites entered
+[13:04:03] ✅ Field value entered
+[13:04:03] ✅ Clicked OK
+[13:04:10] ✅ Right-clicked Calendar Day
+[13:04:11] ✅ Clicked Change Drilldown
+[13:04:11] ✅ Clicked Drilldown by
+[13:04:12] ✅ Clicked Vertical
+[13:04:19] ✅ Right-clicked Invoice Due Date
+[13:04:20] ✅ Clicked Change Drilldown
+[13:04:21] ✅ Clicked Drilldown by
+[13:04:21] ✅ Clicked Vertical
+[13:04:27] ✅ Right-clicked Invoice No
+[13:04:27] ✅ Clicked Change Drilldown
+[13:04:28] ✅ Clicked Drilldown by
+[13:04:28] ✅ Clicked Vertical
+[13:04:33] ✅ Clicked Export to Excel
+[13:04:38] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xls
+[13:04:40] ✅ Converted to XLSX: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[13:04:40] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:04:40] Task completed.
+[13:09:16] Task started.
+[13:09:22] ➡️ First login submitted
+[13:09:47] ✅ Second password field found on main page
+[13:09:51] ✅ Second password filled
+[13:09:51] 🔹 Captcha detected: 02W06jT
+[13:09:52] ✅ Captcha filled
+[13:09:53] ✅ Login submitted
+[13:09:55] Login successful.
+[13:10:15] ✅ Field value entered
+[13:10:15] ✅ Field value entered
+[13:10:15] ✅ Distributor sites entered
+[13:10:15] ✅ Field value entered
+[13:10:15] ✅ Clicked OK
+[13:10:20] ✅ Right-clicked Calendar Day
+[13:10:22] ✅ Clicked Change Drilldown
+[13:10:22] ✅ Clicked Drilldown by
+[13:10:22] ✅ Clicked Vertical
+[13:10:27] ✅ Right-clicked Invoice Due Date
+[13:10:28] ✅ Clicked Change Drilldown
+[13:10:28] ✅ Clicked Drilldown by
+[13:10:28] ✅ Clicked Vertical
+[13:10:34] ✅ Right-clicked Invoice No
+[13:10:34] ✅ Clicked Change Drilldown
+[13:10:35] ✅ Clicked Drilldown by
+[13:10:35] ✅ Clicked Vertical
+[13:10:40] ✅ Clicked Export to Excel
+[13:10:45] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ZWAD_ZVM6004_Q0001.xlsx
+[13:10:45] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:10:45] Task completed.
+[13:12:47] Task started.
+[13:12:51] ➡️ First login submitted
+[13:13:05] ✅ Second password field found on main page
+[13:13:10] ✅ Second password filled
+[13:13:11] 🔹 Captcha detected: 66D7WAW
+[13:13:12] ✅ Captcha filled
+[13:13:14] ✅ Login submitted
+[13:13:16] Login successful.
+[13:13:33] ✅ Field value entered
+[13:13:33] ✅ Field value entered
+[13:13:34] ✅ Distributor sites entered
+[13:13:34] ✅ Field value entered
+[13:13:34] ✅ Clicked OK
+[13:13:40] ✅ Right-clicked Calendar Day
+[13:13:41] ✅ Clicked Change Drilldown
+[13:13:42] ✅ Clicked Drilldown by
+[13:13:42] ✅ Clicked Vertical
+[13:13:47] ✅ Right-clicked Invoice Due Date
+[13:13:47] ✅ Clicked Change Drilldown
+[13:13:48] ✅ Clicked Drilldown by
+[13:13:48] ✅ Clicked Vertical
+[13:13:53] ✅ Right-clicked Invoice No
+[13:13:54] ✅ Clicked Change Drilldown
+[13:13:54] ✅ Clicked Drilldown by
+[13:13:54] ✅ Clicked Vertical
+[13:13:59] ✅ Clicked Export to Excel
+[13:14:04] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\INVOICE_REPORT.xlsx
+[13:14:04] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:14:04] Task completed.
+[13:15:24] Task started.
+[13:15:29] ➡️ First login submitted
+[13:15:36] ✅ Second password field found on main page
+[13:15:41] ✅ Second password filled
+[13:15:42] 🔹 Captcha detected: 5Em2s2p
+[13:15:45] ✅ Captcha filled
+[13:15:47] ✅ Login submitted
+[13:15:49] Login successful.
+[13:16:04] ✅ Field value entered
+[13:16:04] ✅ Field value entered
+[13:16:04] ✅ Distributor sites entered
+[13:16:04] ✅ Field value entered
+[13:16:04] ✅ Clicked OK
+[13:16:10] ✅ Right-clicked Calendar Day
+[13:16:11] ✅ Clicked Change Drilldown
+[13:16:11] ✅ Clicked Drilldown by
+[13:16:12] ✅ Clicked Vertical
+[13:16:18] ✅ Right-clicked Invoice Due Date
+[13:16:18] ✅ Clicked Change Drilldown
+[13:16:19] ✅ Clicked Drilldown by
+[13:16:19] ✅ Clicked Vertical
+[13:16:27] ✅ Right-clicked Invoice No
+[13:16:27] ✅ Clicked Change Drilldown
+[13:16:28] ✅ Clicked Drilldown by
+[13:16:28] ✅ Clicked Vertical
+[13:16:35] ✅ Clicked Export to Excel
+[13:16:50] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:16:50] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:16:50] Task completed.
+[13:20:01] Task started.
+[13:20:05] ➡️ First login submitted
+[13:20:12] ✅ Second password field found on main page
+[13:20:16] ✅ Second password filled
+[13:20:16] 🔹 Captcha detected: Q1ja6jm
+[13:20:17] ✅ Captcha filled
+[13:20:18] ✅ Login submitted
+[13:20:20] Login successful.
+[13:20:30] ✅ Field value entered
+[13:20:30] ✅ Field value entered
+[13:20:30] ✅ Distributor sites entered
+[13:20:30] ✅ Field value entered
+[13:20:30] ✅ Clicked OK
+[13:20:36] ✅ Right-clicked Calendar Day
+[13:20:37] ✅ Clicked Change Drilldown
+[13:20:37] ✅ Clicked Drilldown by
+[13:20:37] ✅ Clicked Vertical
+[13:20:45] ✅ Right-clicked Invoice Due Date
+[13:20:46] ✅ Clicked Change Drilldown
+[13:20:46] ✅ Clicked Drilldown by
+[13:20:46] ✅ Clicked Vertical
+[13:20:51] ✅ Right-clicked Invoice No
+[13:20:52] ✅ Clicked Change Drilldown
+[13:20:52] ✅ Clicked Drilldown by
+[13:20:52] ✅ Clicked Vertical
+[13:20:57] ✅ Clicked Export to Excel
+[13:21:02] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:21:02] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:21:02] Task completed.
+[13:25:24] Task started.
+[13:25:28] ➡️ First login submitted
+[13:25:34] ✅ Second password field found on main page
+[13:25:38] ✅ Second password filled
+[13:25:38] 🔹 Captcha detected: nB76A6B
+[13:25:39] ✅ Captcha filled
+[13:25:41] ✅ Login submitted
+[13:25:43] Login successful.
+[13:25:54] ✅ Field value entered
+[13:25:55] ✅ Field value entered
+[13:25:55] ✅ Distributor sites entered
+[13:25:55] ✅ Field value entered
+[13:25:55] ✅ Clicked OK
+[13:26:00] ✅ Right-clicked Calendar Day
+[13:26:01] ✅ Clicked Change Drilldown
+[13:26:01] ✅ Clicked Drilldown by
+[13:26:02] ✅ Clicked Vertical
+[13:26:07] ✅ Right-clicked Invoice Due Date
+[13:26:07] ✅ Clicked Change Drilldown
+[13:26:07] ✅ Clicked Drilldown by
+[13:26:07] ✅ Clicked Vertical
+[13:26:12] ✅ Right-clicked Invoice No
+[13:26:13] ✅ Clicked Change Drilldown
+[13:26:13] ✅ Clicked Drilldown by
+[13:26:13] ✅ Clicked Vertical
+[13:26:19] ✅ Clicked Export to Excel
+[13:26:24] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:26:24] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:26:24] Task completed.
+[13:28:26] Task started.
+[13:28:30] ➡️ First login submitted
+[13:28:38] ✅ Second password field found on main page
+[13:28:41] ✅ Second password filled
+[13:28:42] 🔹 Captcha detected: G2ig7K0
+[13:28:43] ✅ Captcha filled
+[13:28:44] ✅ Login submitted
+[13:28:46] Login successful.
+[13:28:56] ✅ Field value entered
+[13:28:56] ✅ Field value entered
+[13:28:57] ✅ Distributor sites entered
+[13:28:57] ✅ Field value entered
+[13:28:57] ✅ Clicked OK
+[13:29:02] ✅ Right-clicked Calendar Day
+[13:29:02] ✅ Clicked Change Drilldown
+[13:29:03] ✅ Clicked Drilldown by
+[13:29:03] ✅ Clicked Vertical
+[13:29:07] ✅ Right-clicked Invoice Due Date
+[13:29:08] ✅ Clicked Change Drilldown
+[13:29:08] ✅ Clicked Drilldown by
+[13:29:08] ✅ Clicked Vertical
+[13:29:13] ✅ Right-clicked Invoice No
+[13:29:13] ✅ Clicked Change Drilldown
+[13:29:14] ✅ Clicked Drilldown by
+[13:29:14] ✅ Clicked Vertical
+[13:29:18] ✅ Clicked Export to Excel
+[13:29:23] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:29:23] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:29:23] Task completed.
+[13:31:00] Task started.
+[13:31:04] ➡️ First login submitted
+[13:31:10] ✅ Second password field found on main page
+[13:31:13] ✅ Second password filled
+[13:31:13] 🔹 Captcha detected: 1o79QW0
+[13:31:14] ✅ Captcha filled
+[13:31:15] ✅ Login submitted
+[13:31:17] Login successful.
+[13:31:32] ✅ Field value entered
+[13:31:32] ✅ Field value entered
+[13:31:32] ✅ Distributor sites entered
+[13:31:33] ✅ Field value entered
+[13:31:33] ✅ Clicked OK
+[13:31:38] ✅ Right-clicked Calendar Day
+[13:31:38] ✅ Clicked Change Drilldown
+[13:31:39] ✅ Clicked Drilldown by
+[13:31:39] ✅ Clicked Vertical
+[13:31:43] ✅ Right-clicked Invoice Due Date
+[13:31:44] ✅ Clicked Change Drilldown
+[13:31:44] ✅ Clicked Drilldown by
+[13:31:44] ✅ Clicked Vertical
+[13:31:52] ✅ Right-clicked Invoice No
+[13:31:52] ✅ Clicked Change Drilldown
+[13:31:52] ✅ Clicked Drilldown by
+[13:31:53] ✅ Clicked Vertical
+[13:32:01] ✅ Clicked Export to Excel
+[13:32:06] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:32:06] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:32:06] Task completed.
+[13:32:48] Task started.
+[13:33:00] ➡️ First login submitted
+[13:33:07] ✅ Second password field found on main page
+[13:33:11] ✅ Second password filled
+[13:33:11] 🔹 Captcha detected: u64dB4t
+[13:33:12] ✅ Captcha filled
+[13:33:13] ✅ Login submitted
+[13:33:15] Login successful.
+[13:33:26] ✅ Field value entered
+[13:33:26] ✅ Field value entered
+[13:33:26] ✅ Distributor sites entered
+[13:33:26] ✅ Field value entered
+[13:33:26] ✅ Clicked OK
+[13:33:32] ✅ Right-clicked Calendar Day
+[13:33:32] ✅ Clicked Change Drilldown
+[13:33:33] ✅ Clicked Drilldown by
+[13:33:33] ✅ Clicked Vertical
+[13:33:37] ✅ Right-clicked Invoice Due Date
+[13:33:38] ✅ Clicked Change Drilldown
+[13:33:38] ✅ Clicked Drilldown by
+[13:33:38] ✅ Clicked Vertical
+[13:33:42] ✅ Right-clicked Invoice No
+[13:33:43] ✅ Clicked Change Drilldown
+[13:33:43] ✅ Clicked Drilldown by
+[13:33:43] ✅ Clicked Vertical
+[13:33:48] ✅ Clicked Export to Excel
+[13:33:52] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:33:52] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:33:52] Task completed.
+[13:34:38] Task started.
+[13:34:42] ➡️ First login submitted
+[13:34:48] ✅ Second password field found on main page
+[13:34:53] ✅ Second password filled
+[13:34:53] 🔹 Captcha detected: h7h3F6A
+[13:34:56] ✅ Captcha filled
+[13:34:57] ✅ Login submitted
+[13:34:59] Login successful.
+[13:35:11] ✅ Field value entered
+[13:35:11] ✅ Field value entered
+[13:35:11] ✅ Distributor sites entered
+[13:35:11] ✅ Field value entered
+[13:35:11] ✅ Clicked OK
+[13:35:17] ✅ Right-clicked Calendar Day
+[13:35:18] ✅ Clicked Change Drilldown
+[13:35:18] ✅ Clicked Drilldown by
+[13:35:18] ✅ Clicked Vertical
+[13:35:27] ✅ Right-clicked Invoice Due Date
+[13:35:27] ✅ Clicked Change Drilldown
+[13:35:27] ✅ Clicked Drilldown by
+[13:35:27] ✅ Clicked Vertical
+[13:35:32] ✅ Right-clicked Invoice No
+[13:35:33] ✅ Clicked Change Drilldown
+[13:35:33] ✅ Clicked Drilldown by
+[13:35:33] ✅ Clicked Vertical
+[13:35:38] ✅ Clicked Export to Excel
+[13:35:41] ERROR:
+[13:35:41] System.IO.IOException: The process cannot access the file 'D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, SaveOptions options)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, Boolean validate, Boolean evaluateFormulae)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file)
+   at ConvertHTMLXlsToXlsx.ConverToXlsx(String htmlFilePath, String xlsxFilePath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertHTMLXlsxToXlsx.cs:line 134
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[13:36:03] Task started.
+[13:36:06] ➡️ First login submitted
+[13:36:11] ✅ Second password field found on main page
+[13:36:14] ✅ Second password filled
+[13:36:15] 🔹 Captcha detected: 5ynTbu4
+[13:36:16] ✅ Captcha filled
+[13:36:17] ✅ Login submitted
+[13:36:19] Login successful.
+[13:36:28] ✅ Field value entered
+[13:36:28] ✅ Field value entered
+[13:36:28] ✅ Distributor sites entered
+[13:36:28] ✅ Field value entered
+[13:36:28] ✅ Clicked OK
+[13:36:33] ✅ Right-clicked Calendar Day
+[13:36:34] ✅ Clicked Change Drilldown
+[13:36:35] ✅ Clicked Drilldown by
+[13:36:35] ✅ Clicked Vertical
+[13:36:39] ✅ Right-clicked Invoice Due Date
+[13:36:40] ✅ Clicked Change Drilldown
+[13:36:40] ✅ Clicked Drilldown by
+[13:36:40] ✅ Clicked Vertical
+[13:36:45] ✅ Right-clicked Invoice No
+[13:36:45] ✅ Clicked Change Drilldown
+[13:36:45] ✅ Clicked Drilldown by
+[13:36:45] ✅ Clicked Vertical
+[13:36:50] ✅ Clicked Export to Excel
+[13:36:54] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:36:54] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:36:54] Task completed.
+[13:38:48] Task started.
+[13:38:52] ➡️ First login submitted
+[13:38:58] ✅ Second password field found on main page
+[13:39:02] ✅ Second password filled
+[13:39:03] 🔹 Captcha detected: mx7G04x
+[13:39:04] ✅ Captcha filled
+[13:39:05] ✅ Login submitted
+[13:39:07] Login successful.
+[13:39:18] ✅ Field value entered
+[13:39:18] ✅ Field value entered
+[13:39:18] ✅ Distributor sites entered
+[13:39:18] ✅ Field value entered
+[13:39:18] ✅ Clicked OK
+[13:39:23] ✅ Right-clicked Calendar Day
+[13:39:24] ✅ Clicked Change Drilldown
+[13:39:25] ✅ Clicked Drilldown by
+[13:39:25] ✅ Clicked Vertical
+[13:39:29] ✅ Right-clicked Invoice Due Date
+[13:39:30] ✅ Clicked Change Drilldown
+[13:39:30] ✅ Clicked Drilldown by
+[13:39:30] ✅ Clicked Vertical
+[13:39:35] ✅ Right-clicked Invoice No
+[13:39:35] ✅ Clicked Change Drilldown
+[13:39:35] ✅ Clicked Drilldown by
+[13:39:36] ✅ Clicked Vertical
+[13:39:41] ✅ Clicked Export to Excel
+[13:39:45] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:39:45] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:39:45] Task completed.
+[13:41:07] Task started.
+[13:41:11] ➡️ First login submitted
+[13:41:16] ✅ Second password field found on main page
+[13:41:20] ✅ Second password filled
+[13:41:21] 🔹 Captcha detected: 1FeWqxU
+[13:41:22] ✅ Captcha filled
+[13:41:24] ✅ Login submitted
+[13:41:26] Login successful.
+[13:41:39] ✅ Field value entered
+[13:41:39] ✅ Field value entered
+[13:41:39] ✅ Distributor sites entered
+[13:41:39] ✅ Field value entered
+[13:41:39] ✅ Clicked OK
+[13:41:44] ✅ Right-clicked Calendar Day
+[13:41:45] ✅ Clicked Change Drilldown
+[13:41:45] ✅ Clicked Drilldown by
+[13:41:46] ✅ Clicked Vertical
+[13:41:51] ✅ Right-clicked Invoice Due Date
+[13:41:51] ✅ Clicked Change Drilldown
+[13:41:51] ✅ Clicked Drilldown by
+[13:41:52] ✅ Clicked Vertical
+[13:41:56] ✅ Right-clicked Invoice No
+[13:41:57] ✅ Clicked Change Drilldown
+[13:41:57] ✅ Clicked Drilldown by
+[13:41:57] ✅ Clicked Vertical
+[13:42:02] ✅ Clicked Export to Excel
+[13:42:08] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:42:08] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:42:08] Task completed.
+[13:44:32] Task started.
+[13:44:36] ➡️ First login submitted
+[13:44:41] ✅ Second password field found on main page
+[13:44:44] ✅ Second password filled
+[13:44:45] 🔹 Captcha detected: 75ltf51
+[13:44:45] ✅ Captcha filled
+[13:44:47] ✅ Login submitted
+[13:44:49] Login successful.
+[13:44:58] ✅ Field value entered
+[13:44:58] ✅ Field value entered
+[13:44:58] ✅ Distributor sites entered
+[13:44:58] ✅ Field value entered
+[13:44:58] ✅ Clicked OK
+[13:45:04] ✅ Right-clicked Calendar Day
+[13:45:05] ✅ Clicked Change Drilldown
+[13:45:05] ✅ Clicked Drilldown by
+[13:45:05] ✅ Clicked Vertical
+[13:45:10] ✅ Right-clicked Invoice Due Date
+[13:45:11] ✅ Clicked Change Drilldown
+[13:45:11] ✅ Clicked Drilldown by
+[13:45:11] ✅ Clicked Vertical
+[13:45:16] ✅ Right-clicked Invoice No
+[13:45:16] ✅ Clicked Change Drilldown
+[13:45:17] ✅ Clicked Drilldown by
+[13:45:17] ✅ Clicked Vertical
+[13:45:22] ✅ Clicked Export to Excel
+[13:45:27] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:45:27] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:45:27] Task completed.
+[13:46:37] Task started.
+[13:46:42] ➡️ First login submitted
+[13:46:52] ✅ Second password field found on main page
+[13:46:55] ✅ Second password filled
+[13:46:56] 🔹 Captcha detected: gA3pS84
+[13:46:59] ✅ Captcha filled
+[13:47:01] ✅ Login submitted
+[13:47:03] Login successful.
+[13:47:18] ✅ Field value entered
+[13:47:18] ✅ Field value entered
+[13:47:18] ✅ Distributor sites entered
+[13:47:18] ✅ Field value entered
+[13:47:18] ✅ Clicked OK
+[13:47:24] ✅ Right-clicked Calendar Day
+[13:47:25] ✅ Clicked Change Drilldown
+[13:47:25] ✅ Clicked Drilldown by
+[13:47:26] ✅ Clicked Vertical
+[13:47:31] ✅ Right-clicked Invoice Due Date
+[13:47:31] ✅ Clicked Change Drilldown
+[13:47:31] ✅ Clicked Drilldown by
+[13:47:32] ✅ Clicked Vertical
+[13:47:43] ✅ Right-clicked Invoice No
+[13:47:44] ✅ Clicked Change Drilldown
+[13:47:44] ✅ Clicked Drilldown by
+[13:47:44] ✅ Clicked Vertical
+[13:47:57] ✅ Clicked Export to Excel
+[13:48:34] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:48:34] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:48:34] Task completed.
+[13:50:34] Task started.
+[13:50:37] ➡️ First login submitted
+[13:50:45] ✅ Second password field found on main page
+[13:50:49] ✅ Second password filled
+[13:50:50] 🔹 Captcha detected: uT1lp33
+[13:50:51] ✅ Captcha filled
+[13:50:52] ✅ Login submitted
+[13:50:54] Login successful.
+[13:51:04] ✅ Field value entered
+[13:51:04] ✅ Field value entered
+[13:51:04] ✅ Distributor sites entered
+[13:51:05] ✅ Field value entered
+[13:51:05] ✅ Clicked OK
+[13:51:11] ✅ Right-clicked Calendar Day
+[13:51:12] ✅ Clicked Change Drilldown
+[13:51:12] ✅ Clicked Drilldown by
+[13:51:12] ✅ Clicked Vertical
+[13:51:17] ✅ Right-clicked Invoice Due Date
+[13:51:18] ✅ Clicked Change Drilldown
+[13:51:18] ✅ Clicked Drilldown by
+[13:51:18] ✅ Clicked Vertical
+[13:51:23] ✅ Right-clicked Invoice No
+[13:51:23] ✅ Clicked Change Drilldown
+[13:51:24] ✅ Clicked Drilldown by
+[13:51:24] ✅ Clicked Vertical
+[13:51:29] ✅ Clicked Export to Excel
+[13:51:35] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[13:51:35] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[13:51:35] Task completed.
+[14:00:44] Task started.
+[14:00:51] ➡️ First login submitted
+[14:01:00] ✅ Second password field found on main page
+[14:01:06] ✅ Second password filled
+[14:01:06] 🔹 Captcha detected: m4XYh5A
+[14:01:08] ✅ Captcha filled
+[14:01:09] ✅ Login submitted
+[14:01:11] Login successful.
+[14:01:27] ✅ Field value entered
+[14:01:27] ✅ Field value entered
+[14:01:27] ✅ Distributor sites entered
+[14:01:27] ✅ Field value entered
+[14:01:27] ✅ Clicked OK
+[14:01:36] ✅ Right-clicked Calendar Day
+[14:01:36] ✅ Clicked Change Drilldown
+[14:01:37] ✅ Clicked Drilldown by
+[14:01:37] ✅ Clicked Vertical
+[14:01:42] ✅ Right-clicked Invoice Due Date
+[14:01:42] ✅ Clicked Change Drilldown
+[14:01:42] ✅ Clicked Drilldown by
+[14:01:43] ✅ Clicked Vertical
+[14:01:48] ✅ Right-clicked Invoice No
+[14:01:48] ✅ Clicked Change Drilldown
+[14:01:49] ✅ Clicked Drilldown by
+[14:01:49] ✅ Clicked Vertical
+[14:01:54] ✅ Clicked Export to Excel
+[14:01:57] ✅ Downloaded XLS: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\ova4o4xl.mhw.xls
+[14:01:57] ERROR:
+[14:01:57] System.IO.FileNotFoundException: Could not load file or assembly 'office, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c'. The system cannot find the file specified.
+File name: 'office, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c'
+   at ConvertXlsToXlsx.ConvertToXlsx(String xlsPath, String xlsxPath)
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 239
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[14:04:13] Task started.
+[14:04:18] ➡️ First login submitted
+[14:04:38] ✅ Second password field found on main page
+[14:04:45] ✅ Second password filled
+[14:04:46] 🔹 Captcha detected: 17C03mG
+[14:04:47] ✅ Captcha filled
+[14:04:49] ✅ Login submitted
+[14:04:51] Login successful.
+[14:05:15] ✅ Field value entered
+[14:05:15] ✅ Field value entered
+[14:05:15] ✅ Distributor sites entered
+[14:05:15] ✅ Field value entered
+[14:05:15] ✅ Clicked OK
+[14:05:21] ✅ Right-clicked Calendar Day
+[14:05:22] ✅ Clicked Change Drilldown
+[14:05:22] ✅ Clicked Drilldown by
+[14:05:22] ✅ Clicked Vertical
+[14:05:27] ✅ Right-clicked Invoice Due Date
+[14:05:28] ✅ Clicked Change Drilldown
+[14:05:28] ✅ Clicked Drilldown by
+[14:05:28] ✅ Clicked Vertical
+[14:05:33] ✅ Right-clicked Invoice No
+[14:05:33] ✅ Clicked Change Drilldown
+[14:05:33] ✅ Clicked Drilldown by
+[14:05:34] ✅ Clicked Vertical
+[14:05:38] ✅ Clicked Export to Excel
+[14:05:41] ✅ Downloaded XLS: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\hacvleaa.431.xls
+[14:05:41] ERROR:
+[14:05:41] System.IO.FileNotFoundException: Could not load file or assembly 'office, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c'. The system cannot find the file specified.
+File name: 'office, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c'
+   at ConvertXlsToXlsx.ConvertToXlsx(String xlsPath, String xlsxPath)
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 239
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[14:06:00] Task started.
+[14:06:04] ➡️ First login submitted
+[14:06:10] ✅ Second password field found on main page
+[14:06:13] ✅ Second password filled
+[14:06:15] 🔹 Captcha detected: coq2xy6
+[14:06:16] ✅ Captcha filled
+[14:06:17] ✅ Login submitted
+[14:06:19] Login successful.
+[14:06:27] ✅ Field value entered
+[14:06:27] ✅ Field value entered
+[14:06:27] ✅ Distributor sites entered
+[14:06:27] ✅ Field value entered
+[14:06:28] ✅ Clicked OK
+[14:06:33] ✅ Right-clicked Calendar Day
+[14:06:34] ✅ Clicked Change Drilldown
+[14:06:34] ✅ Clicked Drilldown by
+[14:06:34] ✅ Clicked Vertical
+[14:06:39] ✅ Right-clicked Invoice Due Date
+[14:06:40] ✅ Clicked Change Drilldown
+[14:06:40] ✅ Clicked Drilldown by
+[14:06:40] ✅ Clicked Vertical
+[14:06:45] ✅ Right-clicked Invoice No
+[14:06:47] ✅ Clicked Change Drilldown
+[14:06:47] ✅ Clicked Drilldown by
+[14:06:47] ✅ Clicked Vertical
+[14:06:52] ✅ Clicked Export to Excel
+[14:06:54] ✅ Downloaded XLS: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\duq0rq14.h24.xls
+[14:06:54] ERROR:
+[14:06:54] System.IO.FileNotFoundException: Could not load file or assembly 'office, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c'. The system cannot find the file specified.
+File name: 'office, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c'
+   at ConvertXlsToXlsx.ConvertToXlsx(String xlsPath, String xlsxPath)
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 239
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[14:10:22] Task started.
+[14:10:25] ➡️ First login submitted
+[14:10:31] ✅ Second password field found on main page
+[14:10:34] ✅ Second password filled
+[14:10:35] 🔹 Captcha detected: D57JP8G
+[14:10:35] ✅ Captcha filled
+[14:10:36] ✅ Login submitted
+[14:10:38] Login successful.
+[14:10:51] ✅ Field value entered
+[14:10:51] ✅ Field value entered
+[14:10:51] ✅ Distributor sites entered
+[14:10:51] ✅ Field value entered
+[14:10:51] ✅ Clicked OK
+[14:10:56] ✅ Right-clicked Calendar Day
+[14:10:57] ✅ Clicked Change Drilldown
+[14:10:57] ✅ Clicked Drilldown by
+[14:10:58] ✅ Clicked Vertical
+[14:11:03] ✅ Right-clicked Invoice Due Date
+[14:11:03] ✅ Clicked Change Drilldown
+[14:11:03] ✅ Clicked Drilldown by
+[14:11:04] ✅ Clicked Vertical
+[14:11:08] ✅ Right-clicked Invoice No
+[14:11:09] ✅ Clicked Change Drilldown
+[14:11:09] ✅ Clicked Drilldown by
+[14:11:09] ✅ Clicked Vertical
+[14:11:14] ✅ Clicked Export to Excel
+[14:11:19] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:11:19] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:11:19] Task completed.
+[14:14:21] Task started.
+[14:14:28] ➡️ First login submitted
+[14:14:35] ✅ Second password field found on main page
+[14:14:38] ✅ Second password filled
+[14:14:39] 🔹 Captcha detected: 6G1E0cq
+[14:14:40] ✅ Captcha filled
+[14:14:42] ✅ Login submitted
+[14:14:44] Login successful.
+[14:14:56] ✅ Field value entered
+[14:14:56] ✅ Field value entered
+[14:14:56] ✅ Distributor sites entered
+[14:14:56] ✅ Field value entered
+[14:14:56] ✅ Clicked OK
+[14:15:02] ✅ Right-clicked Calendar Day
+[14:15:03] ✅ Clicked Change Drilldown
+[14:15:03] ✅ Clicked Drilldown by
+[14:15:04] ✅ Clicked Vertical
+[14:15:09] ✅ Right-clicked Invoice Due Date
+[14:15:09] ✅ Clicked Change Drilldown
+[14:15:09] ✅ Clicked Drilldown by
+[14:15:10] ✅ Clicked Vertical
+[14:15:14] ✅ Right-clicked Invoice No
+[14:15:15] ✅ Clicked Change Drilldown
+[14:15:15] ✅ Clicked Drilldown by
+[14:15:15] ✅ Clicked Vertical
+[14:15:20] ✅ Clicked Export to Excel
+[14:15:26] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:15:26] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:15:26] Task completed.
+[14:16:35] Task started.
+[14:16:38] ➡️ First login submitted
+[14:16:44] ✅ Second password field found on main page
+[14:16:47] ✅ Second password filled
+[14:16:48] 🔹 Captcha detected: BfCPMkZ
+[14:16:48] ✅ Captcha filled
+[14:16:49] ✅ Login submitted
+[14:16:51] Login successful.
+[14:17:02] ✅ Field value entered
+[14:17:02] ✅ Field value entered
+[14:17:02] ✅ Distributor sites entered
+[14:17:02] ✅ Field value entered
+[14:17:02] ✅ Clicked OK
+[14:17:07] ✅ Right-clicked Calendar Day
+[14:17:08] ✅ Clicked Change Drilldown
+[14:17:08] ✅ Clicked Drilldown by
+[14:17:09] ✅ Clicked Vertical
+[14:17:13] ✅ Right-clicked Invoice Due Date
+[14:17:14] ✅ Clicked Change Drilldown
+[14:17:14] ✅ Clicked Drilldown by
+[14:17:14] ✅ Clicked Vertical
+[14:17:19] ✅ Right-clicked Invoice No
+[14:17:20] ✅ Clicked Change Drilldown
+[14:17:20] ✅ Clicked Drilldown by
+[14:17:20] ✅ Clicked Vertical
+[14:17:29] ✅ Clicked Export to Excel
+[14:17:34] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:17:34] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:17:34] Task completed.
+[14:19:03] Task started.
+[14:19:08] ➡️ First login submitted
+[14:19:14] ✅ Second password field found on main page
+[14:19:17] ✅ Second password filled
+[14:19:18] 🔹 Captcha detected: ra92GJ4
+[14:19:19] ✅ Captcha filled
+[14:19:20] ✅ Login submitted
+[14:19:22] Login successful.
+[14:19:32] ✅ Field value entered
+[14:19:32] ✅ Field value entered
+[14:19:32] ✅ Distributor sites entered
+[14:19:32] ✅ Field value entered
+[14:19:32] ✅ Clicked OK
+[14:19:39] ✅ Right-clicked Calendar Day
+[14:19:40] ✅ Clicked Change Drilldown
+[14:19:40] ✅ Clicked Drilldown by
+[14:19:40] ✅ Clicked Vertical
+[14:19:50] ✅ Right-clicked Invoice Due Date
+[14:19:51] ✅ Clicked Change Drilldown
+[14:19:51] ✅ Clicked Drilldown by
+[14:19:51] ✅ Clicked Vertical
+[14:19:57] ✅ Right-clicked Invoice No
+[14:19:58] ✅ Clicked Change Drilldown
+[14:19:58] ✅ Clicked Drilldown by
+[14:19:58] ✅ Clicked Vertical
+[14:20:03] ✅ Clicked Export to Excel
+[14:20:08] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:20:08] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:20:08] Task completed.
+[14:20:33] Task started.
+[14:20:37] ➡️ First login submitted
+[14:20:42] ✅ Second password field found on main page
+[14:20:47] ✅ Second password filled
+[14:20:50] 🔹 Captcha detected: Yy9tWCU
+[14:20:51] ✅ Captcha filled
+[14:20:52] ✅ Login submitted
+[14:20:54] Login successful.
+[14:21:12] ✅ Field value entered
+[14:21:12] ✅ Field value entered
+[14:21:12] ✅ Distributor sites entered
+[14:21:12] ✅ Field value entered
+[14:21:12] ✅ Clicked OK
+[14:21:18] ✅ Right-clicked Calendar Day
+[14:21:19] ✅ Clicked Change Drilldown
+[14:21:19] ✅ Clicked Drilldown by
+[14:21:19] ✅ Clicked Vertical
+[14:21:26] ✅ Right-clicked Invoice Due Date
+[14:21:27] ✅ Clicked Change Drilldown
+[14:21:27] ✅ Clicked Drilldown by
+[14:21:27] ✅ Clicked Vertical
+[14:21:32] ✅ Right-clicked Invoice No
+[14:21:33] ✅ Clicked Change Drilldown
+[14:21:33] ✅ Clicked Drilldown by
+[14:21:33] ✅ Clicked Vertical
+[14:21:39] ✅ Clicked Export to Excel
+[14:21:46] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:21:46] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:21:46] Task completed.
+[14:22:59] Task started.
+[14:23:02] ➡️ First login submitted
+[14:23:09] ✅ Second password field found on main page
+[14:23:12] ✅ Second password filled
+[14:23:14] 🔹 Captcha detected: 8efY4Nt
+[14:23:16] ✅ Captcha filled
+[14:23:17] ✅ Login submitted
+[14:23:19] Login successful.
+[14:23:34] ✅ Field value entered
+[14:23:34] ✅ Field value entered
+[14:23:34] ✅ Distributor sites entered
+[14:23:34] ✅ Field value entered
+[14:23:34] ✅ Clicked OK
+[14:23:40] ✅ Right-clicked Calendar Day
+[14:23:41] ✅ Clicked Change Drilldown
+[14:23:41] ✅ Clicked Drilldown by
+[14:23:41] ✅ Clicked Vertical
+[14:23:47] ✅ Right-clicked Invoice Due Date
+[14:23:47] ✅ Clicked Change Drilldown
+[14:23:48] ✅ Clicked Drilldown by
+[14:23:48] ✅ Clicked Vertical
+[14:23:53] ✅ Right-clicked Invoice No
+[14:23:53] ✅ Clicked Change Drilldown
+[14:23:53] ✅ Clicked Drilldown by
+[14:23:54] ✅ Clicked Vertical
+[14:23:59] ✅ Clicked Export to Excel
+[14:24:03] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:24:03] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:24:03] Task completed.
+[14:26:53] Task started.
+[14:26:57] ➡️ First login submitted
+[14:27:05] ✅ Second password field found on main page
+[14:27:08] ✅ Second password filled
+[14:27:08] 🔹 Captcha detected: 03RQKza
+[14:27:10] ✅ Captcha filled
+[14:27:11] ✅ Login submitted
+[14:27:13] Login successful.
+[14:27:22] ✅ Field value entered
+[14:27:22] ✅ Field value entered
+[14:27:22] ✅ Distributor sites entered
+[14:27:22] ✅ Field value entered
+[14:27:22] ✅ Clicked OK
+[14:27:29] ✅ Right-clicked Calendar Day
+[14:27:30] ✅ Clicked Change Drilldown
+[14:27:30] ✅ Clicked Drilldown by
+[14:27:31] ✅ Clicked Vertical
+[14:27:38] ✅ Right-clicked Invoice Due Date
+[14:27:38] ✅ Clicked Change Drilldown
+[14:27:39] ✅ Clicked Drilldown by
+[14:27:39] ✅ Clicked Vertical
+[14:27:44] ✅ Right-clicked Invoice No
+[14:27:44] ✅ Clicked Change Drilldown
+[14:27:44] ✅ Clicked Drilldown by
+[14:27:45] ✅ Clicked Vertical
+[14:27:50] ✅ Clicked Export to Excel
+[14:27:54] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:27:54] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:27:54] Task completed.
+[14:30:57] Task started.
+[14:31:04] ➡️ First login submitted
+[14:31:19] ✅ Second password field found on main page
+[14:31:24] ✅ Second password filled
+[14:31:25] 🔹 Captcha detected: 4sVXYES
+[14:31:26] ✅ Captcha filled
+[14:31:31] ✅ Login submitted
+[14:31:33] Login successful.
+[14:32:17] ✅ Field value entered
+[14:32:17] ✅ Field value entered
+[14:32:17] ✅ Distributor sites entered
+[14:32:17] ✅ Field value entered
+[14:32:17] ✅ Clicked OK
+[14:32:25] ✅ Right-clicked Calendar Day
+[14:32:27] ✅ Clicked Change Drilldown
+[14:32:27] ✅ Clicked Drilldown by
+[14:32:27] ✅ Clicked Vertical
+[14:32:32] ✅ Right-clicked Invoice Due Date
+[14:32:33] ✅ Clicked Change Drilldown
+[14:32:34] ✅ Clicked Drilldown by
+[14:32:34] ✅ Clicked Vertical
+[14:32:40] ✅ Right-clicked Invoice No
+[14:32:41] ✅ Clicked Change Drilldown
+[14:32:41] ✅ Clicked Drilldown by
+[14:32:41] ✅ Clicked Vertical
+[14:32:49] ✅ Clicked Export to Excel
+[14:32:55] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:32:55] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:32:55] Task completed.
+[14:41:19] Task started.
+[14:41:26] ➡️ First login submitted
+[14:41:41] ✅ Second password field found on main page
+[14:41:50] ✅ Second password filled
+[14:41:52] 🔹 Captcha detected: cO5OpZ8
+[14:41:53] ✅ Captcha filled
+[14:41:56] ✅ Login submitted
+[14:41:58] Login successful.
+[14:42:17] ✅ Field value entered
+[14:42:17] ✅ Field value entered
+[14:42:17] ✅ Distributor sites entered
+[14:42:17] ✅ Field value entered
+[14:42:17] ✅ Clicked OK
+[14:42:23] ✅ Right-clicked Calendar Day
+[14:42:24] ✅ Clicked Change Drilldown
+[14:42:24] ✅ Clicked Drilldown by
+[14:42:25] ✅ Clicked Vertical
+[14:42:33] ✅ Right-clicked Invoice Due Date
+[14:42:33] ✅ Clicked Change Drilldown
+[14:42:34] ✅ Clicked Drilldown by
+[14:42:34] ✅ Clicked Vertical
+[14:42:47] ✅ Right-clicked Invoice No
+[14:42:48] ✅ Clicked Change Drilldown
+[14:42:48] ✅ Clicked Drilldown by
+[14:42:48] ✅ Clicked Vertical
+[14:42:53] ✅ Clicked Export to Excel
+[14:43:01] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:43:01] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:43:01] Task completed.
+[14:46:22] Task started.
+[14:46:26] ➡️ First login submitted
+[14:46:31] ✅ Second password field found on main page
+[14:46:34] ✅ Second password filled
+[14:46:35] 🔹 Captcha detected: g1ujGIO
+[14:46:35] ✅ Captcha filled
+[14:46:36] ✅ Login submitted
+[14:46:38] Login successful.
+[14:46:48] ✅ Field value entered
+[14:46:48] ✅ Field value entered
+[14:46:49] ✅ Distributor sites entered
+[14:46:49] ✅ Field value entered
+[14:46:49] ✅ Clicked OK
+[14:46:54] ✅ Right-clicked Calendar Day
+[14:46:55] ✅ Clicked Change Drilldown
+[14:46:55] ✅ Clicked Drilldown by
+[14:46:55] ✅ Clicked Vertical
+[14:47:00] ✅ Right-clicked Invoice Due Date
+[14:47:00] ✅ Clicked Change Drilldown
+[14:47:01] ✅ Clicked Drilldown by
+[14:47:01] ✅ Clicked Vertical
+[14:47:05] ✅ Right-clicked Invoice No
+[14:47:06] ✅ Clicked Change Drilldown
+[14:47:06] ✅ Clicked Drilldown by
+[14:47:06] ✅ Clicked Vertical
+[14:47:11] ✅ Clicked Export to Excel
+[14:47:16] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:47:16] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:47:16] Task completed.
+[14:49:47] Task started.
+[14:49:53] ➡️ First login submitted
+[14:50:01] ✅ Second password field found on main page
+[14:50:04] ✅ Second password filled
+[14:50:05] 🔹 Captcha detected: 9B9AMPO
+[14:50:06] ✅ Captcha filled
+[14:50:07] ✅ Login submitted
+[14:50:09] Login successful.
+[14:50:19] ✅ Field value entered
+[14:50:19] ✅ Field value entered
+[14:50:19] ✅ Distributor sites entered
+[14:50:19] ✅ Field value entered
+[14:50:19] ✅ Clicked OK
+[14:50:25] ✅ Right-clicked Calendar Day
+[14:50:26] ✅ Clicked Change Drilldown
+[14:50:26] ✅ Clicked Drilldown by
+[14:50:26] ✅ Clicked Vertical
+[14:50:31] ✅ Right-clicked Invoice Due Date
+[14:50:31] ✅ Clicked Change Drilldown
+[14:50:32] ✅ Clicked Drilldown by
+[14:50:32] ✅ Clicked Vertical
+[14:50:36] ✅ Right-clicked Invoice No
+[14:50:37] ✅ Clicked Change Drilldown
+[14:50:37] ✅ Clicked Drilldown by
+[14:50:37] ✅ Clicked Vertical
+[14:50:42] ✅ Clicked Export to Excel
+[14:50:46] ERROR:
+[14:50:46] System.IO.IOException: The process cannot access the file 'D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, SaveOptions options)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, Boolean validate, Boolean evaluateFormulae)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file)
+   at ConvertHTMLXlsToXlsx.ConverToXlsx(String htmlFilePath, String xlsxFilePath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertHTMLXlsxToXlsx.cs:line 419
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[14:51:04] Task started.
+[14:51:08] ➡️ First login submitted
+[14:51:13] ✅ Second password field found on main page
+[14:51:16] ✅ Second password filled
+[14:51:17] 🔹 Captcha detected: 906jTQ4
+[14:51:17] ✅ Captcha filled
+[14:51:18] ✅ Login submitted
+[14:51:20] Login successful.
+[14:51:32] ✅ Field value entered
+[14:51:32] ✅ Field value entered
+[14:51:32] ✅ Distributor sites entered
+[14:51:32] ✅ Field value entered
+[14:51:32] ✅ Clicked OK
+[14:51:38] ✅ Right-clicked Calendar Day
+[14:51:38] ✅ Clicked Change Drilldown
+[14:51:39] ✅ Clicked Drilldown by
+[14:51:39] ✅ Clicked Vertical
+[14:51:44] ✅ Right-clicked Invoice Due Date
+[14:51:44] ✅ Clicked Change Drilldown
+[14:51:44] ✅ Clicked Drilldown by
+[14:51:45] ✅ Clicked Vertical
+[14:51:50] ✅ Right-clicked Invoice No
+[14:51:50] ✅ Clicked Change Drilldown
+[14:51:50] ✅ Clicked Drilldown by
+[14:51:51] ✅ Clicked Vertical
+[14:51:56] ✅ Clicked Export to Excel
+[14:52:00] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:52:00] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:52:00] Task completed.
+[14:52:38] Task started.
+[14:52:44] ➡️ First login submitted
+[14:52:52] ✅ Second password field found on main page
+[14:52:56] ✅ Second password filled
+[14:52:58] 🔹 Captcha detected: qajic8f
+[14:52:59] ✅ Captcha filled
+[14:53:00] ✅ Login submitted
+[14:53:02] Login successful.
+[14:53:15] ✅ Field value entered
+[14:53:15] ✅ Field value entered
+[14:53:15] ✅ Distributor sites entered
+[14:53:15] ✅ Field value entered
+[14:53:15] ✅ Clicked OK
+[14:53:21] ✅ Right-clicked Calendar Day
+[14:53:22] ✅ Clicked Change Drilldown
+[14:53:22] ✅ Clicked Drilldown by
+[14:53:22] ✅ Clicked Vertical
+[14:53:27] ✅ Right-clicked Invoice Due Date
+[14:53:28] ✅ Clicked Change Drilldown
+[14:53:28] ✅ Clicked Drilldown by
+[14:53:29] ✅ Clicked Vertical
+[14:53:38] ✅ Right-clicked Invoice No
+[14:53:38] ✅ Clicked Change Drilldown
+[14:53:38] ✅ Clicked Drilldown by
+[14:53:39] ✅ Clicked Vertical
+[14:53:46] ✅ Clicked Export to Excel
+[14:53:51] ERROR:
+[14:53:51] System.IO.IOException: The process cannot access the file 'D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, SaveOptions options)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, Boolean validate, Boolean evaluateFormulae)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file)
+   at ConvertHTMLXlsToXlsx.ConverToXlsx(String htmlFilePath, String xlsxFilePath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertHTMLXlsxToXlsx.cs:line 288
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[14:54:33] Task started.
+[14:54:37] ➡️ First login submitted
+[14:54:42] ✅ Second password field found on main page
+[14:54:45] ✅ Second password filled
+[14:54:46] 🔹 Captcha detected: dJsJC4x
+[14:54:47] ✅ Captcha filled
+[14:54:48] ✅ Login submitted
+[14:54:50] Login successful.
+[14:55:00] ✅ Field value entered
+[14:55:01] ✅ Field value entered
+[14:55:01] ✅ Distributor sites entered
+[14:55:01] ✅ Field value entered
+[14:55:01] ✅ Clicked OK
+[14:55:06] ✅ Right-clicked Calendar Day
+[14:55:07] ✅ Clicked Change Drilldown
+[14:55:07] ✅ Clicked Drilldown by
+[14:55:08] ✅ Clicked Vertical
+[14:55:12] ✅ Right-clicked Invoice Due Date
+[14:55:13] ✅ Clicked Change Drilldown
+[14:55:13] ✅ Clicked Drilldown by
+[14:55:13] ✅ Clicked Vertical
+[14:55:18] ✅ Right-clicked Invoice No
+[14:55:18] ✅ Clicked Change Drilldown
+[14:55:19] ✅ Clicked Drilldown by
+[14:55:19] ✅ Clicked Vertical
+[14:55:24] ✅ Clicked Export to Excel
+[14:55:29] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[14:55:29] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[14:55:29] Task completed.
+[14:58:12] Task started.
+[14:58:15] ➡️ First login submitted
+[14:58:21] ✅ Second password field found on main page
+[14:58:24] ✅ Second password filled
+[14:58:25] 🔹 Captcha detected: DxZEVI9
+[14:58:26] ✅ Captcha filled
+[14:58:27] ✅ Login submitted
+[14:58:29] Login successful.
+[14:58:48] ✅ Field value entered
+[14:58:48] ✅ Field value entered
+[14:58:48] ✅ Distributor sites entered
+[14:58:48] ✅ Field value entered
+[14:58:48] ✅ Clicked OK
+[14:58:54] ✅ Right-clicked Calendar Day
+[14:58:54] ✅ Clicked Change Drilldown
+[14:58:55] ✅ Clicked Drilldown by
+[14:58:55] ✅ Clicked Vertical
+[14:58:59] ✅ Right-clicked Invoice Due Date
+[14:59:00] ✅ Clicked Change Drilldown
+[14:59:00] ✅ Clicked Drilldown by
+[14:59:00] ✅ Clicked Vertical
+[14:59:05] ✅ Right-clicked Invoice No
+[14:59:06] ✅ Clicked Change Drilldown
+[14:59:06] ✅ Clicked Drilldown by
+[14:59:06] ✅ Clicked Vertical
+[14:59:11] ✅ Clicked Export to Excel
+[14:59:16] ERROR:
+[14:59:16] System.IO.IOException: The process cannot access the file 'D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, SaveOptions options)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, Boolean validate, Boolean evaluateFormulae)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file)
+   at ConvertHTMLXlsToXlsx.ConverToXlsx(String htmlFilePath, String xlsxFilePath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertHTMLXlsxToXlsx.cs:line 433
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[14:59:35] Task started.
+[14:59:48] ➡️ First login submitted
+[15:00:06] ✅ Second password field found on main page
+[15:00:10] ✅ Second password filled
+[15:00:16] 🔹 Captcha detected: 28iB4xa
+[15:00:17] ✅ Captcha filled
+[15:00:18] ✅ Login submitted
+[15:00:20] Login successful.
+[15:01:05] ✅ Field value entered
+[15:01:05] ✅ Field value entered
+[15:01:05] ✅ Distributor sites entered
+[15:01:05] ✅ Field value entered
+[15:01:05] ✅ Clicked OK
+[15:01:14] ✅ Right-clicked Calendar Day
+[15:01:15] ✅ Clicked Change Drilldown
+[15:01:15] ✅ Clicked Drilldown by
+[15:01:16] ✅ Clicked Vertical
+[15:01:24] ✅ Right-clicked Invoice Due Date
+[15:01:25] ✅ Clicked Change Drilldown
+[15:01:25] ✅ Clicked Drilldown by
+[15:01:26] ✅ Clicked Vertical
+[15:01:31] ✅ Right-clicked Invoice No
+[15:01:31] ✅ Clicked Change Drilldown
+[15:01:31] ✅ Clicked Drilldown by
+[15:01:32] ✅ Clicked Vertical
+[15:01:36] ✅ Clicked Export to Excel
+[15:01:43] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[15:01:43] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[15:01:43] Task completed.
+[15:15:52] Task started.
+[15:16:05] ➡️ First login submitted
+[15:16:19] ✅ Second password field found on main page
+[15:16:24] ✅ Second password filled
+[15:16:25] 🔹 Captcha detected: Ssg9lS5
+[15:16:26] ✅ Captcha filled
+[15:16:27] ✅ Login submitted
+[15:16:29] Login successful.
+[15:16:46] ✅ Field value entered
+[15:16:46] ✅ Field value entered
+[15:16:46] ✅ Distributor sites entered
+[15:16:47] ✅ Field value entered
+[15:16:47] ✅ Clicked OK
+[15:16:53] ✅ Right-clicked Calendar Day
+[15:16:54] ✅ Clicked Change Drilldown
+[15:16:54] ✅ Clicked Drilldown by
+[15:16:55] ✅ Clicked Vertical
+[15:17:00] ✅ Right-clicked Invoice Due Date
+[15:17:01] ✅ Clicked Change Drilldown
+[15:17:01] ✅ Clicked Drilldown by
+[15:17:01] ✅ Clicked Vertical
+[15:17:07] ✅ Right-clicked Invoice No
+[15:17:08] ✅ Clicked Change Drilldown
+[15:17:08] ✅ Clicked Drilldown by
+[15:17:08] ✅ Clicked Vertical
+[15:17:14] ✅ Clicked Export to Excel
+[15:17:22] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[15:17:22] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[15:17:22] Task completed.
+[15:36:50] Task started.
+[15:36:56] ➡️ First login submitted
+[15:37:02] ✅ Second password field found on main page
+[15:37:06] ✅ Second password filled
+[15:37:06] 🔹 Captcha detected: j8N5fL6
+[15:37:07] ✅ Captcha filled
+[15:37:08] ✅ Login submitted
+[15:37:10] Login successful.
+[15:37:20] ✅ Field value entered
+[15:37:20] ✅ Field value entered
+[15:37:20] ✅ Distributor sites entered
+[15:37:20] ✅ Field value entered
+[15:37:21] ✅ Clicked OK
+[15:37:26] ✅ Right-clicked Calendar Day
+[15:37:27] ✅ Clicked Change Drilldown
+[15:37:27] ✅ Clicked Drilldown by
+[15:37:28] ✅ Clicked Vertical
+[15:37:33] ✅ Right-clicked Invoice Due Date
+[15:37:34] ✅ Clicked Change Drilldown
+[15:37:34] ✅ Clicked Drilldown by
+[15:37:34] ✅ Clicked Vertical
+[15:37:41] ✅ Right-clicked Invoice No
+[15:37:41] ✅ Clicked Change Drilldown
+[15:37:41] ✅ Clicked Drilldown by
+[15:37:42] ✅ Clicked Vertical
+[15:37:47] ✅ Clicked Export to Excel
+[15:37:51] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[15:37:51] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[15:37:51] Task completed.
+[15:38:37] Task started.
+[15:38:42] ➡️ First login submitted
+[15:38:48] ✅ Second password field found on main page
+[15:38:51] ✅ Second password filled
+[15:38:51] 🔹 Captcha detected: mBW0iu4
+[15:38:52] ✅ Captcha filled
+[15:38:53] ✅ Login submitted
+[15:38:55] Login successful.
+[15:39:04] ✅ Field value entered
+[15:39:04] ✅ Field value entered
+[15:39:04] ✅ Distributor sites entered
+[15:39:04] ✅ Field value entered
+[15:39:05] ✅ Clicked OK
+[15:39:10] ✅ Right-clicked Calendar Day
+[15:39:11] ✅ Clicked Change Drilldown
+[15:39:11] ✅ Clicked Drilldown by
+[15:39:12] ✅ Clicked Vertical
+[15:39:17] ✅ Right-clicked Invoice Due Date
+[15:39:18] ✅ Clicked Change Drilldown
+[15:39:18] ✅ Clicked Drilldown by
+[15:39:18] ✅ Clicked Vertical
+[15:39:23] ✅ Right-clicked Invoice No
+[15:39:23] ✅ Clicked Change Drilldown
+[15:39:24] ✅ Clicked Drilldown by
+[15:39:24] ✅ Clicked Vertical
+[15:39:31] ✅ Clicked Export to Excel
+[15:39:34] ERROR:
+[15:39:34] System.IO.IOException: The process cannot access the file 'D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, SaveOptions options)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, Boolean validate, Boolean evaluateFormulae)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file)
+   at ConvertHTMLXlsToXlsx.ConverToXlsx(String htmlFilePath, String xlsxFilePath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertHTMLXlsxToXlsx.cs:line 297
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[15:39:51] Task started.
+[15:39:54] ➡️ First login submitted
+[15:40:03] ✅ Second password field found on main page
+[15:40:11] ✅ Second password filled
+[15:40:11] 🔹 Captcha detected: pkm3Ky8
+[15:40:12] ✅ Captcha filled
+[15:40:13] ✅ Login submitted
+[15:40:15] Login successful.
+[15:40:26] ✅ Field value entered
+[15:40:26] ✅ Field value entered
+[15:40:27] ✅ Distributor sites entered
+[15:40:27] ✅ Field value entered
+[15:40:27] ✅ Clicked OK
+[15:40:32] ✅ Right-clicked Calendar Day
+[15:40:33] ✅ Clicked Change Drilldown
+[15:40:34] ✅ Clicked Drilldown by
+[15:40:34] ✅ Clicked Vertical
+[15:40:39] ✅ Right-clicked Invoice Due Date
+[15:40:39] ✅ Clicked Change Drilldown
+[15:40:40] ✅ Clicked Drilldown by
+[15:40:40] ✅ Clicked Vertical
+[15:40:45] ✅ Right-clicked Invoice No
+[15:40:45] ✅ Clicked Change Drilldown
+[15:40:46] ✅ Clicked Drilldown by
+[15:40:46] ✅ Clicked Vertical
+[15:40:51] ✅ Clicked Export to Excel
+[15:40:56] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[15:40:56] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[15:40:56] Task completed.
+[15:44:56] Task started.
+[15:45:00] ➡️ First login submitted
+[15:45:07] ✅ Second password field found on main page
+[15:45:10] ✅ Second password filled
+[15:45:10] 🔹 Captcha detected: xiBHDlM
+[15:45:11] ✅ Captcha filled
+[15:45:12] ✅ Login submitted
+[15:45:14] Login successful.
+[15:45:28] ✅ Field value entered
+[15:45:28] ✅ Field value entered
+[15:45:28] ✅ Distributor sites entered
+[15:45:28] ✅ Field value entered
+[15:45:28] ✅ Clicked OK
+[15:45:34] ✅ Right-clicked Calendar Day
+[15:45:35] ✅ Clicked Change Drilldown
+[15:45:35] ✅ Clicked Drilldown by
+[15:45:36] ✅ Clicked Vertical
+[15:45:40] ✅ Right-clicked Invoice Due Date
+[15:45:41] ✅ Clicked Change Drilldown
+[15:45:41] ✅ Clicked Drilldown by
+[15:45:41] ✅ Clicked Vertical
+[15:45:49] ✅ Right-clicked Invoice No
+[15:45:51] ✅ Clicked Change Drilldown
+[15:45:51] ✅ Clicked Drilldown by
+[15:45:51] ✅ Clicked Vertical
+[15:45:56] ✅ Clicked Export to Excel
+[15:46:01] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[15:46:01] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[15:46:01] Task completed.
+[15:49:07] Task started.
+[15:49:15] ➡️ First login submitted
+[15:49:22] ✅ Second password field found on main page
+[15:49:25] ✅ Second password filled
+[15:49:26] 🔹 Captcha detected: 6951r5L
+[15:49:26] ✅ Captcha filled
+[15:49:27] ✅ Login submitted
+[15:49:29] Login successful.
+[15:49:40] ✅ Field value entered
+[15:49:40] ✅ Field value entered
+[15:49:40] ✅ Distributor sites entered
+[15:49:40] ✅ Field value entered
+[15:49:40] ✅ Clicked OK
+[15:49:48] ✅ Right-clicked Calendar Day
+[15:49:48] ✅ Clicked Change Drilldown
+[15:49:48] ✅ Clicked Drilldown by
+[15:49:49] ✅ Clicked Vertical
+[15:49:55] ✅ Right-clicked Invoice Due Date
+[15:49:56] ✅ Clicked Change Drilldown
+[15:49:56] ✅ Clicked Drilldown by
+[15:49:56] ✅ Clicked Vertical
+[15:50:01] ✅ Right-clicked Invoice No
+[15:50:02] ✅ Clicked Change Drilldown
+[15:50:02] ✅ Clicked Drilldown by
+[15:50:02] ✅ Clicked Vertical
+[15:50:07] ✅ Clicked Export to Excel
+[15:50:11] ERROR:
+[15:50:11] System.IO.IOException: The process cannot access the file 'D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, SaveOptions options)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file, Boolean validate, Boolean evaluateFormulae)
+   at ClosedXML.Excel.XLWorkbook.SaveAs(String file)
+   at ConvertHTMLXlsToXlsx.ConverToXlsx(String htmlFilePath, String xlsxFilePath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Converter\ConvertHTMLXlsxToXlsx.cs:line 305
+   at PlaywrightWDE.Global.Entry.DailySalesSummaryReportEntry.ExportToExcelAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FSS\BIR\AnayliticalReports\DailySalesSummaryReportEntry.cs:line 235
+   at PlaywrightWDE.Global.Helpers.DailySalesSumReportHelper.ExecuteBIRDailySalesSumReportAsync(IPage page) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FSS\BIR\DailySalesSumReportHelper.cs:line 128
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 250
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[15:50:28] Task started.
+[15:50:35] ➡️ First login submitted
+[15:50:42] ✅ Second password field found on main page
+[15:50:46] ✅ Second password filled
+[15:50:46] 🔹 Captcha detected: uQOB9Rn
+[15:50:47] ✅ Captcha filled
+[15:50:48] ✅ Login submitted
+[15:50:50] Login successful.
+[15:51:00] ✅ Field value entered
+[15:51:00] ✅ Field value entered
+[15:51:00] ✅ Distributor sites entered
+[15:51:00] ✅ Field value entered
+[15:51:00] ✅ Clicked OK
+[15:51:06] ✅ Right-clicked Calendar Day
+[15:51:07] ✅ Clicked Change Drilldown
+[15:51:07] ✅ Clicked Drilldown by
+[15:51:07] ✅ Clicked Vertical
+[15:51:13] ✅ Right-clicked Invoice Due Date
+[15:51:13] ✅ Clicked Change Drilldown
+[15:51:13] ✅ Clicked Drilldown by
+[15:51:14] ✅ Clicked Vertical
+[15:51:18] ✅ Right-clicked Invoice No
+[15:51:19] ✅ Clicked Change Drilldown
+[15:51:19] ✅ Clicked Drilldown by
+[15:51:19] ✅ Clicked Vertical
+[15:51:25] ✅ Clicked Export to Excel
+[15:51:30] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[15:51:30] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[15:51:30] Task completed.
+[15:53:58] Task started.
+[15:54:02] ➡️ First login submitted
+[15:54:12] ✅ Second password field found on main page
+[15:54:17] ✅ Second password filled
+[15:54:17] 🔹 Captcha detected: FK92Ilz
+[15:54:18] ✅ Captcha filled
+[15:54:19] ✅ Login submitted
+[15:54:21] Login successful.
+[15:54:54] ✅ Field value entered
+[15:54:54] ✅ Field value entered
+[15:54:54] ✅ Distributor sites entered
+[15:54:54] ✅ Field value entered
+[15:54:54] ✅ Clicked OK
+[15:55:01] ✅ Right-clicked Calendar Day
+[15:55:02] ✅ Clicked Change Drilldown
+[15:55:02] ✅ Clicked Drilldown by
+[15:55:02] ✅ Clicked Vertical
+[15:55:09] ✅ Right-clicked Invoice Due Date
+[15:55:09] ✅ Clicked Change Drilldown
+[15:55:10] ✅ Clicked Drilldown by
+[15:55:10] ✅ Clicked Vertical
+[15:55:26] ✅ Right-clicked Invoice No
+[15:55:27] ✅ Clicked Change Drilldown
+[15:55:27] ✅ Clicked Drilldown by
+[15:55:28] ✅ Clicked Vertical
+[15:55:36] ✅ Clicked Export to Excel
+[15:55:45] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[15:55:45] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[15:55:45] Task completed.
+[16:01:26] Task started.
+[16:01:30] ➡️ First login submitted
+[16:01:45] ✅ Second password field found on main page
+[16:01:49] ✅ Second password filled
+[16:01:49] 🔹 Captcha detected: cfEM1rJ
+[16:01:50] ✅ Captcha filled
+[16:01:51] ✅ Login submitted
+[16:01:53] Login successful.
+[16:02:15] ✅ Field value entered
+[16:02:15] ✅ Field value entered
+[16:02:15] ✅ Distributor sites entered
+[16:02:15] ✅ Field value entered
+[16:02:15] ✅ Clicked OK
+[16:02:22] ✅ Right-clicked Calendar Day
+[16:02:23] ✅ Clicked Change Drilldown
+[16:02:23] ✅ Clicked Drilldown by
+[16:02:23] ✅ Clicked Vertical
+[16:02:28] ✅ Right-clicked Invoice Due Date
+[16:02:29] ✅ Clicked Change Drilldown
+[16:02:29] ✅ Clicked Drilldown by
+[16:02:29] ✅ Clicked Vertical
+[16:02:34] ✅ Right-clicked Invoice No
+[16:02:34] ✅ Clicked Change Drilldown
+[16:02:35] ✅ Clicked Drilldown by
+[16:02:35] ✅ Clicked Vertical
+[16:02:40] ✅ Clicked Export to Excel
+[16:02:51] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:02:51] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:02:51] Task completed.
+[16:05:23] Task started.
+[16:05:27] ➡️ First login submitted
+[16:05:35] ✅ Second password field found on main page
+[16:05:41] ✅ Second password filled
+[16:05:46] 🔹 Captcha detected: zYQA3J5
+[16:05:48] ✅ Captcha filled
+[16:05:49] ✅ Login submitted
+[16:05:51] Login successful.
+[16:06:08] Task started.
+[16:06:15] ➡️ First login submitted
+[16:06:37] ✅ Second password field found on main page
+[16:06:40] ✅ Second password filled
+[16:06:42] 🔹 Captcha detected: DGw51AD
+[16:06:48] ✅ Captcha filled
+[16:06:51] ✅ Login submitted
+[16:06:53] Login successful.
+[16:07:05] ✅ Field value entered
+[16:07:05] ✅ Field value entered
+[16:07:05] ✅ Distributor sites entered
+[16:07:05] ✅ Field value entered
+[16:07:05] ✅ Clicked OK
+[16:07:11] ✅ Right-clicked Calendar Day
+[16:07:12] ✅ Clicked Change Drilldown
+[16:07:12] ✅ Clicked Drilldown by
+[16:07:12] ✅ Clicked Vertical
+[16:07:17] ✅ Right-clicked Invoice Due Date
+[16:07:17] ✅ Clicked Change Drilldown
+[16:07:18] ✅ Clicked Drilldown by
+[16:07:18] ✅ Clicked Vertical
+[16:07:23] ✅ Right-clicked Invoice No
+[16:07:23] ✅ Clicked Change Drilldown
+[16:07:23] ✅ Clicked Drilldown by
+[16:07:24] ✅ Clicked Vertical
+[16:07:33] ✅ Clicked Export to Excel
+[16:07:39] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:07:39] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:07:39] Task completed.
+[16:08:34] Task started.
+[16:08:40] ➡️ First login submitted
+[16:08:52] ✅ Second password field found on main page
+[16:08:56] ✅ Second password filled
+[16:08:57] 🔹 Captcha detected: 95p1d2Y
+[16:08:58] ✅ Captcha filled
+[16:09:02] ✅ Login submitted
+[16:09:04] Login successful.
+[16:09:21] ✅ Field value entered
+[16:09:22] ✅ Field value entered
+[16:09:22] ✅ Distributor sites entered
+[16:09:22] ✅ Field value entered
+[16:09:22] ✅ Clicked OK
+[16:09:27] ✅ Right-clicked Calendar Day
+[16:09:28] ✅ Clicked Change Drilldown
+[16:09:29] ✅ Clicked Drilldown by
+[16:09:29] ✅ Clicked Vertical
+[16:09:34] ✅ Right-clicked Invoice Due Date
+[16:09:34] ✅ Clicked Change Drilldown
+[16:09:34] ✅ Clicked Drilldown by
+[16:09:35] ✅ Clicked Vertical
+[16:09:39] ✅ Right-clicked Invoice No
+[16:09:40] ✅ Clicked Change Drilldown
+[16:09:40] ✅ Clicked Drilldown by
+[16:09:40] ✅ Clicked Vertical
+[16:09:46] ✅ Clicked Export to Excel
+[16:09:53] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:09:53] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:09:53] Task completed.
+[16:12:39] Task started.
+[16:12:43] ➡️ First login submitted
+[16:12:51] ✅ Second password field found on main page
+[16:12:54] ✅ Second password filled
+[16:12:55] 🔹 Captcha detected: vB33Cy6
+[16:12:56] ✅ Captcha filled
+[16:12:57] ✅ Login submitted
+[16:12:59] Login successful.
+[16:13:07] ✅ Field value entered
+[16:13:07] ✅ Field value entered
+[16:13:07] ✅ Distributor sites entered
+[16:13:08] ✅ Field value entered
+[16:13:08] ✅ Clicked OK
+[16:13:14] ✅ Right-clicked Calendar Day
+[16:13:15] ✅ Clicked Change Drilldown
+[16:13:15] ✅ Clicked Drilldown by
+[16:13:15] ✅ Clicked Vertical
+[16:13:20] ✅ Right-clicked Invoice Due Date
+[16:13:20] ✅ Clicked Change Drilldown
+[16:13:21] ✅ Clicked Drilldown by
+[16:13:21] ✅ Clicked Vertical
+[16:13:27] ✅ Right-clicked Invoice No
+[16:13:27] ✅ Clicked Change Drilldown
+[16:13:27] ✅ Clicked Drilldown by
+[16:13:28] ✅ Clicked Vertical
+[16:13:33] ✅ Clicked Export to Excel
+[16:13:38] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:13:38] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:13:38] Task completed.
+[16:22:29] Task started.
+[16:22:34] ➡️ First login submitted
+[16:22:41] ✅ Second password field found on main page
+[16:22:46] ✅ Second password filled
+[16:22:49] 🔹 Captcha detected: HF3L1Fo
+[16:22:50] ✅ Captcha filled
+[16:22:52] ✅ Login submitted
+[16:22:54] Login successful.
+[16:23:38] ✅ Field value entered
+[16:23:38] ✅ Field value entered
+[16:23:38] ✅ Distributor sites entered
+[16:23:38] ✅ Field value entered
+[16:23:38] ✅ Clicked OK
+[16:23:47] ✅ Right-clicked Calendar Day
+[16:23:48] ✅ Clicked Change Drilldown
+[16:23:49] ✅ Clicked Drilldown by
+[16:23:49] ✅ Clicked Vertical
+[16:23:56] ✅ Right-clicked Invoice Due Date
+[16:23:57] ✅ Clicked Change Drilldown
+[16:23:57] ✅ Clicked Drilldown by
+[16:23:57] ✅ Clicked Vertical
+[16:24:06] ✅ Right-clicked Invoice No
+[16:24:07] ✅ Clicked Change Drilldown
+[16:24:07] ✅ Clicked Drilldown by
+[16:24:08] ✅ Clicked Vertical
+[16:24:13] ✅ Clicked Export to Excel
+[16:24:23] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:24:23] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:24:23] Task completed.
+[16:28:45] Task started.
+[16:28:50] ➡️ First login submitted
+[16:29:02] ✅ Second password field found on main page
+[16:29:05] ✅ Second password filled
+[16:29:06] 🔹 Captcha detected: 7ir7OqG
+[16:29:06] ✅ Captcha filled
+[16:29:07] ✅ Login submitted
+[16:29:09] Login successful.
+[16:29:25] ✅ Field value entered
+[16:29:25] ✅ Field value entered
+[16:29:25] ✅ Distributor sites entered
+[16:29:25] ✅ Field value entered
+[16:29:25] ✅ Clicked OK
+[16:29:31] ✅ Right-clicked Calendar Day
+[16:29:32] ✅ Clicked Change Drilldown
+[16:29:32] ✅ Clicked Drilldown by
+[16:29:32] ✅ Clicked Vertical
+[16:29:37] ✅ Right-clicked Invoice Due Date
+[16:29:38] ✅ Clicked Change Drilldown
+[16:29:38] ✅ Clicked Drilldown by
+[16:29:38] ✅ Clicked Vertical
+[16:29:43] ✅ Right-clicked Invoice No
+[16:29:43] ✅ Clicked Change Drilldown
+[16:29:44] ✅ Clicked Drilldown by
+[16:29:44] ✅ Clicked Vertical
+[16:29:49] ✅ Clicked Export to Excel
+[16:30:00] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:30:00] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:30:00] Task completed.
+[16:32:27] Task started.
+[16:32:32] ➡️ First login submitted
+[16:32:39] ✅ Second password field found on main page
+[16:32:42] ✅ Second password filled
+[16:32:42] 🔹 Captcha detected: B02hq5s
+[16:32:43] ✅ Captcha filled
+[16:32:48] ✅ Login submitted
+[16:32:50] Login successful.
+[16:33:10] ✅ Field value entered
+[16:33:10] ✅ Field value entered
+[16:33:10] ✅ Distributor sites entered
+[16:33:11] ✅ Field value entered
+[16:33:11] ✅ Clicked OK
+[16:33:17] ✅ Right-clicked Calendar Day
+[16:33:18] ✅ Clicked Change Drilldown
+[16:33:19] ✅ Clicked Drilldown by
+[16:33:19] ✅ Clicked Vertical
+[16:33:24] ✅ Right-clicked Invoice Due Date
+[16:33:26] ✅ Clicked Change Drilldown
+[16:33:26] ✅ Clicked Drilldown by
+[16:33:27] ✅ Clicked Vertical
+[16:33:32] ✅ Right-clicked Invoice No
+[16:33:32] ✅ Clicked Change Drilldown
+[16:33:32] ✅ Clicked Drilldown by
+[16:33:33] ✅ Clicked Vertical
+[16:33:38] ✅ Clicked Export to Excel
+[16:33:45] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:33:45] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:33:45] Task completed.
+[16:34:15] Task started.
+[16:34:19] ➡️ First login submitted
+[16:34:33] ✅ Second password field found on main page
+[16:34:36] ✅ Second password filled
+[16:34:36] 🔹 Captcha detected: 7zRAU29
+[16:34:37] ✅ Captcha filled
+[16:34:38] ✅ Login submitted
+[16:34:40] Login successful.
+[16:34:53] ✅ Field value entered
+[16:34:53] ✅ Field value entered
+[16:34:53] ✅ Distributor sites entered
+[16:34:53] ✅ Field value entered
+[16:34:53] ✅ Clicked OK
+[16:34:58] ✅ Right-clicked Calendar Day
+[16:34:59] ✅ Clicked Change Drilldown
+[16:34:59] ✅ Clicked Drilldown by
+[16:35:00] ✅ Clicked Vertical
+[16:35:05] ✅ Right-clicked Invoice Due Date
+[16:35:05] ✅ Clicked Change Drilldown
+[16:35:06] ✅ Clicked Drilldown by
+[16:35:06] ✅ Clicked Vertical
+[16:35:13] ✅ Right-clicked Invoice No
+[16:35:14] ✅ Clicked Change Drilldown
+[16:35:14] ✅ Clicked Drilldown by
+[16:35:15] ✅ Clicked Vertical
+[16:35:25] ✅ Clicked Export to Excel
+[16:35:32] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:35:32] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:35:32] Task completed.
+[16:37:06] Task started.
+[16:37:10] ➡️ First login submitted
+[16:37:17] ✅ Second password field found on main page
+[16:37:20] ✅ Second password filled
+[16:37:21] 🔹 Captcha detected: KG2XF6t
+[16:37:22] ✅ Captcha filled
+[16:37:23] ✅ Login submitted
+[16:37:25] Login successful.
+[16:37:47] ✅ Field value entered
+[16:37:47] ✅ Field value entered
+[16:37:47] ✅ Distributor sites entered
+[16:37:47] ✅ Field value entered
+[16:37:47] ✅ Clicked OK
+[16:37:54] ✅ Right-clicked Calendar Day
+[16:37:54] ✅ Clicked Change Drilldown
+[16:37:55] ✅ Clicked Drilldown by
+[16:37:55] ✅ Clicked Vertical
+[16:38:00] ✅ Right-clicked Invoice Due Date
+[16:38:01] ✅ Clicked Change Drilldown
+[16:38:01] ✅ Clicked Drilldown by
+[16:38:01] ✅ Clicked Vertical
+[16:38:07] ✅ Right-clicked Invoice No
+[16:38:08] ✅ Clicked Change Drilldown
+[16:38:08] ✅ Clicked Drilldown by
+[16:38:08] ✅ Clicked Vertical
+[16:38:13] ✅ Clicked Export to Excel
+[16:38:20] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:38:20] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:38:20] Task completed.
+[16:38:52] Task started.
+[16:38:57] ➡️ First login submitted
+[16:39:07] ✅ Second password field found on main page
+[16:39:10] ✅ Second password filled
+[16:39:11] 🔹 Captcha detected: T89sY42
+[16:39:12] ✅ Captcha filled
+[16:39:13] ✅ Login submitted
+[16:39:15] Login successful.
+[16:39:35] ✅ Field value entered
+[16:39:35] ✅ Field value entered
+[16:39:35] ✅ Distributor sites entered
+[16:39:35] ✅ Field value entered
+[16:39:35] ✅ Clicked OK
+[16:39:42] ✅ Right-clicked Calendar Day
+[16:39:42] ✅ Clicked Change Drilldown
+[16:39:43] ✅ Clicked Drilldown by
+[16:39:43] ✅ Clicked Vertical
+[16:39:51] ✅ Right-clicked Invoice Due Date
+[16:39:51] ✅ Clicked Change Drilldown
+[16:39:52] ✅ Clicked Drilldown by
+[16:39:52] ✅ Clicked Vertical
+[16:40:02] ✅ Right-clicked Invoice No
+[16:40:02] ✅ Clicked Change Drilldown
+[16:40:03] ✅ Clicked Drilldown by
+[16:40:03] ✅ Clicked Vertical
+[16:40:10] ✅ Clicked Export to Excel
+[16:40:17] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:40:17] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:40:17] Task completed.
+[16:42:15] Task started.
+[16:42:20] ➡️ First login submitted
+[16:42:26] ✅ Second password field found on main page
+[16:42:29] ✅ Second password filled
+[16:42:29] 🔹 Captcha detected: Ob993Ri
+[16:42:30] ✅ Captcha filled
+[16:42:31] ✅ Login submitted
+[16:42:33] Login successful.
+[16:42:43] ✅ Field value entered
+[16:42:43] ✅ Field value entered
+[16:42:43] ✅ Distributor sites entered
+[16:42:43] ✅ Field value entered
+[16:42:43] ✅ Clicked OK
+[16:42:49] ✅ Right-clicked Calendar Day
+[16:42:50] ✅ Clicked Change Drilldown
+[16:42:51] ✅ Clicked Drilldown by
+[16:42:51] ✅ Clicked Vertical
+[16:42:56] ✅ Right-clicked Invoice Due Date
+[16:42:57] ✅ Clicked Change Drilldown
+[16:42:57] ✅ Clicked Drilldown by
+[16:42:57] ✅ Clicked Vertical
+[16:43:02] ✅ Right-clicked Invoice No
+[16:43:03] ✅ Clicked Change Drilldown
+[16:43:03] ✅ Clicked Drilldown by
+[16:43:03] ✅ Clicked Vertical
+[16:43:08] ✅ Clicked Export to Excel
+[16:43:14] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:43:14] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:43:14] Task completed.
+[16:45:31] Task started.
+[16:45:34] ➡️ First login submitted
+[16:45:49] ✅ Second password field found on main page
+[16:45:54] ✅ Second password filled
+[16:45:55] 🔹 Captcha detected: 0RN9KW6
+[16:45:56] ✅ Captcha filled
+[16:46:00] ✅ Login submitted
+[16:46:02] Login successful.
+[16:46:18] ✅ Field value entered
+[16:46:18] ✅ Field value entered
+[16:46:18] ✅ Distributor sites entered
+[16:46:18] ✅ Field value entered
+[16:46:18] ✅ Clicked OK
+[16:46:25] ✅ Right-clicked Calendar Day
+[16:46:26] ✅ Clicked Change Drilldown
+[16:46:26] ✅ Clicked Drilldown by
+[16:46:26] ✅ Clicked Vertical
+[16:46:31] ✅ Right-clicked Invoice Due Date
+[16:46:32] ✅ Clicked Change Drilldown
+[16:46:32] ✅ Clicked Drilldown by
+[16:46:32] ✅ Clicked Vertical
+[16:46:37] ✅ Right-clicked Invoice No
+[16:46:38] ✅ Clicked Change Drilldown
+[16:46:38] ✅ Clicked Drilldown by
+[16:46:38] ✅ Clicked Vertical
+[16:46:43] ✅ Clicked Export to Excel
+[16:46:48] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:46:48] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:46:48] Task completed.
+[16:48:53] Task started.
+[16:48:56] ➡️ First login submitted
+[16:49:04] ✅ Second password field found on main page
+[16:49:09] ✅ Second password filled
+[16:49:09] 🔹 Captcha detected: 3NcK93C
+[16:49:11] ✅ Captcha filled
+[16:49:13] ✅ Login submitted
+[16:49:15] Login successful.
+[16:49:35] ✅ Field value entered
+[16:49:35] ✅ Field value entered
+[16:49:35] ✅ Distributor sites entered
+[16:49:36] ✅ Field value entered
+[16:49:36] ✅ Clicked OK
+[16:49:41] ✅ Right-clicked Calendar Day
+[16:49:42] ✅ Clicked Change Drilldown
+[16:49:42] ✅ Clicked Drilldown by
+[16:49:43] ✅ Clicked Vertical
+[16:49:47] ✅ Right-clicked Invoice Due Date
+[16:49:48] ✅ Clicked Change Drilldown
+[16:49:48] ✅ Clicked Drilldown by
+[16:49:48] ✅ Clicked Vertical
+[16:49:53] ✅ Right-clicked Invoice No
+[16:49:54] ✅ Clicked Change Drilldown
+[16:49:54] ✅ Clicked Drilldown by
+[16:49:54] ✅ Clicked Vertical
+[16:50:00] ✅ Clicked Export to Excel
+[16:50:08] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[16:50:08] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[16:50:08] Task completed.
+[17:03:11] Task started.
+[17:03:19] ➡️ First login submitted
+[17:03:26] ✅ Second password field found on main page
+[17:03:29] ✅ Second password filled
+[17:03:30] 🔹 Captcha detected: lM32V56
+[17:03:31] ✅ Captcha filled
+[17:03:32] ✅ Login submitted
+[17:03:34] Login successful.
+[17:03:45] ✅ Field value entered
+[17:03:45] ✅ Field value entered
+[17:03:45] ✅ Distributor sites entered
+[17:03:45] ✅ Field value entered
+[17:03:45] ✅ Clicked OK
+[17:03:55] ✅ Right-clicked Calendar Day
+[17:03:57] ✅ Clicked Change Drilldown
+[17:03:57] ✅ Clicked Drilldown by
+[17:03:57] ✅ Clicked Vertical
+[17:04:11] ✅ Right-clicked Invoice Due Date
+[17:04:11] ✅ Clicked Change Drilldown
+[17:04:12] ✅ Clicked Drilldown by
+[17:04:12] ✅ Clicked Vertical
+[17:04:26] ✅ Right-clicked Invoice No
+[17:04:26] ✅ Clicked Change Drilldown
+[17:04:26] ✅ Clicked Drilldown by
+[17:04:26] ✅ Clicked Vertical
+[17:04:41] ✅ Clicked Export to Excel
+[17:04:46] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[17:04:46] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[17:04:46] Task completed.
+[17:23:36] Task started.
+[17:23:42] ➡️ First login submitted
+[17:23:49] ✅ Second password field found on main page
+[17:23:53] ✅ Second password filled
+[17:23:54] 🔹 Captcha detected: o1D95M3
+[17:23:55] ✅ Captcha filled
+[17:23:56] ✅ Login submitted
+[17:23:58] Login successful.
+[17:24:08] ✅ Field value entered
+[17:24:08] ✅ Field value entered
+[17:24:08] ✅ Distributor sites entered
+[17:24:08] ✅ Field value entered
+[17:24:08] ✅ Clicked OK
+[17:24:14] ✅ Right-clicked Calendar Day
+[17:24:14] ✅ Clicked Change Drilldown
+[17:24:14] ✅ Clicked Drilldown by
+[17:24:15] ✅ Clicked Vertical
+[17:24:19] ✅ Right-clicked Invoice Due Date
+[17:24:20] ✅ Clicked Change Drilldown
+[17:24:20] ✅ Clicked Drilldown by
+[17:24:20] ✅ Clicked Vertical
+[17:24:25] ✅ Right-clicked Invoice No
+[17:24:25] ✅ Clicked Change Drilldown
+[17:24:25] ✅ Clicked Drilldown by
+[17:24:25] ✅ Clicked Vertical
+[17:24:30] ✅ Clicked Export to Excel
+[17:24:35] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-06-2026\DAILY_INVOICE_REPORT.xlsx
+[17:24:35] Completed execution of report: 1.1.1 Daily Sales Summary Report
+[17:24:35] Task completed.

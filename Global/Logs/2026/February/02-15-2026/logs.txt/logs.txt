@@ -1,0 +1,509 @@
+[08:27:40] Task started.
+[08:27:46] ➡️ First login submitted
+[08:27:53] ✅ Second password field found on main page
+[08:27:56] ✅ Second password filled
+[08:27:57] 🔹 Captcha detected: CoHbK14
+[08:27:57] ✅ Captcha filled
+[08:27:59] ✅ Login submitted
+[08:28:01] Login successful.
+[08:28:08] ✅ Field value entered
+[08:28:08] ✅ Field value entered
+[08:28:08] ✅ Distributor sites entered
+[08:28:08] ✅ Field value entered
+[08:28:08] ✅ Clicked OK
+[08:28:11] ✅ Right-clicked Calendar Day
+[08:28:12] ✅ Clicked Change Drilldown
+[08:28:12] ✅ Clicked Drilldown by
+[08:28:12] ✅ Clicked Vertical
+[08:28:14] ✅ Right-clicked Invoice Due Date
+[08:28:14] ✅ Clicked Change Drilldown
+[08:28:14] ✅ Clicked Drilldown by
+[08:28:15] ✅ Clicked Vertical
+[08:28:16] ✅ Right-clicked Invoice No
+[08:28:17] ✅ Clicked Change Drilldown
+[08:28:17] ✅ Clicked Drilldown by
+[08:28:17] ✅ Clicked Vertical
+[08:28:18] ✅ Clicked Export to Excel
+[08:28:22] ✅ Downloaded File: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\DAILY_INVOICE_REPORT_2026-02-15.xlsx
+[08:28:22] ✅ Completed execution of report: 1.1.1 Daily Sales Summary Report
+[08:28:22] Task completed.
+[08:29:03] Task started.
+[08:29:06] ➡️ First login submitted
+[08:29:11] ✅ Second password field found on main page
+[08:29:14] ✅ Second password filled
+[08:29:14] 🔹 Captcha detected: 81YV4Cr
+[08:29:15] ✅ Captcha filled
+[08:29:16] ✅ Login submitted
+[08:29:18] Login successful.
+[08:29:25] ✅ Field value entered
+[08:29:25] ✅ Field value entered
+[08:29:26] ✅ Field value entered
+[08:29:26] ✅ Field value entered
+[08:29:26] ✅ Clicked Execute button
+[08:29:29] ✅ Clicked More button
+[08:29:29] ✅ Clicked Detail List button
+[08:29:54] ✅ Clicked Menu
+[08:29:54] ✅ Hovered List
+[08:29:55] ✅ Hovered Export
+[08:29:55] ✅ Clicked Spreadsheet
+[08:30:08] ✅ File name changed to 'GOODRECEIPT_REPORT'
+[08:30:08] ✅ Clicked OK
+[08:30:10] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\GOODRECEIPT_REPORT.xlsx
+[08:30:10] ✅ Completed execution of FIGL report: 7.1.1 Good Receipts Report - Unilever (RPT01)
+[08:30:10] Task completed.
+[08:30:31] Task started.
+[08:30:34] ➡️ First login submitted
+[08:30:39] ✅ Second password field found on main page
+[08:30:42] ✅ Second password filled
+[08:30:42] 🔹 Captcha detected: VCHT0x7
+[08:30:43] ✅ Captcha filled
+[08:30:44] ✅ Login submitted
+[08:30:46] Login successful.
+[08:31:01] ✅ Field value entered
+[08:31:01] ✅ Clicked Execute button
+[08:31:04] ✅ Clicked More button
+[08:31:04] ✅ Clicked Choose Layout
+[08:31:10] ✅ Element visible after 49 scrolls
+[08:31:10] ✅ Clicked /SSDI ALL
+[08:31:11] ✅ Clicked Menu
+[08:31:11] ✅ Hovered List
+[08:31:12] ✅ Hovered Export
+[08:31:12] ✅ Clicked Spreadsheet
+[08:31:24] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4049'
+[08:31:24] ✅ Clicked OK
+[08:31:26] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4049.xlsx
+[08:31:36] ✅ Field value entered
+[08:31:36] ✅ Clicked Execute button
+[08:31:38] ✅ Clicked More button
+[08:31:38] ✅ Clicked Choose Layout
+[08:31:44] ✅ Element visible after 49 scrolls
+[08:31:44] ✅ Clicked /SSDI ALL
+[08:31:45] ✅ Clicked Menu
+[08:31:45] ✅ Hovered List
+[08:31:45] ✅ Hovered Export
+[08:31:46] ✅ Clicked Spreadsheet
+[08:31:47] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4A48'
+[08:31:47] ✅ Clicked OK
+[08:31:49] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4A48.xlsx
+[08:31:59] ✅ Field value entered
+[08:31:59] ✅ Clicked Execute button
+[08:32:01] ✅ Clicked More button
+[08:32:01] ✅ Clicked Choose Layout
+[08:32:07] ✅ Element visible after 49 scrolls
+[08:32:07] ✅ Clicked /SSDI ALL
+[08:32:08] ✅ Clicked Menu
+[08:32:08] ✅ Hovered List
+[08:32:08] ✅ Hovered Export
+[08:32:09] ✅ Clicked Spreadsheet
+[08:32:09] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4B48'
+[08:32:09] ✅ Clicked OK
+[08:32:12] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4B48.xlsx
+[08:32:22] ✅ Field value entered
+[08:32:22] ✅ Clicked Execute button
+[08:32:24] ✅ Clicked More button
+[08:32:24] ✅ Clicked Choose Layout
+[08:32:30] ✅ Element visible after 49 scrolls
+[08:32:30] ✅ Clicked /SSDI ALL
+[08:32:31] ✅ Clicked Menu
+[08:32:31] ✅ Hovered List
+[08:32:31] ✅ Hovered Export
+[08:32:32] ✅ Clicked Spreadsheet
+[08:32:33] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4C48'
+[08:32:33] ✅ Clicked OK
+[08:32:35] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4C48.xlsx
+[08:32:45] ✅ Field value entered
+[08:32:46] ✅ Clicked Execute button
+[08:32:48] ✅ Clicked More button
+[08:32:48] ✅ Clicked Choose Layout
+[08:32:54] ✅ Element visible after 49 scrolls
+[08:32:54] ✅ Clicked /SSDI ALL
+[08:32:55] ✅ Clicked Menu
+[08:32:55] ✅ Hovered List
+[08:32:56] ✅ Hovered Export
+[08:32:56] ✅ Clicked Spreadsheet
+[08:32:57] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4536'
+[08:32:57] ✅ Clicked OK
+[08:33:00] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4536.xlsx
+[08:33:10] ✅ Field value entered
+[08:33:10] ✅ Clicked Execute button
+[08:33:11] ✅ Clicked More button
+[08:33:11] ✅ Clicked Choose Layout
+[08:33:16] ✅ Element visible after 49 scrolls
+[08:33:16] ✅ Clicked /SSDI ALL
+[08:33:17] ✅ Clicked Menu
+[08:33:18] ✅ Hovered List
+[08:33:18] ✅ Hovered Export
+[08:33:18] ✅ Clicked Spreadsheet
+[08:33:19] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4537'
+[08:33:19] ✅ Clicked OK
+[08:33:21] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4537.xlsx
+[08:33:21] ✅ Completed execution of report: 7.4.1 Salesman Master Report (RPT22)
+[08:33:31] ✅ Field value entered
+[08:33:32] ✅ All radio button clicked
+[08:33:37] ✅ Clicked Execute button
+[08:33:45] ✅ Clicked More button
+[08:33:45] ✅ Clicked Choose Layout
+[08:33:48] ✅ Element visible after 8 scrolls
+[08:33:48] ✅ Clicked /SSDI MSTR
+[08:33:50] ✅ Clicked Menu
+[08:33:50] ✅ Hovered List
+[08:33:50] ✅ Hovered Export
+[08:33:51] ✅ Clicked Spreadsheet
+[08:33:52] ✅ File name changed to 'ARTICLEMASTER_REPORT_4049'
+[08:33:52] ✅ Clicked OK
+[08:33:55] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4049.xlsx
+[08:33:56] 🧹 ArticleMaster Excel cleaned rows 256, 2 for site 4049
+[08:34:07] ✅ Field value entered
+[08:34:07] ✅ All radio button clicked
+[08:34:12] ✅ Clicked Execute button
+[08:39:04] ✅ Clicked More button
+[08:39:04] ✅ Clicked Choose Layout
+[08:39:06] ✅ Element visible after 8 scrolls
+[08:39:06] ✅ Clicked /SSDI MSTR
+[08:39:08] ✅ Clicked Menu
+[08:39:08] ✅ Hovered List
+[08:39:08] ✅ Hovered Export
+[08:39:09] ✅ Clicked Spreadsheet
+[08:39:25] ✅ File name changed to 'ARTICLEMASTER_REPORT_4A48'
+[08:39:25] ✅ Clicked OK
+[08:40:16] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4A48.xlsx
+[08:40:22] 🧹 ArticleMaster Excel cleaned rows 11606, 2, 11310, 11307, 11291, 11290, 11289, 11288, 11287, 11286, 11285, 11284, 11283, 11282, 11281, 11280, 11279, 11237, 11185, 10840, 9734, 1660, 1648 for site 4A48
+[08:40:32] ✅ Field value entered
+[08:40:33] ✅ All radio button clicked
+[08:40:38] ✅ Clicked Execute button
+[08:45:27] ✅ Clicked More button
+[08:45:27] ✅ Clicked Choose Layout
+[08:45:29] ✅ Element visible after 8 scrolls
+[08:45:29] ✅ Clicked /SSDI MSTR
+[08:45:30] ✅ Clicked Menu
+[08:45:30] ✅ Hovered List
+[08:45:31] ✅ Hovered Export
+[08:45:31] ✅ Clicked Spreadsheet
+[08:45:47] ✅ File name changed to 'ARTICLEMASTER_REPORT_4B48'
+[08:45:47] ✅ Clicked OK
+[08:46:26] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4B48.xlsx
+[08:46:30] 🧹 ArticleMaster Excel cleaned rows 11440, 2, 11144, 11141, 11125, 11124, 11123, 11122, 11121, 11120, 11119, 11118, 11117, 11116, 11115, 11114, 11113, 11071, 11019, 10674, 9568, 1615, 1603 for site 4B48
+[08:46:40] ✅ Field value entered
+[08:46:40] ✅ All radio button clicked
+[08:46:45] ✅ Clicked Execute button
+[08:50:04] ✅ Clicked More button
+[08:50:04] ✅ Clicked Choose Layout
+[08:50:07] ✅ Element visible after 8 scrolls
+[08:50:07] ✅ Clicked /SSDI MSTR
+[08:50:08] ✅ Clicked Menu
+[08:50:08] ✅ Hovered List
+[08:50:09] ✅ Hovered Export
+[08:50:09] ✅ Clicked Spreadsheet
+[08:50:21] ✅ File name changed to 'ARTICLEMASTER_REPORT_4C48'
+[08:50:21] ✅ Clicked OK
+[08:50:47] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4C48.xlsx
+[08:50:50] 🧹 ArticleMaster Excel cleaned rows 7925, 2, 7629, 7626, 7610, 7609, 7608, 7607, 7606, 7605, 7604, 7603, 7602, 7601, 7600, 7599, 7598, 7556, 7504, 7159, 6053, 1406, 1394 for site 4C48
+[08:51:01] ✅ Field value entered
+[08:51:01] ✅ All radio button clicked
+[08:51:06] ✅ Clicked Execute button
+[08:51:28] ✅ Clicked More button
+[08:51:28] ✅ Clicked Choose Layout
+[08:51:30] ✅ Element visible after 8 scrolls
+[08:51:30] ✅ Clicked /SSDI MSTR
+[08:51:31] ✅ Clicked Menu
+[08:51:31] ✅ Hovered List
+[08:51:31] ✅ Hovered Export
+[08:51:32] ✅ Clicked Spreadsheet
+[08:51:33] ✅ File name changed to 'ARTICLEMASTER_REPORT_4536'
+[08:51:33] ✅ Clicked OK
+[08:51:37] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4536.xlsx
+[08:51:38] 🧹 ArticleMaster Excel cleaned rows 869, 2 for site 4536
+[08:51:48] ✅ Field value entered
+[08:51:48] ✅ All radio button clicked
+[08:51:53] ✅ Clicked Execute button
+[08:52:15] ✅ Clicked More button
+[08:52:15] ✅ Clicked Choose Layout
+[08:52:17] ✅ Element visible after 8 scrolls
+[08:52:17] ✅ Clicked /SSDI MSTR
+[08:52:19] ✅ Clicked Menu
+[08:52:19] ✅ Hovered List
+[08:52:19] ✅ Hovered Export
+[08:52:20] ✅ Clicked Spreadsheet
+[08:52:22] ✅ File name changed to 'ARTICLEMASTER_REPORT_4537'
+[08:52:22] ✅ Clicked OK
+[08:52:28] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4537.xlsx
+[08:52:28] 🧹 ArticleMaster Excel cleaned rows 869, 2 for site 4537
+[08:52:28] ✅ Completed execution of report: 7.4.2 Article Master Report (RPT23)
+[08:52:38] ✅ Field value entered
+[08:52:38] ✅ Field value entered
+[08:52:38] ✅ Clicked Execute button
+[08:52:40] ✅ Clicked More button
+[08:52:40] ✅ Clicked Choose Layout
+[08:53:17] ✅ Element visible after 353 scrolls
+[08:53:17] ✅ Clicked /SSDI_ALL
+[08:53:19] ✅ Clicked Menu
+[08:53:19] ✅ Hovered List
+[08:53:19] ✅ Hovered Export
+[08:53:19] ✅ Clicked Spreadsheet
+[08:53:24] ✅ File name changed to 'OUTLETMASTER_REPORT_4049'
+[08:53:24] ✅ Clicked OK
+[08:53:37] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\OUTLETMASTER_REPORT_4049.xlsx
+[08:53:47] ✅ Field value entered
+[08:53:47] ✅ Field value entered
+[08:53:47] ✅ Clicked Execute button
+[08:53:50] ✅ Clicked More button
+[08:53:50] ✅ Clicked Choose Layout
+[08:54:29] ✅ Element visible after 353 scrolls
+[08:54:29] ✅ Clicked /SSDI_ALL
+[08:54:31] ✅ Clicked Menu
+[08:54:31] ✅ Hovered List
+[08:54:31] ✅ Hovered Export
+[08:54:32] ✅ Clicked Spreadsheet
+[08:54:36] ✅ File name changed to 'OUTLETMASTER_REPORT_4A48'
+[08:54:36] ✅ Clicked OK
+[08:54:46] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\OUTLETMASTER_REPORT_4A48.xlsx
+[08:54:56] ✅ Field value entered
+[08:54:56] ✅ Field value entered
+[08:54:56] ✅ Clicked Execute button
+[08:55:04] ✅ Clicked More button
+[08:55:04] ✅ Clicked Choose Layout
+[08:55:41] ✅ Element visible after 353 scrolls
+[08:55:41] ✅ Clicked /SSDI_ALL
+[08:55:44] ✅ Clicked Menu
+[08:55:44] ✅ Hovered List
+[08:55:44] ✅ Hovered Export
+[08:55:45] ✅ Clicked Spreadsheet
+[08:55:55] ✅ File name changed to 'OUTLETMASTER_REPORT_4B48'
+[08:55:55] ✅ Clicked OK
+[08:56:27] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\OUTLETMASTER_REPORT_4B48.xlsx
+[08:56:38] ✅ Field value entered
+[08:56:38] ✅ Field value entered
+[08:56:38] ✅ Clicked Execute button
+[08:56:50] ✅ Clicked More button
+[08:56:50] ✅ Clicked Choose Layout
+[08:57:26] ✅ Element visible after 353 scrolls
+[08:57:26] ✅ Clicked /SSDI_ALL
+[08:57:28] ✅ Clicked Menu
+[08:57:28] ✅ Hovered List
+[08:57:28] ✅ Hovered Export
+[08:57:29] ✅ Clicked Spreadsheet
+[08:57:47] ✅ File name changed to 'OUTLETMASTER_REPORT_4C48'
+[08:57:47] ✅ Clicked OK
+[08:58:26] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\OUTLETMASTER_REPORT_4C48.xlsx
+[08:58:36] ✅ Field value entered
+[08:58:36] ✅ Field value entered
+[08:58:36] ✅ Clicked Execute button
+[08:58:40] ✅ Clicked More button
+[08:58:40] ✅ Clicked Choose Layout
+[08:59:16] ✅ Element visible after 353 scrolls
+[08:59:16] ✅ Clicked /SSDI_ALL
+[08:59:18] ✅ Clicked Menu
+[08:59:18] ✅ Hovered List
+[08:59:19] ✅ Hovered Export
+[08:59:19] ✅ Clicked Spreadsheet
+[08:59:22] ✅ File name changed to 'OUTLETMASTER_REPORT_4536'
+[08:59:22] ✅ Clicked OK
+[08:59:29] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\OUTLETMASTER_REPORT_4536.xlsx
+[08:59:39] ✅ Field value entered
+[08:59:39] ✅ Field value entered
+[08:59:39] ✅ Clicked Execute button
+[08:59:41] ✅ Clicked More button
+[08:59:41] ✅ Clicked Choose Layout
+[09:00:16] ✅ Element visible after 353 scrolls
+[09:00:16] ✅ Clicked /SSDI_ALL
+[09:00:17] ✅ Clicked Menu
+[09:00:17] ✅ Hovered List
+[09:00:18] ✅ Hovered Export
+[09:00:18] ✅ Clicked Spreadsheet
+[09:00:19] ✅ File name changed to 'OUTLETMASTER_REPORT_4537'
+[09:00:19] ✅ Clicked OK
+[09:00:21] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\OUTLETMASTER_REPORT_4537.xlsx
+[09:00:21] ✅ Completed execution of report: 7.4.3 Outlet Master Report (RPT24)
+[09:00:21] ⚠️ Skipping unknown RP Master leaf: 7.4.9 - 7.4.9 Outlet Master Status Track Report
+[09:00:21] Task completed.
+[17:20:21] Task started.
+[17:20:28] ➡️ First login submitted
+[17:20:36] ✅ Second password field found on main page
+[17:20:42] ✅ Second password filled
+[17:20:43] 🔹 Captcha detected: IZJ4D7F
+[17:20:45] ✅ Captcha filled
+[17:20:48] ✅ Login submitted
+[17:20:50] Login successful.
+[17:21:18] ✅ Field value entered
+[17:21:18] ✅ Clicked Execute button
+[17:21:24] ✅ Clicked More button
+[17:21:24] ✅ Clicked Choose Layout
+[17:21:32] ✅ Element visible after 49 scrolls
+[17:21:32] ✅ Clicked /SSDI ALL
+[17:21:34] ✅ Clicked Menu
+[17:21:34] ✅ Hovered List
+[17:21:34] ✅ Hovered Export
+[17:21:35] ✅ Clicked Spreadsheet
+[17:21:54] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4049'
+[17:21:54] ✅ Clicked OK
+[17:21:57] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4049.xlsx
+[17:22:07] ✅ Field value entered
+[17:22:07] ✅ Clicked Execute button
+[17:22:09] ✅ Clicked More button
+[17:22:09] ✅ Clicked Choose Layout
+[17:22:16] ✅ Element visible after 49 scrolls
+[17:22:16] ✅ Clicked /SSDI ALL
+[17:22:17] ✅ Clicked Menu
+[17:22:18] ✅ Hovered List
+[17:22:18] ✅ Hovered Export
+[17:22:18] ✅ Clicked Spreadsheet
+[17:22:19] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4A48'
+[17:22:19] ✅ Clicked OK
+[17:22:22] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4A48.xlsx
+[17:22:33] ✅ Field value entered
+[17:22:33] ✅ Clicked Execute button
+[17:22:35] ✅ Clicked More button
+[17:22:35] ✅ Clicked Choose Layout
+[17:22:42] ✅ Element visible after 49 scrolls
+[17:22:42] ✅ Clicked /SSDI ALL
+[17:22:44] ✅ Clicked Menu
+[17:22:44] ✅ Hovered List
+[17:22:45] ✅ Hovered Export
+[17:22:45] ✅ Clicked Spreadsheet
+[17:22:47] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4B48'
+[17:22:47] ✅ Clicked OK
+[17:22:52] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4B48.xlsx
+[17:23:02] ✅ Field value entered
+[17:23:02] ✅ Clicked Execute button
+[17:23:04] ✅ Clicked More button
+[17:23:04] ✅ Clicked Choose Layout
+[17:23:10] ✅ Element visible after 49 scrolls
+[17:23:10] ✅ Clicked /SSDI ALL
+[17:23:12] ✅ Clicked Menu
+[17:23:12] ✅ Hovered List
+[17:23:12] ✅ Hovered Export
+[17:23:12] ✅ Clicked Spreadsheet
+[17:23:13] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4C48'
+[17:23:13] ✅ Clicked OK
+[17:23:18] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4C48.xlsx
+[17:23:30] ✅ Field value entered
+[17:23:30] ✅ Clicked Execute button
+[17:23:32] ✅ Clicked More button
+[17:23:32] ✅ Clicked Choose Layout
+[17:23:38] ✅ Element visible after 49 scrolls
+[17:23:38] ✅ Clicked /SSDI ALL
+[17:23:40] ✅ Clicked Menu
+[17:23:40] ✅ Hovered List
+[17:23:40] ✅ Hovered Export
+[17:23:41] ✅ Clicked Spreadsheet
+[17:23:42] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4536'
+[17:23:42] ✅ Clicked OK
+[17:23:45] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4536.xlsx
+[17:23:55] ✅ Field value entered
+[17:23:55] ✅ Clicked Execute button
+[17:23:58] ✅ Clicked More button
+[17:23:58] ✅ Clicked Choose Layout
+[17:24:05] ✅ Element visible after 49 scrolls
+[17:24:05] ✅ Clicked /SSDI ALL
+[17:24:06] ✅ Clicked Menu
+[17:24:06] ✅ Hovered List
+[17:24:07] ✅ Hovered Export
+[17:24:07] ✅ Clicked Spreadsheet
+[17:24:08] ✅ File name changed to 'SALESMAN_MASTER_REPORT_4537'
+[17:24:08] ✅ Clicked OK
+[17:24:10] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\SALESMAN_MASTER_REPORT_4537.xlsx
+[17:24:10] ✅ Completed execution of report: 7.4.1 Salesman Master Report (RPT22)
+[17:24:20] ✅ Field value entered
+[17:24:23] ✅ All radio button clicked
+[17:24:29] ✅ Clicked Execute button
+[17:24:40] ✅ Clicked More button
+[17:24:40] ✅ Clicked Choose Layout
+[17:24:42] ✅ Element visible after 8 scrolls
+[17:24:42] ✅ Clicked /SSDI MSTR
+[17:24:44] ✅ Clicked Menu
+[17:24:44] ✅ Hovered List
+[17:24:45] ✅ Hovered Export
+[17:24:45] ✅ Clicked Spreadsheet
+[17:24:46] ✅ File name changed to 'ARTICLEMASTER_REPORT_4049'
+[17:24:46] ✅ Clicked OK
+[17:24:51] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4049.xlsx
+[17:24:54] 🧹 ArticleMaster Excel cleaned rows 256, 2 for site 4049
+[17:25:05] ✅ Field value entered
+[17:25:05] ✅ All radio button clicked
+[17:25:10] ✅ Clicked Execute button
+[17:31:33] ✅ Clicked More button
+[17:31:33] ✅ Clicked Choose Layout
+[17:31:35] ✅ Element visible after 8 scrolls
+[17:31:35] ✅ Clicked /SSDI MSTR
+[17:31:36] ✅ Clicked Menu
+[17:31:36] ✅ Hovered List
+[17:31:37] ✅ Hovered Export
+[17:31:37] ✅ Clicked Spreadsheet
+[17:31:54] ✅ File name changed to 'ARTICLEMASTER_REPORT_4A48'
+[17:31:54] ✅ Clicked OK
+[17:32:22] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4A48.xlsx
+[17:32:27] 🧹 ArticleMaster Excel cleaned rows 11606, 2, 11310, 11307, 11291, 11290, 11289, 11288, 11287, 11286, 11285, 11284, 11283, 11282, 11281, 11280, 11279, 11237, 11185, 10840, 9734, 1660, 1648 for site 4A48
+[17:32:38] ✅ Field value entered
+[17:32:38] ✅ All radio button clicked
+[17:32:43] ✅ Clicked Execute button
+[17:37:24] ✅ Clicked More button
+[17:37:24] ✅ Clicked Choose Layout
+[17:37:26] ✅ Element visible after 8 scrolls
+[17:37:26] ✅ Clicked /SSDI MSTR
+[17:37:28] ✅ Clicked Menu
+[17:37:28] ✅ Hovered List
+[17:37:28] ✅ Hovered Export
+[17:37:29] ✅ Clicked Spreadsheet
+[17:37:46] ✅ File name changed to 'ARTICLEMASTER_REPORT_4B48'
+[17:37:46] ✅ Clicked OK
+[17:38:12] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4B48.xlsx
+[17:38:16] 🧹 ArticleMaster Excel cleaned rows 11440, 2, 11144, 11141, 11125, 11124, 11123, 11122, 11121, 11120, 11119, 11118, 11117, 11116, 11115, 11114, 11113, 11071, 11019, 10674, 9568, 1615, 1603 for site 4B48
+[17:38:27] ✅ Field value entered
+[17:38:27] ✅ All radio button clicked
+[17:38:32] ✅ Clicked Execute button
+[17:42:59] ✅ Clicked More button
+[17:42:59] ✅ Clicked Choose Layout
+[17:43:01] ✅ Element visible after 8 scrolls
+[17:43:01] ✅ Clicked /SSDI MSTR
+[17:43:02] ✅ Clicked Menu
+[17:43:02] ✅ Hovered List
+[17:43:03] ✅ Hovered Export
+[17:43:03] ✅ Clicked Spreadsheet
+[17:43:14] ✅ File name changed to 'ARTICLEMASTER_REPORT_4C48'
+[17:43:14] ✅ Clicked OK
+[17:43:34] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4C48.xlsx
+[17:43:37] 🧹 ArticleMaster Excel cleaned rows 7925, 2, 7629, 7626, 7610, 7609, 7608, 7607, 7606, 7605, 7604, 7603, 7602, 7601, 7600, 7599, 7598, 7556, 7504, 7159, 6053, 1406, 1394 for site 4C48
+[17:43:47] ✅ Field value entered
+[17:43:47] ✅ All radio button clicked
+[17:43:52] ✅ Clicked Execute button
+[17:44:17] ✅ Clicked More button
+[17:44:17] ✅ Clicked Choose Layout
+[17:44:19] ✅ Element visible after 8 scrolls
+[17:44:19] ✅ Clicked /SSDI MSTR
+[17:44:20] ✅ Clicked Menu
+[17:44:20] ✅ Hovered List
+[17:44:21] ✅ Hovered Export
+[17:44:21] ✅ Clicked Spreadsheet
+[17:44:23] ✅ File name changed to 'ARTICLEMASTER_REPORT_4536'
+[17:44:23] ✅ Clicked OK
+[17:44:28] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4536.xlsx
+[17:44:28] 🧹 ArticleMaster Excel cleaned rows 870, 2 for site 4536
+[17:44:40] ✅ Field value entered
+[17:44:40] ✅ All radio button clicked
+[17:44:45] ✅ Clicked Execute button
+[17:45:06] ✅ Clicked More button
+[17:45:06] ✅ Clicked Choose Layout
+[17:45:07] ✅ Element visible after 8 scrolls
+[17:45:07] ✅ Clicked /SSDI MSTR
+[17:45:09] ✅ Clicked Menu
+[17:45:09] ✅ Hovered List
+[17:45:09] ✅ Hovered Export
+[17:45:10] ✅ Clicked Spreadsheet
+[17:45:11] ✅ File name changed to 'ARTICLEMASTER_REPORT_4537'
+[17:45:12] ✅ Clicked OK
+[17:45:15] ✅ Downloaded file: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-15-2026\ARTICLEMASTER_REPORT_4537.xlsx
+[17:45:16] 🧹 ArticleMaster Excel cleaned rows 870, 2 for site 4537
+[17:45:16] ✅ Completed execution of report: 7.4.2 Article Master Report (RPT23)
+[17:45:26] ✅ Field value entered
+[17:45:26] ✅ Field value entered
+[17:45:26] ✅ Clicked Execute button
+[17:45:29] ✅ Clicked More button
+[17:45:29] ✅ Clicked Choose Layout
+[17:53:00] ERROR:
+[17:53:00] System.TimeoutException: ❌ Element 'span.lsField__input[ct='CBS'][lsdata*='SSDI'][lsdata*='ALL']' not visible after scrolling
+   at PlaywrightWDE.Global.Helpers.CommonEntryHelpers.ScrollSapLsScrollbarUntilVisibleAsync(IFrame frame, String targetSelector, String siteCode, ReportType reportType, Int32 maxScrolls, Int32 delayMs) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\CommonEntryHelpers\CommonEntryHelpers.cs:line 261
+   at PlaywrightWDE.Global.Entry.MasterReportsEntryActions.ClickWithScrollAsync(IFrame frame, String selector, String siteCode, ReportType reportType, String log) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FssEntryActions\Reports\Masters\MasterReportsEntryActions.cs:line 86
+   at PlaywrightWDE.Global.Entry.MasterReportsEntryActions.ClickSsdiAllOutletAsync(IFrame frame, String siteCode, ReportType reportType) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FssEntryActions\Reports\Masters\MasterReportsEntryActions.cs:line 65
+   at PlaywrightWDE.Global.Helpers.OutletMasterReportEntryHelper.ExecuteOutletMasterReportAsync(IPage page, String siteCode) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FssEntryHelpers\Reports\Masters\OutletMasterReportEntryHelper.cs:line 77
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 146
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
