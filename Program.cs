@@ -25,7 +25,7 @@ class Program
         try
         {
             playwright = await Playwright.CreateAsync();
-            browser = await playwright.Chromium.LaunchAsync(new() { Headless = false }); // headless
+            browser = await playwright.Chromium.LaunchAsync(new() { Headless = true }); // headless
             var page = await browser.NewPageAsync();
 
             Logger.Log("Task started.");
@@ -117,7 +117,7 @@ class Program
             }
 
             Logger.Log("Task completed.");
-            Console.ReadLine();
+            Console.ReadLine(); // holding the app open
         }
         catch (Exception ex)
         {
@@ -127,8 +127,15 @@ class Program
         finally
         {
             if (browser != null)
+            {
+                // int browserCloseDelay = 30;
+                // Logger.Log($"⏳ Browser will close automatically after {browserCloseDelay} minutes...");
+                // await Task.Delay(TimeSpan.FromMinutes(browserCloseDelay));
+                // Logger.Log("🔒 Closing browser...");
                 await browser.CloseAsync();
-
+                // Logger.Log("✅ Browser closed successfully.");
+            }
+               
             playwright?.Dispose();
         }
     }

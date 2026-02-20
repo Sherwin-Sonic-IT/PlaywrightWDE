@@ -43,7 +43,7 @@ namespace PlaywrightWDE.Actions
                 throw new Exception($"Unknown FIGL parent/child combination: {parentArg}/{childArg}");
             }
 
-            Logger.Log($"✅ Completed execution of FIGL report: {leaf.Display}");
+            Logger.Log($"✅ Completed execution of report: {leaf.Display}");
         }
     }
 }
