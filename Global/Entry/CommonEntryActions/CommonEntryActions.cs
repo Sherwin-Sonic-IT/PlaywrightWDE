@@ -87,11 +87,10 @@ namespace PlaywrightWDE.Global.Entry {
         CommonEntryHelpers.ReportType? reportType = null,
         string? siteCode = null)
         {
-            var calendarValue =
-                DailySalesSummaryReportEntrySelector
-                    .DailySalesSummaryRepFields
-                    .CalendarField
-                    .DefaultValue;
+            var calendarValue = DailySalesSummaryReportEntrySelector
+                                    .DailySalesSummaryRepFields
+                                    .CalendarField
+                                    .DefaultValue;
 
             if (!DateTime.TryParseExact(
                     calendarValue,
@@ -105,6 +104,8 @@ namespace PlaywrightWDE.Global.Entry {
             }
 
             var exportFolder = FilePath.FilePath.GetDatedExportFolder(date);
+            var stagingFolder = Path.Combine(exportFolder, "staging");
+            Directory.CreateDirectory(stagingFolder);
 
             var download = await page.RunAndWaitForDownloadAsync(
                 () => CommonEntryHelpers.ClickAsync(
@@ -113,49 +114,44 @@ namespace PlaywrightWDE.Global.Entry {
                     "✅ Clicked OK"),
                 new() { Timeout = DefaultTimeout });
 
-            var filePath = Path.Combine(exportFolder, download.SuggestedFilename);
-            await download.SaveAsAsync(filePath);
+            var stagingFile = Path.Combine(stagingFolder, download.SuggestedFilename);
+            await download.SaveAsAsync(stagingFile);
+            Logger.Log($"✅ Downloaded file to staging: {stagingFile}");
 
-            Logger.Log($"✅ Downloaded file: {filePath}");
-
-            await WaitForFileReadyAsync(filePath);
-
+            await WaitForFileReadyAsync(stagingFile);
 
             if (reportType == CommonEntryHelpers.ReportType.ArticleMaster)
             {
-                var deletedRows = ExcelReportCleaner.CleanArticleMaster(filePath);
+                var deletedRows = ExcelReportCleaner.CleanArticleMaster(stagingFile);
 
                 if (deletedRows.Count > 0)
-                {
-                    Logger.Log(
-                        $"🧹 ArticleMaster Excel cleaned rows {string.Join(", ", deletedRows)} for site {siteCode}");
-                }
+                    Logger.Log($"🧹 ArticleMaster Excel cleaned rows {string.Join(", ", deletedRows)} for site {siteCode}");
                 else
-                {
-                    Logger.Log(
-                        $"🧹 ArticleMaster Excel: no rows deleted for site {siteCode}");
-                }
+                    Logger.Log($"🧹 ArticleMaster Excel: no rows deleted for site {siteCode}");
             }
 
-            return filePath;
+            var finalFile = Path.Combine(exportFolder, download.SuggestedFilename);
+            File.Copy(stagingFile, finalFile, overwrite: true);
+
+            File.Delete(stagingFile);
+
+            Logger.Log($"✅ File ready: {finalFile}");
+            return finalFile;
         }
 
-        private static async Task WaitForFileReadyAsync(
-        string path,
-        int retries = 10,
-        int delayMs = 300)
+        private static async Task WaitForFileReadyAsync(string path, int retries = 20, int delayMs = 300)
         {
+            if (!File.Exists(path))
+                throw new FileNotFoundException($"File not found: {path}");
+
             for (int i = 0; i < retries; i++)
             {
                 try
                 {
-                    using var stream = File.Open(
-                        path,
-                        FileMode.Open,
-                        FileAccess.ReadWrite,
-                        FileShare.None);
-
-                    return; 
+                    using (FileStream stream = File.Open(path, FileMode.Open, FileAccess.ReadWrite, FileShare.None))
+                    {
+                        return;
+                    }
                 }
                 catch (IOException)
                 {
@@ -163,11 +159,96 @@ namespace PlaywrightWDE.Global.Entry {
                 }
             }
 
-            throw new IOException($"File '{path}' is still locked after waiting.");
+            throw new IOException($"File '{path}' is still locked after {retries * delayMs}ms.");
         }
 
-    }
+        // public static async Task<string> ClickOkAsync(
+        // IPage page,
+        // IFrame frame,
+        // CommonEntryHelpers.ReportType? reportType = null,
+        // string? siteCode = null)
+        // {
+        //     var calendarValue =
+        //         DailySalesSummaryReportEntrySelector
+        //             .DailySalesSummaryRepFields
+        //             .CalendarField
+        //             .DefaultValue;
 
+        //     if (!DateTime.TryParseExact(
+        //             calendarValue,
+        //             "dd.MM.yy",
+        //             null,
+        //             System.Globalization.DateTimeStyles.None,
+        //             out var date))
+        //     {
+        //         date = DateTime.Now;
+        //         Logger.Log("⚠️ Calendar parse failed, using today");
+        //     }
+
+        //     var exportFolder = FilePath.FilePath.GetDatedExportFolder(date);
+
+        //     var download = await page.RunAndWaitForDownloadAsync(
+        //         () => CommonEntryHelpers.ClickAsync(
+        //             frame,
+        //             MasterReportsEntrySelector.MasterReportButtons.OkButton.Selector,
+        //             "✅ Clicked OK"),
+        //         new() { Timeout = DefaultTimeout });
+
+        //     var filePath = Path.Combine(exportFolder, download.SuggestedFilename);
+        //     await download.SaveAsAsync(filePath);
+
+        //     Logger.Log($"✅ Downloaded file: {filePath}");
+
+        //     await WaitForFileReadyAsync(filePath);
+
+
+        //     if (reportType == CommonEntryHelpers.ReportType.ArticleMaster)
+        //     {
+        //         var deletedRows = ExcelReportCleaner.CleanArticleMaster(filePath);
+
+        //         if (deletedRows.Count > 0)
+        //         {
+        //             Logger.Log(
+        //                 $"🧹 ArticleMaster Excel cleaned rows {string.Join(", ", deletedRows)} for site {siteCode}");
+        //         }
+        //         else
+        //         {
+        //             Logger.Log(
+        //                 $"🧹 ArticleMaster Excel: no rows deleted for site {siteCode}");
+        //         }
+        //     }
+
+        //     return filePath;
+        // }
+
+        // private static async Task WaitForFileReadyAsync(
+        // string path,
+        // int retries = 10,
+        // int delayMs = 300)
+        // {
+        //     for (int i = 0; i < retries; i++)
+        //     {
+        //         try
+        //         {
+        //             using var stream = File.Open(
+        //                 path,
+        //                 FileMode.Open,
+        //                 FileAccess.ReadWrite,
+        //                 FileShare.None);
+
+        //             return; 
+        //         }
+        //         catch (IOException)
+        //         {
+        //             await Task.Delay(delayMs);
+        //         }
+        //     }
+
+        //     throw new IOException($"File '{path}' is still locked after waiting.");
+        // }
+
+    }
+    
 }
 
 
