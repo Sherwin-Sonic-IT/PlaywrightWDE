@@ -56,7 +56,7 @@ namespace PlaywrightWDE.Actions
 
                     await reportFunc(page, Sites[i]);
 
-                    await Task.Delay(500); 
+                    // await Task.Delay(500); 
 
                     if (i < Sites.Length - 1)
                         await ClickNavLinks.ClickNavLinksAsync(page, reportPath);

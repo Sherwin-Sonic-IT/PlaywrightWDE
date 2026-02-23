@@ -124,7 +124,7 @@ namespace PlaywrightWDE.Global.Entry
 
             var xlsxFilePath = Path.Combine(exportFolder, xlsxFileName);
 
-            ConvertHTMLXlsToXlsx.ConverToXlsx(tempFilePath, xlsxFilePath);
+            ConvertHTMLXlsToXlsx.ConvertDailySalesSummaryToXlsx(tempFilePath, xlsxFilePath);
 
             Logger.Log($"✅ Downloaded File: {xlsxFilePath}");
 
@@ -134,7 +134,7 @@ namespace PlaywrightWDE.Global.Entry
             return xlsxFilePath; 
         }
 
-        /* -------------------- SAP Helpers -------------------- */
+        /* -------------------- Right Click -------------------- */
 
         private static async Task RightClickSidebarItemAsync(
             IFrame frame,

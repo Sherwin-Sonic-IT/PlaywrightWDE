@@ -1,4 +1,3 @@
-
 using Microsoft.Playwright;
 using System;
 using System.Linq;
@@ -25,7 +24,7 @@ namespace PlaywrightWDE.Global.Navigation
                 {
                     await nodeRow.WaitForAsync(new LocatorWaitForOptions
                     {
-                        State = WaitForSelectorState.Visible,
+                        // State = WaitForSelectorState.Visible,
                         Timeout = DefaultTimeout
                     });
 
@@ -39,12 +38,12 @@ namespace PlaywrightWDE.Global.Navigation
                             Timeout = DefaultTimeout
                         });
 
-                        await Task.Delay(500);
+                        // await Task.Delay(500);
                     }
                 }
-                catch
+                catch (Exception ex)
                 {
-                    throw new PlaywrightException($"Folder '{folderName}' not found after waiting {DefaultTimeout / 1000} seconds.");
+                    throw new PlaywrightException($"Folder '{folderName}' not found after waiting {DefaultTimeout} minutes.", ex);
                 }
             }
 
@@ -58,11 +57,12 @@ namespace PlaywrightWDE.Global.Navigation
 
             await reportLink.WaitForAsync(new LocatorWaitForOptions
             {
-                State = WaitForSelectorState.Visible,
+                // State = WaitForSelectorState.Visible,
                 Timeout = DefaultTimeout
             });
 
             await reportLink.ScrollIntoViewIfNeededAsync();
+
             await reportLink.ClickAsync(new LocatorClickOptions
             {
                 Timeout = DefaultTimeout

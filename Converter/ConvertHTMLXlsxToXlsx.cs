@@ -8,10 +8,10 @@ using System.Linq;
 
 public static class ConvertHTMLXlsToXlsx
 {
-    public static void ConverToXlsx(string htmlFilePath, string xlsxFilePath)
+    public static void ConvertDailySalesSummaryToXlsx(string htmlFilePath, string xlsxFilePath)
     {
         var doc = new HtmlDocument();
-        doc.Load(htmlFilePath);
+        doc.Load(htmlFilePath); 
 
         using var workbook = new XLWorkbook();
         var worksheet = workbook.Worksheets.Add("Sheet1");
