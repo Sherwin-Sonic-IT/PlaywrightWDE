@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u3AOJAT19co=",
+  "dgSpecHash": "3qR+l9nIswU=",
   "success": true,
-  "projectFilePath": "D:\\Users\\jmabasa\\Desktop\\PlaywrightWDE\\PlaywrightWDE.csproj",
+  "projectFilePath": "C:\\Users\\jmabasa\\source\\repos\\PlaywrightWDE\\PlaywrightWDE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jmabasa\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\jmabasa\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",

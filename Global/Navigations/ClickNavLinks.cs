@@ -24,7 +24,6 @@ namespace PlaywrightWDE.Global.Navigation
                 {
                     await nodeRow.WaitForAsync(new LocatorWaitForOptions
                     {
-                        // State = WaitForSelectorState.Visible,
                         Timeout = DefaultTimeout
                     });
 
@@ -38,7 +37,6 @@ namespace PlaywrightWDE.Global.Navigation
                             Timeout = DefaultTimeout
                         });
 
-                        // await Task.Delay(500);
                     }
                 }
                 catch (Exception ex)
@@ -57,7 +55,6 @@ namespace PlaywrightWDE.Global.Navigation
 
             await reportLink.WaitForAsync(new LocatorWaitForOptions
             {
-                // State = WaitForSelectorState.Visible,
                 Timeout = DefaultTimeout
             });
 

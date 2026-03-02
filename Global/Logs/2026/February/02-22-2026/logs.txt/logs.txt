@@ -2466,3 +2466,173 @@ Call log:
 [16:15:34] ✅ Selected search direction item
 [16:15:34] ✅ Clicked ok find button
 [16:15:39] ✅ Clicked cancel (escape) button
+[16:25:42] ERROR:
+[16:25:42] System.TimeoutException: Timeout 600000ms exceeded.
+Call log:
+  - waiting for Locator("span.lsField__input[ct='CBS'][lsdata*='/SSDI_ALL']").First
+    - locator resolved to <span ti="-1" readonly ct="CBS" tabindex="-1" maxlength="12" name="InputField" class="lsField__input" id="grid#C121#1426,1#if" lsdata="{1:'FREETEXT',3:'u50419_TALB',5:'\x2fSSDI_ALL',7:true,14:'SERVER',17:false,20:false,21:{value:'/SSDI_ALL',maxlen:'12',focusable:'X'},23:'UNDERLINE_HOTSPOT',25:'FILL_FIXED_LAYOUT'}" lsevents="{Validate:[{ClientAction:'none'},{rgv:[{}]}],ListAccess:[{ClientAction:'none',ResponseData:'delta',TransportMethod:'full',EnqueueCardinality:'none'},{rgv:[{'0':'GuiGridView','3':…>/SSDI_ALL</span>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div tabindex="0" class="lsBlockLayer" id="urPopupWindowBlockLayer"></div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div tabindex="0" class="lsBlockLayer" id="urPopupWindowBlockLayer"></div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    1026 × waiting for element to be visible, enabled and stable
+         - element is visible, enabled and stable
+         - scrolling into view if needed
+         - done scrolling
+         - <div tabindex="0" class="lsBlockLayer" id="urPopupWindowBlockLayer"></div> intercepts pointer events
+       - retrying click action
+         - waiting 500ms
+   at Microsoft.Playwright.Transport.Connection.InnerSendMessageToServerAsync[T](ChannelOwner object, String method, Dictionary`2 dictionary, Boolean keepNulls) in /_/src/Playwright/Transport/Connection.cs:line 201
+   at Microsoft.Playwright.Transport.Connection.WrapApiCallAsync[T](Func`1 action, Boolean isInternal, String title) in /_/src/Playwright/Transport/Connection.cs:line 499
+   at PlaywrightWDE.Global.Helpers.CommonEntryHelpers.ClickAsync(IFrame frame, String selector, String log, Int32 timeout) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\CommonEntryHelpers\CommonEntryHelpers.cs:line 47
+   at PlaywrightWDE.Global.Entry.MasterReportsEntryActions.ClickSsdiAllOutletAsync(IFrame frame) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Entry\FssEntryActions\Reports\Masters\MasterReportsEntryActions.cs:line 88
+   at PlaywrightWDE.Global.Helpers.OutletMasterReportEntryHelper.ExecuteOutletMasterReportAsync(IPage page, String siteCode) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Global\Helpers\FssEntryHelpers\Reports\Masters\OutletMasterReportEntryHelper.cs:line 34
+   at PlaywrightWDE.Actions.FSSActions.ExecuteFssReportAsync(IPage page, String parentArg, String childArg, NavNode leaf, String[] reportPath) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Actions\FSSActions.cs:line 57
+   at Program.Main(String[] args) in D:\Users\jmabasa\Desktop\PlaywrightWDE\Program.cs:line 89
+[16:26:55] Task started.
+[16:27:01] ➡️ First login submitted
+[16:27:07] ✅ Second password field found on main page
+[16:27:10] ✅ Second password filled
+[16:27:10] 🔹 Captcha detected: 1j3uY9L
+[16:27:11] ✅ Captcha filled
+[16:27:12] ✅ Login submitted
+[16:27:14] Login successful.
+[16:27:19] ➡️ Executing report for site: 4049
+[16:27:29] ✅ Field value entered
+[16:27:29] ✅ Field value entered
+[16:27:29] ✅ Clicked execute button
+[16:27:33] ✅ Clicked more button
+[16:27:33] ✅ Clicked choose layout
+[16:27:35] ✅ Clicked find
+[16:27:36] ✅ Field value entered
+[16:27:39] ✅ Clicked search direction dropdown
+[16:27:39] ✅ Selected search direction item
+[16:27:40] ✅ Clicked ok find button
+[16:27:45] ✅ Clicked cancel (escape) button
+[16:27:45] ✅ Clicked /SSDI_ALL
+[16:27:47] ✅ Clicked Menu
+[16:27:47] ✅ Hovered List
+[16:27:48] ✅ Hovered Export
+[16:27:48] ✅ Clicked Spreadsheet
+[16:28:03] ✅ File name changed to 'OUTLETMASTER_REPORT_4049'
+[16:28:03] ✅ Clicked OK
+[16:28:09] ✅ Downloaded file to staging: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\staging\OUTLETMASTER_REPORT_4049.xlsx
+[16:28:09] ✅ File ready: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\OUTLETMASTER_REPORT_4049.xlsx
+[16:28:09] ➡️ Executing report for site: 4A48
+[16:28:19] ✅ Field value entered
+[16:28:19] ✅ Field value entered
+[16:28:19] ✅ Clicked execute button
+[16:28:22] ✅ Clicked more button
+[16:28:23] ✅ Clicked choose layout
+[16:28:24] ✅ Clicked find
+[16:28:25] ✅ Field value entered
+[16:28:25] ✅ Clicked search direction dropdown
+[16:28:25] ✅ Selected search direction item
+[16:28:25] ✅ Clicked ok find button
+[16:28:30] ✅ Clicked cancel (escape) button
+[16:28:31] ✅ Clicked /SSDI_ALL
+[16:28:33] ✅ Clicked Menu
+[16:28:33] ✅ Hovered List
+[16:28:33] ✅ Hovered Export
+[16:28:33] ✅ Clicked Spreadsheet
+[16:28:38] ✅ File name changed to 'OUTLETMASTER_REPORT_4A48'
+[16:28:38] ✅ Clicked OK
+[16:28:45] ✅ Downloaded file to staging: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\staging\OUTLETMASTER_REPORT_4A48.xlsx
+[16:28:45] ✅ File ready: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\OUTLETMASTER_REPORT_4A48.xlsx
+[16:28:46] ➡️ Executing report for site: 4B48
+[16:28:57] ✅ Field value entered
+[16:28:57] ✅ Field value entered
+[16:28:57] ✅ Clicked execute button
+[16:29:02] ✅ Clicked more button
+[16:29:02] ✅ Clicked choose layout
+[16:29:03] ✅ Clicked find
+[16:29:04] ✅ Field value entered
+[16:29:05] ✅ Clicked search direction dropdown
+[16:29:05] ✅ Selected search direction item
+[16:29:05] ✅ Clicked ok find button
+[16:29:10] ✅ Clicked cancel (escape) button
+[16:29:11] ✅ Clicked /SSDI_ALL
+[16:29:12] ✅ Clicked Menu
+[16:29:12] ✅ Hovered List
+[16:29:13] ✅ Hovered Export
+[16:29:13] ✅ Clicked Spreadsheet
+[16:29:24] ✅ File name changed to 'OUTLETMASTER_REPORT_4B48'
+[16:29:24] ✅ Clicked OK
+[16:30:50] ✅ Downloaded file to staging: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\staging\OUTLETMASTER_REPORT_4B48.xlsx
+[16:30:50] ✅ File ready: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\OUTLETMASTER_REPORT_4B48.xlsx
+[16:30:50] ➡️ Executing report for site: 4C48
+[16:31:00] ✅ Field value entered
+[16:31:00] ✅ Field value entered
+[16:31:01] ✅ Clicked execute button
+[16:31:13] ✅ Clicked more button
+[16:31:14] ✅ Clicked choose layout
+[16:31:15] ✅ Clicked find
+[16:31:16] ✅ Field value entered
+[16:31:17] ✅ Clicked search direction dropdown
+[16:31:17] ✅ Selected search direction item
+[16:31:17] ✅ Clicked ok find button
+[16:31:22] ✅ Clicked cancel (escape) button
+[16:31:24] ✅ Clicked /SSDI_ALL
+[16:31:25] ✅ Clicked Menu
+[16:31:25] ✅ Hovered List
+[16:31:25] ✅ Hovered Export
+[16:31:26] ✅ Clicked Spreadsheet
+[16:31:45] ✅ File name changed to 'OUTLETMASTER_REPORT_4C48'
+[16:31:45] ✅ Clicked OK
+[16:32:12] ✅ Downloaded file to staging: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\staging\OUTLETMASTER_REPORT_4C48.xlsx
+[16:32:12] ✅ File ready: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\OUTLETMASTER_REPORT_4C48.xlsx
+[16:32:12] ➡️ Executing report for site: 4536
+[16:32:23] ✅ Field value entered
+[16:32:23] ✅ Field value entered
+[16:32:23] ✅ Clicked execute button
+[16:32:26] ✅ Clicked more button
+[16:32:27] ✅ Clicked choose layout
+[16:32:28] ✅ Clicked find
+[16:32:30] ✅ Field value entered
+[16:32:30] ✅ Clicked search direction dropdown
+[16:32:30] ✅ Selected search direction item
+[16:32:30] ✅ Clicked ok find button
+[16:32:36] ✅ Clicked cancel (escape) button
+[16:32:37] ✅ Clicked /SSDI_ALL
+[16:32:39] ✅ Clicked Menu
+[16:32:39] ✅ Hovered List
+[16:32:39] ✅ Hovered Export
+[16:32:40] ✅ Clicked Spreadsheet
+[16:32:42] ✅ File name changed to 'OUTLETMASTER_REPORT_4536'
+[16:32:42] ✅ Clicked OK
+[16:32:47] ✅ Downloaded file to staging: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\staging\OUTLETMASTER_REPORT_4536.xlsx
+[16:32:47] ✅ File ready: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\OUTLETMASTER_REPORT_4536.xlsx
+[16:32:48] ➡️ Executing report for site: 4537
+[16:32:58] ✅ Field value entered
+[16:32:58] ✅ Field value entered
+[16:32:58] ✅ Clicked execute button
+[16:32:59] ✅ Clicked more button
+[16:32:59] ✅ Clicked choose layout
+[16:33:00] ✅ Clicked find
+[16:33:02] ✅ Field value entered
+[16:33:02] ✅ Clicked search direction dropdown
+[16:33:02] ✅ Selected search direction item
+[16:33:02] ✅ Clicked ok find button
+[16:33:07] ✅ Clicked cancel (escape) button
+[16:33:08] ✅ Clicked /SSDI_ALL
+[16:33:09] ✅ Clicked Menu
+[16:33:10] ✅ Hovered List
+[16:33:10] ✅ Hovered Export
+[16:33:10] ✅ Clicked Spreadsheet
+[16:33:12] ✅ File name changed to 'OUTLETMASTER_REPORT_4537'
+[16:33:12] ✅ Clicked OK
+[16:33:14] ✅ Downloaded file to staging: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\staging\OUTLETMASTER_REPORT_4537.xlsx
+[16:33:14] ✅ File ready: D:\Users\jmabasa\Desktop\ExtractedData\2026\February\02-22-2026\OUTLETMASTER_REPORT_4537.xlsx
+[16:33:14] ✅ Completed execution of report: 7.4.3 Outlet Master Report (RPT24)
+[16:33:14] Task completed.

@@ -2195,11 +2195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\jmabasa\\Desktop\\PlaywrightWDE\\PlaywrightWDE.csproj",
+      "projectUniqueName": "C:\\Users\\jmabasa\\source\\repos\\PlaywrightWDE\\PlaywrightWDE.csproj",
       "projectName": "PlaywrightWDE",
-      "projectPath": "D:\\Users\\jmabasa\\Desktop\\PlaywrightWDE\\PlaywrightWDE.csproj",
+      "projectPath": "C:\\Users\\jmabasa\\source\\repos\\PlaywrightWDE\\PlaywrightWDE.csproj",
       "packagesPath": "C:\\Users\\jmabasa\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\jmabasa\\Desktop\\PlaywrightWDE\\obj\\",
+      "outputPath": "C:\\Users\\jmabasa\\source\\repos\\PlaywrightWDE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
