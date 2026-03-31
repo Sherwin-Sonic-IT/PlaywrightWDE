@@ -25,7 +25,18 @@ class Program
         try
         {
             playwright = await Playwright.CreateAsync();
-            browser = await playwright.Chromium.LaunchAsync(new() { Headless = true }); // headless
+            browser = await playwright.Chromium.LaunchAsync(new()
+            {
+                Headless = true,
+                Args = new[]
+                {
+                    "--no-sandbox",
+                    "--disable-setuid-sandbox",
+                    "--disable-gpu",
+                    "--disable-dev-shm-usage"
+                }
+            });
+            // browser = await playwright.Chromium.LaunchAsync(new() { Headless = true }); // headless
             var page = await browser.NewPageAsync();
 
             Logger.Log("Task started.");
@@ -117,7 +128,7 @@ class Program
             }
 
             Logger.Log("Task completed.");
-            Console.ReadLine(); // holding the app open
+            // Console.ReadLine(); // holding the app open
         }
         catch (Exception ex)
         {

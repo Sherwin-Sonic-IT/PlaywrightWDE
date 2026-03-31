@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlaywrightWDE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04baafe2ebf7b2868ec990339b817fc0dc8b175e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90c82f43bf7576878ae28cf2bcabfd30618a9ace")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlaywrightWDE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlaywrightWDE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
