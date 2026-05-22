@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using PlaywrightWDE.Global.Helpers;
 using PlaywrightWDE.Global.Selectors;
 
-namespace PlaywrightWDE.Global.Navigation
+namespace PlaywrightWDE.Navigations
 {
     public static class ClickNavLinks
     {

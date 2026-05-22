@@ -32,7 +32,7 @@ namespace PlaywrightWDE.Credentials
                 new(type, "4048SONFI2", "INVacc#26@2025", "SONic1#@2026"),
 
             AccountType.FSS or _ =>
-                new(type, "4048sons10", "ITS&pss24@007", "ITS&pss24@17")
+                new(type, "4048sons10", "ITS&pss24@009", "ITS&pss24@18")
         };
     }
 }

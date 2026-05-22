@@ -3,6 +3,7 @@ using System;
 using System.Threading.Tasks;
 using PlaywrightWDE.Global.Helpers;
 using PlaywrightWDE.Global.Navigation;
+using PlaywrightWDE.Navigations;
 
 
 namespace PlaywrightWDE.Actions {

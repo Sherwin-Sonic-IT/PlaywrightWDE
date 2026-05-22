@@ -22,18 +22,18 @@ namespace PlaywrightWDE.Global.Helpers
             await CommonEntryActions.ClickExecuteAsync(frame);
             await CommonEntryActions.ClickMoreAsync(frame);
             await CommonEntryActions.ClickChooseLayoutAsync(frame);
-            await MasterReportsEntryActions.ClickFindAsync(frame);
+            await CommonEntryActions.ClickFindAsync(frame);
             await CommonEntryActions.EnterFieldAsync(frame, MasterReportsEntrySelector.MasterReportFields.SearchTermField.Selector, "/SSDI ALL");
-            await MasterReportsEntryActions.SearchSelectDirectionValueAsync(frame);
-            await MasterReportsEntryActions.ClickOkFindAsync(frame);
-            await MasterReportsEntryActions.ClickCancelEscapeButtonAsync(frame);
-            await MasterReportsEntryActions.ClickSsdiAllSalesmanAsync(frame);
+            await CommonEntryActions.SearchSelectDirectionValueAsync(frame);
+            await CommonEntryActions.ClickOkFindAsync(frame);
+            await CommonEntryActions.ClickCancelEscapeButtonAsync(frame);
+            await CommonEntryActions.ClickSsdiAllSalesmanAsync(frame);
             await CommonEntryActions.ClickMenuAsync(frame);
             await CommonEntryActions.HoverListAsync(frame); 
             await CommonEntryActions.HoverExportAsync(frame);
             await CommonEntryActions.ClickSpreadsheetAsync(frame);
 
-            await MasterReportsEntryActions.EnterCustomFileNameAsync(frame, $"SALESMAN_MASTER_REPORT_{siteCode}");
+            await CommonEntryActions.EnterCustomFileNameAsync(frame, $"SALESMAN_MASTER_REPORT_{siteCode}");
 
             return await CommonEntryActions.ClickOkAsync(page, frame, CommonEntryHelpers.ReportType.SalesmanMaster, siteCode);
         }

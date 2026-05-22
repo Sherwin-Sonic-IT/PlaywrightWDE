@@ -10,8 +10,6 @@ namespace PlaywrightWDE.Global.Entry {
 
     public static class CommonEntryActions {
 
-        private const int DefaultTimeout = 600_000;
-
         public static async Task EnterFieldAsync(
             IFrame frame,
             string selector,
@@ -112,7 +110,7 @@ namespace PlaywrightWDE.Global.Entry {
                     frame,
                     MasterReportsEntrySelector.MasterReportButtons.OkButton.Selector,
                     "✅ Clicked OK"),
-                new() { Timeout = DefaultTimeout });
+                new() { Timeout = CommonEntryHelpers.DefaultTimeout });
 
             var stagingFile = Path.Combine(stagingFolder, download.SuggestedFilename);
             await download.SaveAsAsync(stagingFile);
@@ -160,6 +158,151 @@ namespace PlaywrightWDE.Global.Entry {
             }
 
             throw new IOException($"File '{path}' is still locked after {retries * delayMs}ms.");
+        }
+
+        public static async Task SelectAllRadioButtonAsync(IFrame frame)
+        {
+             await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportRadioButtons.AllRadioButton.Selector,
+                "✅ All radio button clicked");
+        }
+
+        public static async Task ClickFindAsync(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportButtons.FindButton.Selector,
+                "✅ Clicked find");
+        }
+
+        public static async Task SearchSelectDirectionValueAsync(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportButtons.SearchDirectionDropdownButton.Selector,
+                "✅ Clicked search direction dropdown"); 
+
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportEntryMenuItems.SearchDirectionItem.Selector,
+                "✅ Selected search direction item");
+        }
+
+        public static async Task ClickOkFindAsync(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportButtons.OkFindButton.Selector,
+                "✅ Clicked ok find button"
+            );
+
+            await Task.Delay(5000);
+        }
+
+        public static async Task ClickCancelEscapeButtonAsync(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportButtons.CancelEscapeButton.Selector,
+                "✅ Clicked cancel (escape) button"
+            );
+        }
+
+        public static async Task ClickSsdiAllSalesmanAsync(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportFields.SsdiAllSalesmanField.Selector,
+                "✅ Clicked /SSDI_ALL");
+        }
+
+        public static async Task ClickSsdiAllOutletAsync(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportFields.SsdiAllOutletField.Selector,
+                "✅ Clicked /SSDI_ALL");
+        }
+            
+        public static async Task ClickSsdiMstrArticleAsync(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportFields.SsdiMstrArticleField.Selector,
+                "✅ Clicked /SSDI MSTR");
+        }
+
+        public static async Task ClickInvLQSsdiAsync(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                SalesmanDailySalesReportEntrySelector.SalesmanDailySalesReportRepFields.InvLQSsdiField.Selector,
+                "✅ Clicked /INV_LQ_SSDI");
+        }
+
+        public static async Task EnterCustomFileNameAsync(
+            IFrame frame,
+            string fileName)
+        {
+            await CommonEntryHelpers.FillAsync(
+                frame,
+                MasterReportsEntrySelector.MasterReportFields.FileNameField.Selector,
+                fileName,
+                $"✅ File name changed to '{fileName}'");
+        }
+
+
+        public static async Task<string> SalesmanCodeFromF4Button (IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                CommonEntrySelectors.CommonEntryButtons.SalesmanCodeFromF4Button.Selector,
+                "✅ Clicked Salesman Button From List");
+
+            return "Clicked";
+        }
+
+       public static async Task<string> SalesmanCodeToF4Button (IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+               CommonEntrySelectors.CommonEntryButtons.SalesmanCodeToF4Button.Selector,
+                "✅ Clicked Salesman Button To List");
+
+            return "Clicked";
+        }
+
+        public static async Task<string> SelectFirstAvailableCheckbox(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                CommonEntrySelectors.CommonEntryButtons.FirstRowCheckbox.Selector,
+                "✅ Selected first available checkbox");
+
+            return "Clicked";
+        }
+
+        public static async Task<string> SelectLastAvailableCheckbox(IFrame frame)
+        {
+            await CommonEntryHelpers.ScrollSapF4ToBottomAsync(frame, CommonEntrySelectors.CommonEntryButtons.ScrollSap4ToBottom.Selector);
+
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+                CommonEntrySelectors.CommonEntryButtons.LastRowCheckbox.Selector,
+                "✅ Selected last available checkbox");
+
+            return "Clicked";
+        }
+
+        public static async Task<string> ClickCopyButton(IFrame frame)
+        {
+            await CommonEntryHelpers.ClickAsync(
+                frame,
+               CommonEntrySelectors.CommonEntryButtons.CopyButton.Selector,
+                "✅ Clicked Copy button");
+
+            return "Clicked";
         }
 
     }

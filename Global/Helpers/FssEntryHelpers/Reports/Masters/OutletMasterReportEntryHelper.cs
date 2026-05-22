@@ -26,18 +26,18 @@ namespace PlaywrightWDE.Global.Helpers {
             await CommonEntryActions.ClickExecuteAsync(frame);
             await CommonEntryActions.ClickMoreAsync(frame);
             await CommonEntryActions.ClickChooseLayoutAsync(frame);
-            await MasterReportsEntryActions.ClickFindAsync(frame);
+            await CommonEntryActions.ClickFindAsync(frame);
             await CommonEntryActions.EnterFieldAsync(frame, MasterReportsEntrySelector.MasterReportFields.SearchTermField.Selector, "/SSDI_ALL");
-            await MasterReportsEntryActions.SearchSelectDirectionValueAsync(frame);
-            await MasterReportsEntryActions.ClickOkFindAsync(frame);
-            await MasterReportsEntryActions.ClickCancelEscapeButtonAsync(frame);
-            await MasterReportsEntryActions.ClickSsdiAllOutletAsync(frame);
+            await CommonEntryActions.SearchSelectDirectionValueAsync(frame);
+            await CommonEntryActions.ClickOkFindAsync(frame);
+            await CommonEntryActions.ClickCancelEscapeButtonAsync(frame);
+            await CommonEntryActions.ClickSsdiAllOutletAsync(frame);
             await CommonEntryActions.ClickMenuAsync(frame);
             await CommonEntryActions.HoverListAsync(frame);
             await CommonEntryActions.HoverExportAsync(frame);
             await CommonEntryActions.ClickSpreadsheetAsync(frame);
 
-            await MasterReportsEntryActions.EnterCustomFileNameAsync(frame, $"OUTLETMASTER_REPORT_{siteCode}");
+            await CommonEntryActions.EnterCustomFileNameAsync(frame, $"OUTLETMASTER_REPORT_{siteCode}");
 
             return await CommonEntryActions.ClickOkAsync(page, frame, CommonEntryHelpers.ReportType.OutletMaster, siteCode);
 

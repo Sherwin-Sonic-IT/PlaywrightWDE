@@ -43,7 +43,7 @@ namespace PlaywrightWDE.Global.Helpers {
             await CommonEntryActions.HoverExportAsync(frame);
             await CommonEntryActions.ClickSpreadsheetAsync(frame);
 
-            await MasterReportsEntryActions.EnterCustomFileNameAsync(frame, "GOODRECEIPT_REPORT");
+            await CommonEntryActions.EnterCustomFileNameAsync(frame, "GOODRECEIPT_REPORT");
 
             return await CommonEntryActions.ClickOkAsync(page, frame, null);
 

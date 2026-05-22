@@ -6,6 +6,7 @@ using PlaywrightWDE.Global.Navigation;
 using PlaywrightWDE.Global.Selectors;
 using PlaywrightWDE.Global.Helpers;
 using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.Navigations;
 
 namespace PlaywrightWDE.Actions
 {

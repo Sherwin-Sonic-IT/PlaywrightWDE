@@ -29,11 +29,6 @@ namespace PlaywrightWDE.Global.Selectors {
             public static readonly ButtonEntry OkFindButton = new("div[title='OK (Enter)']", "");
             public static readonly ButtonEntry CancelEscapeButton = new("#M2\\:37\\:\\:btn\\[12\\]", "");
             
-            // public static readonly ButtonEntry VscrollPrevButton291 = new("#C291_vscroll-Prev", "");
-            // public static readonly ButtonEntry VscrollPrevButton121 = new("#C121_vscroll-Prev", "");
-            // public static readonly ButtonEntry VscrollNextButton291 = new("#C291_vscroll-Nxt", "");
-            // public static readonly ButtonEntry VscrollNextButton120 = new("#C120_vscroll-Nxt", "");
-            // public static readonly ButtonEntry VscrollNextButton121 = new("#C121_vscroll-Nxt", "");
         }
 
         public static class MasterReportRadioButtons {
@@ -41,7 +36,7 @@ namespace PlaywrightWDE.Global.Selectors {
         }
 
         public static class MasterReportEntryMenuItems {
-            public static readonly MenuItemEntry SearchDirectionItem = new("div.lsListbox__values div.lsListbox__value[data-itemindex='0']", "");
+            public static readonly MenuItemEntry SearchDirectionItem = new("xpath=//*[contains(normalize-space(.),'From Start of Table')]", "");
 
         }
 
