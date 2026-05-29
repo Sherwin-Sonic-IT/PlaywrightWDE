@@ -8,13 +8,14 @@ namespace PlaywrightWDE.Global.FilePath
     {
         public static string Desktop => Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
-        public static string ExtractedData => Path.Combine(Desktop, "ExtractedData");
+       public static string _baseLogPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "Logs", "Extracted_ISR");
+        // public static string ExtractedData => Path.Combine(Desktop, "ExtractedData");
 
         public static string GetDatedExportFolder(DateTime date)
         {
             var monthName = date.ToString("MMMM");        
             var folderName = date.ToString("MM-dd-yyyy");
-            var exportPath = Path.Combine(ExtractedData, date.Year.ToString(), monthName, folderName);
+            var exportPath = Path.Combine(_baseLogPath, date.Year.ToString(), monthName, folderName);
 
             Directory.CreateDirectory(exportPath); 
             return exportPath;
