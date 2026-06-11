@@ -3,8 +3,8 @@ using System;
 using System.IO;
 using System.Threading.Tasks;
 using PlaywrightWDE.Global.Selectors;
-using PlaywrightWDE.Global.FilePath;
-using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.FilePath;
+using PlaywrightWDE.Logs;
 using PlaywrightWDE.Global.Helpers;
 using System.Globalization;
 

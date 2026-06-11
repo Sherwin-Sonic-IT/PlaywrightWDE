@@ -117,7 +117,7 @@
 using Microsoft.Playwright;
 using System;
 using System.Threading.Tasks;
-using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.Logs;
 using PlaywrightWDE.Global.Selectors;
 
 namespace PlaywrightWDE.Global.Helpers

@@ -17,7 +17,6 @@ namespace PlaywrightWDE.Global.Helpers
             var frame = await IFrameHelpers.GetDashboardReportIFrameAsync(page)
                    ?? throw new Exception("❌ Report frame not found");
 
-            // await CommonEntryActions.EnterFieldAsync(frame, SalesmanDailySalesReportEntrySelector.SalesmanDailySalesReportRepFields.SiteField.Selector, siteCode);
             await CommonEntryActions.EnterFieldAsync(frame, SalesmanDailySalesReportEntrySelector.SalesmanDailySalesReportRepFields.InvoiceDateField.Selector,
                   SalesmanDailySalesReportEntrySelector.SalesmanDailySalesReportRepFields.InvoiceDateField.DefaultValue);
             await CommonEntryActions.ClickExecuteAsync(frame);

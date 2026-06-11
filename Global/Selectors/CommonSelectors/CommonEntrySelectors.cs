@@ -21,6 +21,9 @@ namespace PlaywrightWDE.Global.Selectors {
             public static readonly FieldEntry DateField = new("input[lsdata*='S_ERDAT-LOW']", DateTime.Now.AddDays(-1).ToString("dd.MM.yyyy"));
             public static readonly FieldEntry SalesmanCodeFromField = new("#M0\\:46\\:\\:\\:3\\:34", "");
             public static readonly FieldEntry SalesmanCodeToField   = new("#M0\\:46\\:\\:\\:3\\:59", "");
+
+             public static readonly FieldEntry CalendarField = new("#DLG_VARIABLE_vsc_cvl_VAR_4_INPUT_inp", DateTime.Now.AddDays(-1).ToString("dd.MM.yy"));
+            // public static readonly FieldEntry CalendarField = new("#DLG_VARIABLE_vsc_cvl_VAR_4_INPUT_inp", "29.05.26"); // specifc date
         }
 
         public static class CommonEntryButtons 
@@ -41,8 +44,6 @@ namespace PlaywrightWDE.Global.Selectors {
             public static readonly ButtonEntry CopyButton = new("span#btnSH1_copy-r", "");
 
             public static readonly ButtonEntry ScrollSap4ToBottom = new("table#SHresultgrid1-mrss-cont-left-content tbody tr", "");
-
-            // public static readonly ButtonEntry LsScrollbarNext = new("div[acf='Nxt'].lsScrollbar__button--next", "");
         } 
 
         public static class CommonEntryMenuItems

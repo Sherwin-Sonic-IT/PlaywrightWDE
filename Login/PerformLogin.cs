@@ -4,7 +4,7 @@ using System;
 using System.Threading.Tasks;
 using PlaywrightWDE.Global.Selectors;
 using PlaywrightWDE.WebURL;
-using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.Logs;
 
 namespace PlaywrightWDE.Login
 {

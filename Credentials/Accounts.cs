@@ -26,7 +26,7 @@ namespace PlaywrightWDE.Credentials
         private static Account Create(AccountType type) => type switch
         {
             AccountType.HPC =>
-                new(type, "4048SONS09", "ITEM_hpc@1127", "It@020526"),
+                new(type, "4048SONS09", "ITEM_hpc@0603", "It@050726"),
 
             AccountType.FIGL =>
                 new(type, "4048SONFI2", "INVacc#26@2025", "SONic1#@2026"),

@@ -3,7 +3,7 @@ using System;
 using System.Threading.Tasks;
 using PlaywrightWDE.Global.Selectors;
 using PlaywrightWDE.Global.Entry;
-using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.Logs;
 
 
 namespace PlaywrightWDE.Global.Helpers
@@ -23,3 +23,4 @@ namespace PlaywrightWDE.Global.Helpers
         }
     }
 }
+

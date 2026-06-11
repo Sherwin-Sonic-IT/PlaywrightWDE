@@ -3,7 +3,7 @@ using System;
 using System.Threading.Tasks;
 using PlaywrightWDE.Global.Helpers;
 using PlaywrightWDE.Global.Selectors;
-using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.Logs;
 
 namespace PlaywrightWDE.Global.Entry {
 
@@ -85,23 +85,24 @@ namespace PlaywrightWDE.Global.Entry {
         CommonEntryHelpers.ReportType? reportType = null,
         string? siteCode = null)
         {
-            var calendarValue = DailySalesSummaryReportEntrySelector
-                                    .DailySalesSummaryRepFields
-                                    .CalendarField
-                                    .DefaultValue;
 
+             var calendarField =
+                CommonEntrySelectors.CommonEntryFields
+                    .CalendarField
+                    .DefaultValue;
+           
             if (!DateTime.TryParseExact(
-                    calendarValue,
+                    calendarField,
                     "dd.MM.yy",
                     null,
                     System.Globalization.DateTimeStyles.None,
-                    out var date))
+                    out var extractedDate))
             {
-                date = DateTime.Now;
+                extractedDate = DateTime.Now;
                 Logger.Log("⚠️ Calendar parse failed, using today");
             }
 
-            var exportFolder = FilePath.FilePath.GetDatedExportFolder(date);
+            var exportFolder = FilePath.FilePath.GetDatedExportFolder(extractedDate);
             var stagingFolder = Path.Combine(exportFolder, "staging");
             Directory.CreateDirectory(stagingFolder);
 

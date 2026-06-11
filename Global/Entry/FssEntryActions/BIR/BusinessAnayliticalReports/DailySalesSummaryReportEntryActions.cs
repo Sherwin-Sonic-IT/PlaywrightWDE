@@ -4,8 +4,8 @@ using System;
 using System.IO;
 using System.Threading.Tasks;
 using PlaywrightWDE.Global.Selectors;
-using PlaywrightWDE.Global.FilePath;
-using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.FilePath;
+using PlaywrightWDE.Logs;
 using PlaywrightWDE.Global.Helpers;
 using System.Globalization;
 
@@ -93,9 +93,9 @@ namespace PlaywrightWDE.Global.Entry
 
         public static async Task<string> ExportToExcelAsync(IFrame frame)
         {
-            var calendarField =
-                DailySalesSummaryReportEntrySelector
-                    .DailySalesSummaryRepFields
+
+             var calendarField =
+                CommonEntrySelectors.CommonEntryFields
                     .CalendarField
                     .DefaultValue;
 

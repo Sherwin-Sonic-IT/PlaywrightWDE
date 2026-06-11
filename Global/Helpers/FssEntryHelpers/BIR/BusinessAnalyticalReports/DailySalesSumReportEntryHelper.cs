@@ -31,8 +31,8 @@ namespace PlaywrightWDE.Global.Helpers
 
             await DailySalesSummaryReportEntryActions.EnterFieldAsync(
                 frame,
-                DailySalesSummaryReportEntrySelector.DailySalesSummaryRepFields.CalendarField.Selector,
-                DailySalesSummaryReportEntrySelector.DailySalesSummaryRepFields.CalendarField.DefaultValue);
+                CommonEntrySelectors.CommonEntryFields.CalendarField.Selector,
+                CommonEntrySelectors.CommonEntryFields.CalendarField.DefaultValue);
 
             await DailySalesSummaryReportEntryActions.ClickOkAsync(frame);
 

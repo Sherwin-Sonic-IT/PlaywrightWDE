@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using PlaywrightWDE.Global.Helpers;
 using PlaywrightWDE.Global.Selectors;
 using PlaywrightWDE.Global.Entry;
-using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.Logs;
 
 namespace PlaywrightWDE.Global.Helpers
 {
@@ -17,7 +17,6 @@ namespace PlaywrightWDE.Global.Helpers
             var frame = await IFrameHelpers.GetDashboardReportIFrameAsync(page)
                    ?? throw new Exception("❌ Report frame not found");
 
-            // await CommonEntryActions.EnterFieldAsync(frame, CommonEntrySelectors.CommonEntryFields.SiteField.Selector, siteCode);
             await CommonEntryActions.EnterFieldAsync(frame, CommonEntrySelectors.CommonEntryFields.InvoiceDateField.Selector, DateTime.Now.AddDays(-1).ToString("dd.MM.yyyy"));
             await CommonEntryActions.EnterFieldAsync(frame, CommonEntrySelectors.CommonEntryFields.SalesmanCodeFromField.Selector, "");
             await CommonEntryActions.SalesmanCodeFromF4Button(frame);

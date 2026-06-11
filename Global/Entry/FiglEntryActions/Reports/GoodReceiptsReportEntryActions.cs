@@ -3,7 +3,7 @@ using Microsoft.Playwright;
 using System;
 using System.Threading.Tasks;
 using PlaywrightWDE.Global.Selectors;
-using PlaywrightWDE.Global.Logs;
+using PlaywrightWDE.Logs;
 using PlaywrightWDE.Global.Helpers;
 
 namespace PlaywrightWDE.Global.Entry

@@ -15,8 +15,8 @@ namespace PlaywrightWDE.Global.Selectors {
             public static readonly FieldEntry CountryField  = new("#DLG_VARIABLE_vsc_cvl_VAR_1_INPUT_inp", "PH");
             public static readonly FieldEntry SiteField  = new("#DLG_VARIABLE_vsc_cvl_VAR_2_INPUT_inp", "4048");
             public static readonly FieldEntry DistributorField = new("#DLG_VARIABLE_vsc_cvl_VAR_3_INPUT_inp", "");
-            public static readonly FieldEntry CalendarField = new("#DLG_VARIABLE_vsc_cvl_VAR_4_INPUT_inp", DateTime.Now.AddDays(-1).ToString("dd.MM.yy"));
-            // public static readonly FieldEntry CalendarField = new("#DLG_VARIABLE_vsc_cvl_VAR_4_INPUT_inp", "22.05.26"); // specifc date
+            // public static readonly FieldEntry CalendarField = new("#DLG_VARIABLE_vsc_cvl_VAR_4_INPUT_inp", DateTime.Now.AddDays(-1).ToString("dd.MM.yy"));
+            // public static readonly FieldEntry CalendarField = new("#DLG_VARIABLE_vsc_cvl_VAR_4_INPUT_inp", "29.05.26"); // specifc date
             public static readonly string[] DistributorSites = { "4049", "4A48", "4B48", "4C48", "4536", "4537" };
         }
 
