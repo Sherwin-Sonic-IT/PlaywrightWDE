@@ -80,7 +80,7 @@ public static class ConvertToAPITemplate
 
         string outputPath = Path.Combine(
             outputFolder,
-            $"PjpPlanUploaderTemplate__{DateTime.Now:yyyy-MM-dd}.xlsx");
+            $"PjpPlanUploaderTemplate.xlsx");
 
         apiWorkbook.SaveAs(outputPath);
         return outputPath;

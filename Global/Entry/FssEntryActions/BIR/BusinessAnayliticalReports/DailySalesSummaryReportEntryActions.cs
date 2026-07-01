@@ -91,7 +91,7 @@ namespace PlaywrightWDE.Global.Entry
 
         /* -------------------- Export -------------------- */
 
-        public static async Task<string> ExportToExcelAsync(IFrame frame)
+        public static async Task<string> ExportToExcelAsync(IFrame frame, string fileName)
         {
 
              var calendarField =
@@ -120,7 +120,7 @@ namespace PlaywrightWDE.Global.Entry
             var tempFilePath = Path.Combine(exportFolder, Path.GetRandomFileName() + ".xls");
             await download.SaveAsAsync(tempFilePath);
 
-          var xlsxFileName = $"DAILY_INVOICE_REPORT_{extractedDate:yyyy-MM-dd}.xlsx";
+          var xlsxFileName = $"{fileName}_{extractedDate:yyyy-MM-dd}.xlsx";
 
             var xlsxFilePath = Path.Combine(exportFolder, xlsxFileName);
 

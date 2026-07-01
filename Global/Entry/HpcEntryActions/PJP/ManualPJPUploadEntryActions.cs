@@ -38,12 +38,6 @@ namespace PlaywrightWDE.Global.Entry
                     .CalendarField
                     .DefaultValue;
 
-                // var calendarField =
-                // DailySalesSummaryReportEntrySelector
-                //     .DailySalesSummaryRepFields
-                //     .CalendarField
-                //     .DefaultValue;
-
             if (!DateTime.TryParseExact(
                     calendarField,
                     "dd.MM.yy",
@@ -73,41 +67,11 @@ namespace PlaywrightWDE.Global.Entry
             await download.SaveAsAsync(isrPath);
             Logger.Log($"✅ ISR file downloaded: {isrPath}");
 
-            // Convert ISR template to API template
             string apiFilePath = ConvertToAPITemplate.ConvertToApiTemplate(isrPath, exportFolder);
             Logger.Log($"✅ API template generated: {apiFilePath}");
 
             return apiFilePath;
         }
-
-        // public static async Task<string> ClickDownloadAsync(IPage page, IFrame frame)
-        // {
-        //     var exportFolder = FilePath.FilePath.GetDatedExportFolder(DateTime.Now);
-
-        //     string datePart = DateTime.Now.ToString("yyyy-MM-dd");
-            
-        //     var downloadTask = page.WaitForDownloadAsync();
-
-        //     await CommonEntryHelpers.ClickAsync(
-        //         frame,
-        //         ManualPJPUploadEntrySelector.ManualPJPUploadButtons.Download.Selector,
-        //         "✅ Clicked Download"
-        //     );
-
-        //     var download = await downloadTask;
-
-        //     string extension = Path.GetExtension(download.SuggestedFilename);
-
-        //     string newFileName = $"PjpPlanUploaderTemplate__{datePart}{extension}";
-
-        //     var downloadPath = Path.Combine(exportFolder, newFileName);
-
-        //     await download.SaveAsAsync(downloadPath);
-
-        //     Logger.Log($"✅ Download completed: {downloadPath}");
-
-        //     return downloadPath;
-        // }
 
     }
 }

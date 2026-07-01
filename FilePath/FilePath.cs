@@ -1,49 +1,4 @@
 
-// using System;
-// using System.IO;
-
-// namespace PlaywrightWDE.FilePath
-// {
-//     public static class FilePath
-//     {
-//         public static string Desktop => Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-
-//        public static string _baseLogPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "Logs", "Extracted_ISR");
-
-//         public static string GetDatedExportFolder(DateTime date)
-//         {
-//             var monthName = date.ToString("MMMM");        
-//             var folderName = date.ToString("MM-dd-yyyy");
-//             var exportPath = Path.Combine(_baseLogPath, date.Year.ToString(), monthName, folderName);
-
-//             Directory.CreateDirectory(exportPath); 
-//             return exportPath;
-//         }
-
-//         public static string GetDatedLogsFolder(DateTime date)
-//         {
-//             var targetDate = date.AddDays(-1);
-
-//             var monthName = targetDate.ToString("MMMM");
-//             var folderName = targetDate.ToString("MM-dd-yyyy");
-//             var logsPath = Path.Combine(Desktop, "PlaywrightWDE", "Global", "Logs", targetDate.Year.ToString(), monthName, folderName, "logs.txt");
-
-//             Directory.CreateDirectory(logsPath);
-//             return logsPath;
-//         }
-
-//         public static string GetLogsFilePath(DateTime date)
-//         {
-//             var logsFolder = GetDatedLogsFolder(date);
-//             return Path.Combine(logsFolder, "logs.txt");
-//         }
-//     }
-// }
-
-
-
-
-
 using System;
 using System.IO;
 using PlaywrightWDE.Global.Selectors;

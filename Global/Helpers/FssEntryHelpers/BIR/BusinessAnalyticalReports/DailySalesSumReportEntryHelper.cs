@@ -51,7 +51,7 @@ namespace PlaywrightWDE.Global.Helpers
                 DailySalesSummaryReportEntrySelector.DailySalesSummaryRepChangeDrillDown.InvoiceNo.Selector,
                 DailySalesSummaryReportEntrySelector.DailySalesSummaryRepChangeDrillDown.InvoiceNo.DisplayName);
 
-           return await DailySalesSummaryReportEntryActions.ExportToExcelAsync(frame);
+           return await DailySalesSummaryReportEntryActions.ExportToExcelAsync(frame, "DAILY_INVOICE_REPORT");
         }
     }
 }
